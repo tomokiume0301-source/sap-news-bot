@@ -1,285 +1,324 @@
-#!/usr/bin/env python3
-from __future__ import annotations
-
+import os
+import json
 import csv
 import html
-import json
-import os
 import re
-import sys
-import textwrap
-import urllib.parse
-import urllib.request
-import xml.etree.ElementTree as ET
-from dataclasses import dataclass, asdict
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-from pathlib import Path
-from typing import Iterable, Optional
+from urllib.parse import urlparse, parse_qs, unquote
 
+import feedparser
+import requests
+from openai import OpenAI
+
+
+# =========================
+# 基本設定
+# =========================
 JST = timezone(timedelta(hours=9))
-USER_AGENT = "Mozilla/5.0 (compatible; SAPNewsDigest/1.0; +https://github.com/)"
-DEFAULT_OUTPUT = Path("output")
-
-FEEDS = [
-    {
-        "name": "SAP News Center",
-        "url": "https://news.sap.com/feed/",
-        "category": "official",
-    },
-    {
-        "name": "Google News - SAP",
-        "url": "https://news.google.com/rss/search?q=SAP+when:2d&hl=en-US&gl=US&ceid=US:en",
-        "category": "web",
-    },
+OUTPUT_DIR = "output"
+RSS_URLS = [
+    "https://news.sap.com/feed/",
+    "https://news.google.com/rss/search?q=SAP&hl=ja&gl=JP&ceid=JP:ja",
+    "https://news.google.com/rss/search?q=SAP%20software&hl=en-US&gl=US&ceid=US:en",
 ]
 
-KEYWORDS = {
-    "AI": ["ai", "joule", "generative", "genai", "agent"],
-    "Cloud": ["cloud", "s/4hana", "rise with sap", "erp", "hana"],
-    "HR": ["successfactors", "recruit", "hcm", "hr"],
-    "Finance": ["finance", "revenue", "earnings", "forecast", "margin"],
-    "Partnership": ["partner", "partnership", "alliance", "integration"],
-    "Customer Story": ["customer", "transformation", "deployed", "secures", "optimizes"],
-}
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+LINE_CHANNEL_ACCESS_TOKEN = os.getenv("LINE_CHANNEL_ACCESS_TOKEN")
+LINE_TO_USER_ID = os.getenv("LINE_TO_USER_ID")
 
-@dataclass
-class Article:
-    title: str
-    url: str
-    source: str
-    published_jst: str
-    published_date_jst: str
-    category: str
-    tags: list[str]
-    summary: str
+client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
 
-def fetch_bytes(url: str) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read()
+# =========================
+# ユーティリティ
+# =========================
+def ensure_output_dir():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
-def parse_feed_date(text: str) -> Optional[datetime]:
-    if not text:
-        return None
-    text = text.strip()
+def yesterday_range_jst():
+    now_jst = datetime.now(JST)
+    today_jst = now_jst.date()
+    yesterday_jst = today_jst - timedelta(days=1)
+
+    start = datetime(yesterday_jst.year, yesterday_jst.month, yesterday_jst.day, 0, 0, 0, tzinfo=JST)
+    end = start + timedelta(days=1)
+    return start, end
+
+
+def parse_entry_datetime(entry):
+    candidates = []
+
+    if getattr(entry, "published", None):
+        candidates.append(entry.published)
+    if getattr(entry, "updated", None):
+        candidates.append(entry.updated)
+    if getattr(entry, "created", None):
+        candidates.append(entry.created)
+
+    for value in candidates:
+        try:
+            dt = parsedate_to_datetime(value)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(JST)
+        except Exception:
+            pass
+
+    return None
+
+
+def extract_real_url(url):
+    """
+    Google News RSSのリンクは中継URLのことがあるので、
+    可能なら元URLっぽいものを抜く。
+    """
     try:
-        dt = parsedate_to_datetime(text)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(JST)
-    except Exception:
-        pass
-    try:
-        dt = datetime.fromisoformat(text.replace("Z", "+00:00"))
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(JST)
-    except Exception:
-        return None
+        parsed = urlparse(url)
+        qs = parse_qs(parsed.query)
 
+        for key in ("url", "u"):
+            if key in qs and qs[key]:
+                return unquote(qs[key][0])
 
-def unwrap_google_news(url: str) -> str:
-    parsed = urllib.parse.urlparse(url)
-    if "news.google.com" not in parsed.netloc:
         return url
-    qs = urllib.parse.parse_qs(parsed.query)
-    if "url" in qs and qs["url"]:
-        return qs["url"][0]
-    return url
+    except Exception:
+        return url
 
 
-def extract_source(item: ET.Element, fallback: str) -> str:
-    source = item.findtext("source")
-    if source:
-        return source.strip()
-    ns_source = item.findtext("{http://search.yahoo.com/mrss/}source")
-    if ns_source:
-        return ns_source.strip()
-    title = item.findtext("title") or fallback
-    m = re.search(r"\s+-\s+([^\-]+)$", title)
-    return m.group(1).strip() if m else fallback
-
-
-def clean_text(text: str) -> str:
+def strip_html(text):
     if not text:
         return ""
-    text = html.unescape(re.sub(r"<[^>]+>", " ", text))
+    text = html.unescape(text)
+    text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
 
-def make_summary(title: str, desc: str) -> str:
-    base = clean_text(desc)
-    if not base:
-        return "要約なし"
-    if title and base.lower().startswith(title.lower()):
-        base = base[len(title):].strip(" -:–")
-    return textwrap.shorten(base, width=180, placeholder="…")
+def normalize_title(title):
+    title = (title or "").strip().lower()
+    title = re.sub(r"\s+", " ", title)
+    return title
 
 
-def infer_tags(title: str, summary: str) -> list[str]:
-    hay = f"{title} {summary}".lower()
-    tags = [label for label, words in KEYWORDS.items() if any(w in hay for w in words)]
-    return tags[:3] or ["General"]
+def summarize_to_japanese(title, summary, source, link):
+    """
+    記事タイトル・要約文をもとに、日本語で短く要約する。
+    """
+    base_text = f"""
+以下のニュース情報を、日本語で簡潔に要約してください。
+
+条件:
+- 2〜3文
+- ビジネス視点で重要点のみ
+- 誇張しない
+- 不明なことは書かない
+- 日本語として自然に
+- 1文目で何が起きたか
+- 2文目で企業・市場への意味合い
+
+タイトル: {title}
+要約文: {summary}
+媒体: {source}
+URL: {link}
+""".strip()
+
+    if not client:
+        return "要約未生成（OPENAI_API_KEY未設定）"
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "あなたは企業ニュースを簡潔に整理する編集者です。事実ベースで日本語要約してください。"
+                },
+                {
+                    "role": "user",
+                    "content": base_text
+                }
+            ],
+            temperature=0.2,
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        return f"要約生成エラー: {str(e)}"
 
 
-def normalize_url(url: str) -> str:
-    parsed = urllib.parse.urlparse(url)
-    q = urllib.parse.parse_qsl(parsed.query, keep_blank_values=True)
-    q = [(k, v) for k, v in q if not k.startswith("utm_")]
-    normalized = parsed._replace(query=urllib.parse.urlencode(q), fragment="")
-    return urllib.parse.urlunparse(normalized)
+def fetch_articles():
+    start_jst, end_jst = yesterday_range_jst()
+    seen = set()
+    results = []
 
+    for rss_url in RSS_URLS:
+        feed = feedparser.parse(rss_url)
 
-def iter_items(feed_bytes: bytes) -> Iterable[ET.Element]:
-    root = ET.fromstring(feed_bytes)
-    channel = root.find("channel")
-    if channel is not None:
-        yield from channel.findall("item")
-        return
-    ns = {"atom": "http://www.w3.org/2005/Atom"}
-    yield from root.findall("atom:entry", ns)
+        for entry in feed.entries:
+            dt_jst = parse_entry_datetime(entry)
+            if not dt_jst:
+                continue
 
+            if not (start_jst <= dt_jst < end_jst):
+                continue
 
-def parse_article(item: ET.Element, feed_name: str, category: str) -> Optional[Article]:
-    title = clean_text(item.findtext("title"))
-    link = item.findtext("link") or ""
-    link = unwrap_google_news(link.strip())
-    link = normalize_url(link)
-    published = (
-        item.findtext("pubDate")
-        or item.findtext("published")
-        or item.findtext("updated")
-        or ""
-    )
-    dt = parse_feed_date(published)
-    if not title or not link or not dt:
-        return None
-    desc = item.findtext("description") or item.findtext("summary") or ""
-    summary = make_summary(title, desc)
-    source = extract_source(item, feed_name)
-    return Article(
-        title=title,
-        url=link,
-        source=source,
-        published_jst=dt.strftime("%Y-%m-%d %H:%M JST"),
-        published_date_jst=dt.strftime("%Y-%m-%d"),
-        category=category,
-        tags=infer_tags(title, summary),
-        summary=summary,
-    )
+            title = getattr(entry, "title", "").strip()
+            link = extract_real_url(getattr(entry, "link", "").strip())
+            summary = strip_html(getattr(entry, "summary", "") or getattr(entry, "description", ""))
+            source = ""
 
+            if getattr(entry, "source", None):
+                if isinstance(entry.source, dict):
+                    source = entry.source.get("title", "")
+                else:
+                    source = str(entry.source)
 
-def collect_articles(target_date_jst: str) -> list[Article]:
-    results: list[Article] = []
-    seen: set[str] = set()
-    seen_titles: set[str] = set()
+            if not source:
+                source = urlparse(link).netloc or "unknown"
 
-    for feed in FEEDS:
-        try:
-            raw = fetch_bytes(feed["url"])
-            for item in iter_items(raw):
-                article = parse_article(item, feed["name"], feed["category"])
-                if article is None:
-                    continue
-                if article.published_date_jst != target_date_jst:
-                    continue
-                key = article.url.lower()
-                title_key = re.sub(r"\W+", "", article.title.lower())
-                if key in seen or title_key in seen_titles:
-                    continue
-                seen.add(key)
-                seen_titles.add(title_key)
-                results.append(article)
-        except Exception as e:
-            print(f"[WARN] feed fetch failed: {feed['name']} - {e}", file=sys.stderr)
+            dedupe_key = (normalize_title(title), link)
+            if dedupe_key in seen:
+                continue
+            seen.add(dedupe_key)
 
-    results.sort(key=lambda x: (x.published_jst, x.source, x.title), reverse=True)
+            ja_summary = summarize_to_japanese(title, summary, source, link)
+
+            results.append({
+                "published_jst": dt_jst.strftime("%Y-%m-%d %H:%M:%S JST"),
+                "title": title,
+                "source": source,
+                "link": link,
+                "summary_en_or_original": summary,
+                "summary_ja": ja_summary,
+            })
+
+    results.sort(key=lambda x: x["published_jst"], reverse=True)
     return results
 
 
-def write_json(path: Path, articles: list[Article], target_date_jst: str) -> None:
-    payload = {
-        "target_date_jst": target_date_jst,
-        "generated_at_jst": datetime.now(JST).strftime("%Y-%m-%d %H:%M:%S JST"),
-        "count": len(articles),
-        "articles": [asdict(a) for a in articles],
-    }
-    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+def write_json(items):
+    path = os.path.join(OUTPUT_DIR, "sap_news.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(items, f, ensure_ascii=False, indent=2)
 
 
-def write_csv(path: Path, articles: list[Article]) -> None:
-    with path.open("w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.writer(f)
-        writer.writerow(["published_jst", "source", "category", "title", "tags", "summary", "url"])
-        for a in articles:
-            writer.writerow([a.published_jst, a.source, a.category, a.title, ", ".join(a.tags), a.summary, a.url])
-
-
-def write_markdown(path: Path, articles: list[Article], target_date_jst: str) -> None:
-    lines = [
-        f"# SAPニュース日次抽出レポート ({target_date_jst} JST)",
-        "",
-        f"- 生成日時: {datetime.now(JST).strftime('%Y-%m-%d %H:%M:%S JST')}",
-        f"- 件数: {len(articles)}件",
-        "- ソース: SAP News Center RSS / Google News RSS (SAP検索)",
-        "",
+def write_csv(items):
+    path = os.path.join(OUTPUT_DIR, "sap_news.csv")
+    fieldnames = [
+        "published_jst",
+        "title",
+        "source",
+        "link",
+        "summary_en_or_original",
+        "summary_ja",
     ]
-    if not articles:
-        lines += ["対象日の記事は見つかりませんでした。", ""]
+    with open(path, "w", encoding="utf-8-sig", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(items)
+
+
+def write_markdown(items):
+    start_jst, end_jst = yesterday_range_jst()
+    target_date = start_jst.date().isoformat()
+
+    path = os.path.join(OUTPUT_DIR, "sap_news.md")
+    lines = []
+    lines.append(f"# SAPニュースまとめ（{target_date}分 / JST基準）")
+    lines.append("")
+    lines.append(f"- 抽出件数: {len(items)}件")
+    lines.append("")
+
+    if not items:
+        lines.append("昨日公開分の記事は見つかりませんでした。")
     else:
-        for idx, a in enumerate(articles, start=1):
-            tags = " / ".join(a.tags)
-            lines += [
-                f"## {idx}. {a.title}",
-                f"- 公開: {a.published_jst}",
-                f"- ソース: {a.source}",
-                f"- 区分: {a.category}",
-                f"- タグ: {tags}",
-                f"- URL: {a.url}",
-                f"- 要約: {a.summary}",
-                "",
-            ]
-    path.write_text("\n".join(lines), encoding="utf-8")
+        for i, item in enumerate(items, start=1):
+            lines.append(f"## {i}. {item['title']}")
+            lines.append("")
+            lines.append(f"- 公開日時: {item['published_jst']}")
+            lines.append(f"- 媒体: {item['source']}")
+            lines.append(f"- URL: {item['link']}")
+            lines.append(f"- 日本語要約: {item['summary_ja']}")
+            lines.append("")
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
 
 
-def post_slack_if_configured(articles: list[Article], target_date_jst: str) -> None:
-    webhook = os.getenv("SLACK_WEBHOOK_URL", "").strip()
-    if not webhook:
+def build_line_message(items):
+    start_jst, _ = yesterday_range_jst()
+    target_date = start_jst.date().isoformat()
+
+    if not items:
+        return f"【SAPニュースまとめ】\n{target_date}（JST基準）\n昨日公開分の記事は見つかりませんでした。"
+
+    lines = [f"【SAPニュースまとめ】", f"{target_date}（JST基準）", ""]
+
+    max_items = min(len(items), 5)
+    for idx, item in enumerate(items[:max_items], start=1):
+        lines.append(f"{idx}. {item['title']}")
+        lines.append(f"要約: {item['summary_ja']}")
+        lines.append(f"URL: {item['link']}")
+        lines.append("")
+
+    if len(items) > max_items:
+        lines.append(f"ほか {len(items) - max_items} 件はGitHubの output/sap_news.md を確認してください。")
+
+    message = "\n".join(lines)
+
+    # LINEの可読性のため長すぎる場合は切る
+    if len(message) > 4500:
+        message = message[:4500] + "\n\n（長いため途中まで表示）"
+
+    return message
+
+
+def send_line_push_message(text):
+    if not LINE_CHANNEL_ACCESS_TOKEN:
+        print("LINE送信スキップ: LINE_CHANNEL_ACCESS_TOKEN 未設定")
         return
-    head = f"SAPニュース抽出 {target_date_jst} JST / {len(articles)}件"
-    if articles:
-        bullets = [f"• {a.title} ({a.source})" for a in articles[:10]]
-        text = head + "\n" + "\n".join(bullets)
-    else:
-        text = head + "\n対象記事なし"
-    data = json.dumps({"text": text}).encode("utf-8")
-    req = urllib.request.Request(webhook, data=data, headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=20):
-        pass
+
+    if not LINE_TO_USER_ID:
+        print("LINE送信スキップ: LINE_TO_USER_ID 未設定")
+        return
+
+    url = "https://api.line.me/v2/bot/message/push"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {LINE_CHANNEL_ACCESS_TOKEN}",
+    }
+    payload = {
+        "to": LINE_TO_USER_ID,
+        "messages": [
+            {
+                "type": "text",
+                "text": text
+            }
+        ]
+    }
+
+    response = requests.post(url, headers=headers, json=payload, timeout=30)
+    print(f"LINE response status: {response.status_code}")
+    print(response.text)
+    response.raise_for_status()
 
 
-def main() -> int:
-    out_dir = Path(os.getenv("OUTPUT_DIR", str(DEFAULT_OUTPUT)))
-    out_dir.mkdir(parents=True, exist_ok=True)
+def main():
+    if not OPENAI_API_KEY:
+        raise RuntimeError("OPENAI_API_KEY が未設定です。GitHub Secrets に登録してください。")
 
-    # default target = yesterday in JST
-    target_date_jst = os.getenv("TARGET_DATE_JST", "").strip()
-    if not target_date_jst:
-        target_date_jst = (datetime.now(JST) - timedelta(days=1)).strftime("%Y-%m-%d")
+    ensure_output_dir()
+    items = fetch_articles()
+    write_json(items)
+    write_csv(items)
+    write_markdown(items)
 
-    articles = collect_articles(target_date_jst)
-    write_json(out_dir / "sap_news.json", articles, target_date_jst)
-    write_csv(out_dir / "sap_news.csv", articles)
-    write_markdown(out_dir / "sap_news.md", articles, target_date_jst)
-    post_slack_if_configured(articles, target_date_jst)
+    line_message = build_line_message(items)
+    send_line_push_message(line_message)
 
-    print(f"done: {len(articles)} articles for {target_date_jst}")
-    return 0
+    print(f"Done. Collected {len(items)} articles.")
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    main()
