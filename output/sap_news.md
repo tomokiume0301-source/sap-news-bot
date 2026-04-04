@@ -1,73 +1,17 @@
-# SAPニュースまとめ（2026-04-03分 / JST基準）
+# SAPニュースまとめ（2026-04-04分 / JST基準）
 
-- 抽出件数: 10件
+- 抽出件数: 2件
 
-## 1. 電通総研、Panaya Japanが主催する「Partner Award 2025」において、3年連続で「Partner of the Year」を受賞 - ニコニコニュース
+## 1. SAP Shares Navigate Strategic Shift Amid Market Correction - AD HOC NEWS
 
-- 公開日時: 2026-04-03 23:45:28 JST
-- 媒体: ニコニコニュース
-- URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE43bjNpMFF3Q0d3V1VZSEhaUjI2dWFNTFV4eXhiODVaTXdZeFdoZl9aM1R3OGFBVFpiS1J1N2VNcU9zT0xqLUNKMzFURll0QmZUbEdaaHpHT3YtbnJLcjlFaC1ZUi1nMVBJX0VfZDJDYlBOYmlIaWdOamNxWQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 2. Asset Lifecycle Management Software Market Is Going to Boom |• IBM • SAP - openPR.com
-
-- 公開日時: 2026-04-03 23:37:57 JST
-- 媒体: openPR.com
-- URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUVpNlgzWm1Ob3ZpalFURnB0MXNTZHkxS0tibGRmek9TNXN6NTFweDZzSFlBdHBrNHM3MmV0Z2IwWHdiVVRWWmJfV2RPUlpNbGw4MElwMnNzT0VwNDFLbE11NmhVaFF3Mm93cWJFMEJTV2hzbmNRSG5xdXIxUFdTamRCa2dYVE8tV2xpbEJ0QV9vX2NselJjTFZhbw?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 3. Multi Carrier Shipping Software Market Is Booming Rapidly with - openPR.com
-
-- 公開日時: 2026-04-03 22:45:39 JST
-- 媒体: openPR.com
-- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNQV9zbFdEclhyMHJ2R25idGo1OWc2Y0pQZDlQMEhJRm93dUdyRWRaeVlsYWlZMXpDZjQ1ckwxc0F6VS1rVmxFakhFU3ZSS2VDQlZDMkxTOEczVDlpa3BpUG4yeU9HR3RqNm9sX21aUXpxdS1xRkxydGVTT3UwSFdOYnlIUXExZ2kzWkhVTm0xZFk3Rnl0dWhDWlNpc2lrS2s?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 4. Carbon Accounting Software Market Is Booming Rapidly with - openPR.com
-
-- 公開日時: 2026-04-03 18:32:25 JST
-- 媒体: openPR.com
-- URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXA1WkljSEhBRjYzeXZTOW5QSlhER1lNdTZtV0FmZlVtWjdvTDd4VjdKRUVkaGJCSGdzWU4yR3M0ak1WaHZnaThUM01pbWFNMTdFZ2JJWC1pbDhtQmtvNkxBNEdjNUNZUmVPUk1OM1VyYWswOVZ5MlpSZjNxSzBDWVh1UndvMXBLdkphY0RBX2pTOW1UQ19hQQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 5. 株式会社スクウェア・エニックス - wingarc.com
-
-- 公開日時: 2026-04-03 17:56:37 JST
-- 媒体: wingarc.com
-- URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GRGI4SGlGd2pfZ2dUdnVwNmhSa01lSmxiWE5mdjNWZ1RTUzUyZnVzZ2RQaXduX3BHbklOUkJmV3h2VkV5ZjBsMUZJOGhZWm0wVlZubzlDZGowcTBLcUE?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 6. Global Inventory Management Software Market to Reach USD 9.4 - openPR.com
-
-- 公開日時: 2026-04-03 16:32:05 JST
-- 媒体: openPR.com
-- URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1U1Vm9XQWVuTm5KR05wMXlEOXhwWUJJM2djSWNaYU5oWlRmWnU3cTJKSHR1cTZpQ05FTFJGM0c4Y0VQVzE3WGlMdkprbm05cjg1WHpzRm9FLUZDX2Fnbk8ybnNjOHZfWjlPWnlFSVQzZDdWTXZmSmxzQ3NxbFFxbGNkSDV1RTZaLTA3akFqMjVzbjdVTHFuRjdFQWY?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 7. SAP SE Stock: Enterprise Software Leader Driving Cloud Transformation for Long-Term Investor Value - AD HOC NEWS
-
-- 公開日時: 2026-04-03 14:58:41 JST
+- 公開日時: 2026-04-04 10:43:35 JST
 - 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxNVndoZ0lSZ0tiV2kyUlM1eTI4ZjhlelNNZzBubE9xekpaNE1rdFkzTEVuUXV4cXFZSEpqQkFNTE9abk9rdEhHUzdtbVNEZWNGYy1LRV9BTTFXcHNvODdPQ1Z3VVlLQzRfR1RBZzlpUlh1RW5TMjZnVmo2aWlpbndaaWFfODVHZkNBeElHS051a1MzTGlJRlJ3elQ0YWQwUXVTX05vam80ZkV0THJYUEtnMV9WYzFaRzFnNEZVUWpab05tLXVOeUlNeFBHQQ?oc=5
+- URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ09JenlzOUNxY3lvQjhvb3ZWSU1XRjNfTXhwLTlUb0VKaXdWbkx3WTMtd2U4YmV0Z0Q1Vl82SmN4MVdjbUtVUHVjdHlVZGVKQml6Y0JBSzJDYjV4RFdTVXdjaEZTSm9fdDR0TzdfUVBKSG1qY0FiWHB1aDY2UWR4c01FakRwRHRzVnNyS1hRdkc2VVJPUi1zV2k4VllHSm5ndHdaVWRWaUd2R0lNM2NjU1pR?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 8. スクウェア・エニックス、SAP S/4HANAへの基幹システム刷新にともない帳票基盤をクラウド化 - EnterpriseZine
+## 2. Click and Collect Software Market Next Big Thing | Major Giants Shopify, VTEX, SAP SE - openPR.com
 
-- 公開日時: 2026-04-03 12:14:46 JST
-- 媒体: EnterpriseZine
-- URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNVdRaTl6MExybnNNcWFPOU5TR1hnSXpmMmxwT2oyMl90Qy1vVzhwZGVnMU5GTFBET09UWjFReThlNWd0MEJtU2h1RmhsOVh2VmdGenV1X3RNUQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 9. 電通総研、Panaya Japanが主催する「Partner Award 2025」において、3年連続で「Partner of the Year」を受賞 - dentsusoken.com
-
-- 公開日時: 2026-04-03 11:02:16 JST
-- 媒体: dentsusoken.com
-- URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE45Q0ozenJQTDNfYmU3UzNyNFJadEZlUFljOU01YVdYaWRhdHFTSGg3QTlhdThDRGVjZW9aZGtrQzJxRDEyRVl4dXR4c2FpajhGaXVzblB6TVZ3TVBYTDZRMmFLTlA?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 10. アイ・ピー・エスが4月22日「中堅企業が経営効果を出すERP導入【2026年版】」・6月5日「その見直し、老朽化・保守 - ニコニコニュース
-
-- 公開日時: 2026-04-03 09:03:14 JST
-- 媒体: ニコニコニュース
-- URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE5mQ21KUWNENGp2dU9DMnFfbFF2bVY3UkRSSlpEZ2xLVjhyRWFJQ0RNWkV2LWJaWkNzbHhyQS1XOVBEa1hzeU05MXJTRWw1RGZXZ3JId1ZwUVV1RXNwbWxTenFQeWFueFViU3FLdWNjQW51d2M2blJybEQwcw?oc=5
+- 公開日時: 2026-04-04 01:23:16 JST
+- 媒体: openPR.com
+- URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQb2taSVVscHZ4RmVXcEcxZVQ0Wi1WNFdiRmhGOGIyRlJZLTBBUU90aVp5TkxhM21aV1JXc2Q2cUUyZklIRXlubzFSaVFwN2VlMWM5a2JBUmliYzlFRk1kQ1FHREF5Znh6MjNPNjBkaHF4VmNCXzhXMzhSSFB4Tl9FenNhc2ZfTlYxQWlKQThvdjBtQ0VTa3NpTDJYeXdpUQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
