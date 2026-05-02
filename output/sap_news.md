@@ -1,129 +1,66 @@
-# SAPニュースまとめ（2026-05-01分 / JST基準）
+# SAPニュースまとめ（2026-05-02分 / JST基準）
 
-- 抽出件数: 18件
+- 抽出件数: 9件
 
-## 1. Close-up of a team doing fist bump - SAP News Center
+## 1. US Bancorp DE Sells 27,656 Shares of SAP SE $SAP - MarketBeat
 
-- 公開日時: 2026-05-01 23:52:58 JST
-- 媒体: SAP News Center
-- URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDZjeEdteEVyZV9JelZCdGNPRUNjTFIyd2VubTcyNEtzbGw5Zm9xUjNHS05iYmRqSkk2UTFpcVhMMXJMRzhmRmZrRnhGOVJjWms3UFpkR1ZyV1RGckpDQm1KQWJTMm13OGUtRElPU01nMkJLQ3M5QnBNbFUyeWw3aHROLVEzSy0wWmZMb1NnQkowYTRHWndmcWhISTVBNGVZb2ZKRFNhd2JMcnNDZ2ZZbUZR?oc=5
+- 公開日時: 2026-05-02 22:32:07 JST
+- 媒体: MarketBeat
+- URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMXhyNkhxeTBlaU1PUkFsUUxkVnpDV2JqcktrSDdzMU1HU2hTdzdUaFZiYXhhYzdpc3U0cDBjd0lUVEdBTTNFVU9vUTNGOWc0RVZjaklqWGh4WmF5NnUzQTlGRlM2YXlEMXV6TEJ1MnNDbU1jOGRTMFFxakFrcUN2YkdQU0h0cm9YSmR0SkVpMXpzX2NqNjhpa2RlZ1FuSzZDc3pPNUVBZ0Nad1U?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 2. SAP: How enterprise AI governance secures profit margins - AI News
+## 2. SAP’s API Tightening Puts a Spotlight on an Already Tense Shareholder Meeting - AD HOC NEWS
 
-- 公開日時: 2026-05-01 22:06:42 JST
-- 媒体: AI News
-- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkczRmd1NUhvUmlSUkpLV1ZETmlrMERaNTI4aEl1TkoyYUFpZWRFNGtCeHBmYWlXUFZYemdJUjg5Z2g2OS0tQnFCYlJRRWFEdVZKWjNSeTNJd1VGRE1fWnpmajZUcXhDZnZnY290bzZFRjBFdVZRa2tZdmx4QXp6VWNoSXJvc3pLU0tOSmpuVGF6TG9ldDc1dWhWbmZ3UGJNc3UwVy16RGc?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 3. Why U.S. companies are breaking SAP overhauls into smaller steps - Stock Titan
-
-- 公開日時: 2026-05-01 22:00:00 JST
-- 媒体: Stock Titan
-- URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEgxd3pfeFBXUjAyWWdKenlmTk0ySmhvd2R2ZTJyQ0FQeFcwbnExa1RtTzM4ZXNpZWNfb09WT1V2ZGxyUHh5VkNXZl9fR1BrSUMyZDlhWGhxdUtaNnRhQWhzY1R1QTdpSER5Rkhla3A1aXcySkY1TTNXSElFejNfcF9nZm02cjZ0Zkt1dnBoU0xDRGpIeDV4U1NqSDQ5R2hmX2liMzhvQlFJVkNuMlU3Wk5PYWItek1OR25n?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 4. SAP Faces Twin Headwinds: A Supply Chain Attack and a Bruised Share Price - AD HOC NEWS
-
-- 公開日時: 2026-05-01 21:42:22 JST
+- 公開日時: 2026-05-02 21:11:06 JST
 - 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWZOamxPbldoSmM3N2tOd1dXamR1Z3ItcjFYaHdfa3NLUldSV0FPdXY2ZHp3NVRHaHZYVnY2S01TYzh2STV5RS1Na0M0NDNRTjhGeWdJU2lhWHluN0ptc0JCSnJiMEU0UXdqMkFxOFFPbE4wbGx0OVR4UTJ2SENQSnlVSWg5MEZpWHMtMHY1X01YSUtVbGs5QVpUcEliX3h6ZGtsMnA5cmhYT212aDNCSG16bjBpcE5HejhOenpEUTZjT2o1SWxGSHFncw?oc=5
+- URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGppNW1tXzh5VkxrSUhxT0F4amp2THJPNGNWUFM2LTh6UV82b1pZc3NLVnN5dGRmQWs4Vmo0NG5Eb2RBOHhTT3diVE1SVFlvdkNHcWJLbnRvakJoelR2aWgxNVlLTl8wV3BVNWtVbzFxT3NuUjdpbTE0SWV1dGVCYXFxald2WXBuNmJ5Njk5VjFBck15OEdHRFlNR0VhLUZxaTBLdy1FSW5YQnNMR2p6LXBRQVJXTWlmUXVQM2RackdycXRQOVpZ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 5. SAP a Leader in IDC MarketScape: Carbon Accounting - SAP News Center
+## 3. Over 1,800 Developers Impacted in ‘Mini Shai-Hulud’ Supply Chain Attack Targeting SAP, Lightning, and Intercom - CXO Digitalpulse
 
-- 公開日時: 2026-05-01 21:20:21 JST
-- 媒体: SAP News Center
-- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXVZQXo4Y1pjaGQxUzJBeE45S01zM1pqOF9FOW0zRUx2MUtScUs4cFVYeml3TG1wa0t1R1dMQnB2WHZjNlJSR2pOckJseFJDLUxBQllxd2hlZk5fcGpFWUswUFlrZV9VY29GOGZ2WWd6SEJkejE2RmtVUkJ6UW9weDNNM3NYNjc0MkpTTkJwZmtjYXJkU3g0eUJZMDRMdFU?oc=5
+- 公開日時: 2026-05-02 20:41:17 JST
+- 媒体: CXO Digitalpulse
+- URL: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRjNTX2tidngwUVhwbEFBcVBQMlRSYkxYcmxuN3RDZmQ1d3dXdGUtNnRPaEQ2OUMzQmtja1FvRG05Ti1vLTZ4MzJPMk5uZmR2ZFAweGE5eHNYbnpRS1R2cFZJbDNlQTllX3VSaGNvcHFONzVRV2NwQWRtcWozTjBaTEp3OFd3eEV3M3c0SEdlblpWcFg2S1hXZ2FvZ2Jta0lDcmpPVi1HZU9RVnBHSzRLeU56NzBRaHc4U0lzMlZwMC1IQ2ZPQmdVNUkzeGxEOElQUkZqdA?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 6. SAP Named a Leader in the IDC MarketScape: Worldwide Carbon Accounting and Management Applications 2026 Vendor Assessment
+## 4. SAP Clean Core Partner Win Meets Valuation Gap And Mixed Momentum - simplywall.st
 
-- 公開日時: 2026-05-01 21:15:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/05/sap-leader-idc-marketscape-carbon-accounting-management-applications/
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 7. European software companies perform better than expected despite concerns over AI - TechCentral.ie
-
-- 公開日時: 2026-05-01 19:57:04 JST
-- 媒体: TechCentral.ie
-- URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXNSR0ViOEpFQi1uMFlxTUVGVTNqalJsTml5QWZzaVBEVTBSUjdFMjBzWkQ2ejBMcFZPOU1NYWVzclQ4WTBKQ1dDclpXT2JUeDBOZWlOLVpZNFhaSFlWUTJ0Z3YwTV9jNlhhZ21oZWRldVh3YzhuUHhVcFEtNnFWa3hfUmN6bFhCU3pCT3R1Y2xDb2RyM0NMdHpWUzdzcGktbnV2TFJfSVVNaXFvNmc?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 8. Agentic AI Will Change the Market - SAP News Center
-
-- 公開日時: 2026-05-01 19:20:21 JST
-- 媒体: SAP News Center
-- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE9mOGVTRGhFb0c1R1J0dlZUZGFhUmNMXzlDamVvbzhLX0tsV29RNWY2ZUtOS0ZMX2lNTXNxb3JCcmRUN3BTYWQwcUpoOW1BcUZkQTIydUU1Sndkdm01T0hjVW5rZC1ibU9hWUZoU0EwUHM?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 9. Agentic AI Will Change the Market
-
-- 公開日時: 2026-05-01 19:15:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/05/agentic-ai-will-change-the-market/
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 10. SAP’s Cloud Backlog Swells to €21.9 Billion, but a Cautious Outlook Keeps the Stock Under Pressu - AD HOC NEWS
-
-- 公開日時: 2026-05-01 18:40:44 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1NuYjlDZVdqMklKcndFalBaaTh0N1hWbXE4cXl3MVF3NmxSd3RVX0dkTGg5QmFXUVBGZi1vYU1ISnJZLUdSQ21Od0NDWDg4cG14RFU3VVRJdTJGOUxxZHlfdl9UR1NZbDlZWTA1MG5JWjNTN1hJX1huam9YMjFIX18tUkpKX2NkX3FSdlFNV1Y3VEotZmFOZVBsYUNzeC0ycmZ5RDl6SDZ6ZkNxcHpEcmF3azdMMTU1MEJlWUVweHJ3QQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 11. SAPやIntercom、Lightningの公式npmパッケージ改ざん 認証情報を窃取 - 디지털투데이
-
-- 公開日時: 2026-05-01 15:23:00 JST
-- 媒体: 디지털투데이
-- URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLW9Rb1hYbGpFcEhXcWVnZGtxR19nVU5DdnZUUXgyU0FNVWtSaWdpNkY2Z2s1Y3FuVzJmblJ2Z2JhdXhZdlZoSFdkRi1sZlNaSG56TWdGSTl1VjRHNVNGWkJaM3RrNzR4a2EydFZfSERiT2NmWUVjQmVLUEdFTjdvdGRwV1ctY3BocE1oN3JEUzZTUy1tTlhjdjFqSS1VbFFOUnRINmxGbkxvZ0tFUjF4TVBlN0tLbU0x?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 12. Supply chain attacks spread, SAP, Intercom and Lightning packages also hit - 디지털투데이
-
-- 公開日時: 2026-05-01 15:23:00 JST
-- 媒体: 디지털투데이
-- URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcTVQRFcySWh5aERlSGpXQmo4aWQ3c3ZzWElUZFJWV0ZDS1FZbVBGWHhnY1RIZXJaSVlHRi1kNTBvekdjT1BNQ0VQV1lzaUozeE51VGpaS2c2cndlZi1jRnd6MFRsSzBIYUEyWFh0TVBoVmloVzhqZEhYZjIzZG96dmdUQW9GYXotOTJWVmxrelhkeThyLUxTLTU3dWwydWYxUnRoWm1Jb3FMVG8xY0lLa0RBOHJvRlJU?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 13. SAP公式npmパッケージ4件、認証情報の窃取目論むサプライチェーン攻撃で侵害される - 株式会社マキナレコード
-
-- 公開日時: 2026-05-01 14:10:44 JST
-- 媒体: 株式会社マキナレコード
-- URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWtaMld4TWpPb2xwZXFyTElhRU9MV2RPZVo3UlM5UXVqMzdKZlN0UVlNZFljSFc1YVUwUzJnLUFkZkdDc09qaXJYMTlqMkpqdkhod204VGNmeEItNGp4VlFZckwybkJubFlsdll6QTJCTnR6dnJ6YXk4VzJwYUlqa3lmbkY?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 14. Why You Might Be Interested In SAP SE (ETR:SAP) For Its Upcoming Dividend - simplywall.st
-
-- 公開日時: 2026-05-01 13:24:55 JST
+- 公開日時: 2026-05-02 19:07:30 JST
 - 媒体: simplywall.st
-- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeklERlVpTS1TWU96aHJDQVBVVWhmMVQ4MTV4YllNQzJyclhlWmdvck54bWpiX2txMS1LRGRuOU05YXNZNi15eFVKLUFmQ3JxQVI1akROcmdYRkM5SWxJeDUxZXdybHFPSXowelk4SjdmVGZVT3VEZVg4N2VrZDk4Y29kRm1iczRPS3FnVEJfNzZ5alFLS2RwRk1oT3FUVUpYTVRPYVk4NnRnT2taNDRkVzItQ1VmbGpUSG51ek83QjdyenfSAcgBQVVfeXFMT2xQTmtqc0VORnUxVm91RFRlR1A4ejNDY3FFTWVTZkZqRFRjel9vT2dSVW5DTzdkVW9ocmlnYTVJMEpUYnBhanAweTgtR0tBbFQ4VUNYRHdreVdxbEFSVFowVkEyUDJScTVRTzJIRTFIbVJQSEVhU3ZsbVBZRk9pVHFoY1R4dlM5cVpYQlktREkwaFY5NWtoSzB2eC13cTNybllzY3NLS19EVlpmbVZPVEczdjViT3lHSk9fcXlNdXhhRGJHS3ZETng?oc=5
+- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczJIRDNfR1FINEViU3duWEJDQXhXNFRQRElBUE9heDd3R0FiMVFXWHFabENWV0hhTE55Nmg3Z01RRUs1NERqQTQ1SWJzZDVNZDg2ejFTRXVKS1RWY0I5RXY0cnFKX25nTzNyOXBPSjNwRG5uNnVibVUtcG5oQkV3YlRwN3ZHZ0VOeThVcXhYZ3oybGh0MEpkQXFaRTM1TEtjNzdlXzdVLUJsUWNsZnZSa1E5SUhnR2xrRWVUeVFlOVhPbDTSAcgBQVVfeXFMTUx1cVBtSjRIUTFlWnFQNlZUbHJfSl9nR2xIQTRReTRjZzVNM29HMFo0dERDQ3VTc2dNb1RmQVRzbnl3S1NWMlJvM09jbHRXTGlzMDdMNW1tajB5TUktNkxZSlZPUTJEYVV4bE0wMXNnM0RFY18tSnpCZTZkVFNGd0x6RmhIX09jeC03eGxNX2Z2eWppQ29yWl9vODB2LS1scVdrWVVrU2NoRnkxTHJGXzQySVE0SndOdmhBRGZDRmhrcFNLY1o3S0I?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 15. SAPジャパン、体験型施設「SAP Experience Center Tokyo」をリニューアル - クラウド Watch
+## 5. Davis Selected Advisers Has $13.69 Million Stock Holdings in SAP SE $SAP - MarketBeat
 
-- 公開日時: 2026-05-01 11:00:00 JST
-- 媒体: クラウド Watch
-- URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94bGtlUlZVTzk3bVF2ZEprUTFSMGtHWk43MXJnRmppRTZmRm5pVXJjeGNFMnNfSGM5MUdsa3dMajFWSFFDUGJoNHAwRnEtZ2Z6ZGo4cUZrNmllZ2MyZGdzQUdHVWRoS2c?oc=5
+- 公開日時: 2026-05-02 18:09:46 JST
+- 媒体: MarketBeat
+- URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTh1NXluZ2VMRWxvS1VMNnY3cmdFWFN3OWRiMGU2UUtUM0FyMkVYSXotekZiWVl4UHdWQmIyaE43V3dGYndUT3FueVgycmlEd0plUFN6aUlBQWE3eUp0V2FWSTgzcTZoU0hEWUxvYk9YanhDLTFXb2p6bERCWkU0V3lfSEIyY3Y5VHpUWm1sejlBckplbTFWRS1yMUVVajdrVjNQVC1wb2VQUzlEelNUZ2VneHAzOFBra1d5YTU1MG94YW5raVEzSkd3?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 16. 基幹システム導入を再定義 アクセンチュア×SAPが投資と期間を圧縮 - PlusWeb3
+## 6. SAP's API Dispute Adds to Investor Jitters Ahead of a Pivotal Week - AD HOC NEWS
 
-- 公開日時: 2026-05-01 09:01:59 JST
-- 媒体: PlusWeb3
-- URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qbTFSVUhWV3Z5ZWFpRGM4ZGhFTjZ0cGZqOHBOdHNiWGIyNW5pM2dCdEN6cXdFTk5mT3pHbldncE9PMWJkbmRvMVl5WjlKVHEtY0NmQjNWblpiRThPclE?oc=5
+- 公開日時: 2026-05-02 17:41:50 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM3NEdEROTlZiT1Bob1RZYzR6OTdhbkx0dVlMS01BZlpsZzRPVUpFNkpyOXJmNlRvUVZlbnFQQTJ3Wmxla0xxb0ZPQk0zRHZ2ZnVIeGtRbnlCQV9iN01LUlM2ckxIZDlJZWZ6X29jVkdOUThIeGhRTENEWHBrRVJNZTRuenk3YmtaMXVuOVdoSzhZbjRuTTJ3Mk1CU0lTUkkxblY5ckJsS0dJLXVWZ0F1SDRReFlmV21wWmU2WFlJdzB1UlE?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 17. Asia Pacific companies speed SAP overhauls as 2027 deadline nears - Stock Titan
+## 7. SAP’s Dividend Hike and Cloud Resilience Can’t Mask a Bruised Stock - AD HOC NEWS
 
-- 公開日時: 2026-05-01 08:00:00 JST
-- 媒体: Stock Titan
-- URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXFkanljQ1NrT0pFNmk1aHlhUkVvWGt0b1hzZFdCek9WU2xJRnBFakszNEZPMXZmMG0wMG1tWVZtM1daTldPY2xoVG83MVFoMjk1bnJvWS0tTFVwOTY4OHNObGt3bFR0QzJ2ZEVqb2FLUlpYaGVkcTNGZ3ZlNWtGS0YzRWJmN05yUDlQTGNaQkFUc25OR2lLcHlB?oc=5
+- 公開日時: 2026-05-02 04:40:45 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxOVXpzY0R2cHNtNENDeVZfWF9JYmVPNndfaktHai1ObEd6b0NXVFdoSElLdklTTHI1RWFoRkJ6V2lkTnZLanlQUmFmeXd3LXlHc0Z3ZklVcWdZNC1fY29XX1o1aTl1eENBQUlkVlZzenoyemliMnZpelFwTE54TG1WNzROM2ZaR0wxZVpuZ1haTmhLMFNTeGVERmZUeVZiRno0R0xUYW85cGtONkJXRjdrNFQwRGN3ZzNLYzU0V3IyeThLWE9x?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 18. SAP npm Supply Chain Attack Targets Developer Credentials - eSecurity Planet
+## 8. Redwood Software to Showcase Agentic Orchestration Platform at SAP Sapphire - HPCwire
 
-- 公開日時: 2026-05-01 04:00:55 JST
-- 媒体: eSecurity Planet
-- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTFkNlVEX2ZNUmRNNGkwVmprdWhqdzItRWVlRVlWUWNKRWtwUjlDaGNsV0VjRncxR2swQ09NZmxFSkZieTViVXRKYTRtdTJMZXJYa1d4ZFZsWGtnWU10aEROejFkNGpZUjRrdkViclppSlhvVkhKQVhfVjc0RHQxZTVyQXVNRHM0WjQtQ3pQT3lHTXQtenJMb1Vjc3RsTUk?oc=5
+- 公開日時: 2026-05-02 04:00:39 JST
+- 媒体: HPCwire
+- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxObE9idk5TbUFGdjZ5cHpadjZNWElyVHdZRHRWMUQtZlRHdUYtWE9HRE82RkhmeFRzR1M4ZnBzQUd2TDVGMFl3c21zOHY5NXMzLS1oeE5scFl4WUFicFRZV0luakloQnVZZV9FQmRKd1BGMWF4S3BseHVvc1V1UzhfemlkaXd2blh1S0R4R3N1enZLUzJEbTB1TnVMcURqWEpQV2JtN19ubE5NRGowdlpBZnRCVjdCQ213SnR5c2JmUElTd0E?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 9. Supply chain attack against SAP npm packages facilitates credential theft | brief | SC Media - SC Media
+
+- 公開日時: 2026-05-02 01:49:58 JST
+- 媒体: SC Media
+- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxNODJNTUxteDZLSU4tR19kb3ktdndQamdUdDRFSXJaOEJibW83c1g3dVJaTHdvWXF2blB6UG5Ra3Jvd2sza093c3Rrb2V5U3VHb3FKT2FlSDZJUFp2bmhGcGc5TnNualhRLUVNTndBUFFBb2xEUk5YZUhZUEJWTXQtaS1sVEpKdHp6M0lnVE9oR1NzUXNnVlJBU21HV09wYlFpeGI4R2FB?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
