@@ -1,150 +1,30 @@
 [
   {
-    "published_jst": "2026-05-14 23:22:14 JST",
-    "title": "Precision Over Prose: Why SAP Knowledge Graph is the Secret to Production-Ready AI - The Futurum Group",
-    "source": "The Futurum Group",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeXpqaTNHa3otdTdRcW5fdlFkNUVKMnFDcUk4dDBOVXJKbmhDRkx3ZUtLbUtfdW95TndEU0I4MXU4bTJlcGlNN3lVYmhJVERzSEc0eEhHWUZkVGVRcGFuTHBQZzhvTXR4WENGZnFXWGNRMWpocHl0dFVfdXBDbEFLYUxHWUZzY1ROcF9uSjdHVmFSNjJmN1U3M0RCQ1Y5WGZfSXluOXpUSHdQbUZxYVZwNUlFYV9RYzA?oc=5",
-    "summary_en_or_original": "Precision Over Prose: Why SAP Knowledge Graph is the Secret to Production-Ready AI The Futurum Group",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 21:43:07 JST",
-    "title": "SAP Taulia Reveals AI-Powered Working Capital Innovations - Supply & Demand Chain Executive",
-    "source": "Supply & Demand Chain Executive",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVU4RXBMXzF1emlpTnIwekoza3hka29sWkpRR2drTEtodUFBY2FtUTF0Rk9hM0VzdmV4UWl4S21FNXJrbjBWakRJUjk4Skx3cTFoZFVoM3lVcEtydzBkMGJmLWducWJnU1hFaVJoRW5DYVdJUHJiVm1KbHhsc1duREp4YjMyc3hNNXhUcnhKMnFRcTlVMHhGenZkd1hyZWo2YVJtckpQTHNKWlN5Rk9CU0daWmhNaTBMbU81a3gtbWNUcjZ5cjNMY3Q2SDFpUkQt?oc=5",
-    "summary_en_or_original": "SAP Taulia Reveals AI-Powered Working Capital Innovations Supply & Demand Chain Executive",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 21:01:01 JST",
-    "title": "Levi Strauss Modernizes Its Tech Infrastructure with SAP - WWD",
-    "source": "WWD",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDFBaUxwTW9tRVdiOUd2b3Mxekt0MVFUV0pCQXEwbk0wR19BUHBQdFF4dUhNZ3FaemJrTURtWi1GdkhDTTdtYkt3ZEppaTQtcEVJM012T3FsM0tIVm1UendtNHRqRkdwcUttY3o1LS1GQVQtNklzNEQzX3ZoN29vN1Z6clV3aWxkOUlYU2hwenY3WVB6WVlWM0w3a1hWSVo2cXVaOFZWTTc1b3M?oc=5",
-    "summary_en_or_original": "Levi Strauss Modernizes Its Tech Infrastructure with SAP WWD",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 21:00:00 JST",
-    "title": "From Static Planning to Continuous Enterprise Planning",
-    "source": "news.sap.com",
-    "link": "https://news.sap.com/2026/05/static-planning-to-continuous-enterprise-planning/",
-    "summary_en_or_original": "Finance needs an operating model that moves beyond periodic exercises and toward continuous steering.",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 21:00:00 JST",
-    "title": "Moving Toward a More Autonomous Supply Chain",
-    "source": "news.sap.com",
-    "link": "https://news.sap.com/2026/05/more-autonomous-supply-chain/",
-    "summary_en_or_original": "New AI innovations make supply chains more adaptive, connected, and responsive.",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 20:30:00 JST",
-    "title": "Inside SAP’s AI Revolution: COO Steinhaeuser - Cloud Wars",
-    "source": "Cloud Wars",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPczAySXBDVk9FTFdOb0tSaVh2cTlCSWxmUlMzUGxySVNCT3ZKUVczcmJNYWMtQjFIQmstRXJKNkdFeHc3NzFMSTVlc01ZTkFqd0o5UjNWTHM5VnVhUHF2ZXcwSTA5YmMxQUljcklhV1puUGlDOURoMWdOYzdNeFBEZzRrRjQteHBiSTFj?oc=5",
-    "summary_en_or_original": "Inside SAP’s AI Revolution: COO Steinhaeuser Cloud Wars",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 20:30:00 JST",
-    "title": "Sebastian Steinhaeuser Details SAP’s Autonomous Enterprise Push - Cloud Wars",
-    "source": "Cloud Wars",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUh5X3pLb3pvSzVuS2s1c3ZMZEZ4WFhtYVNGS0UwMGNzaXJEaHg1UnlWX1MyWERtUGdYdV8wTXRfTWRORWVSMlh5MFNxWEVjMGl3VjlXTktQc05iZUNlZmNQMDZRUnhqcGNzZ0JGeHFnNFdIMVZSLU92UUZ0NndWbjViRnZDbzNRWVRhTko3NVhSbW1MQ2NfaE1KcDJTQlR0eG9XdGpBaTA0NWs?oc=5",
-    "summary_en_or_original": "Sebastian Steinhaeuser Details SAP’s Autonomous Enterprise Push Cloud Wars",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 20:25:00 JST",
-    "title": "オッペンハイマー、アナリストデー後もSAP株の「パフォーム」格付けを維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1bFlWWEV6TVlfRlBoZTMwSWoxRURULVJuaWgyT0xzd3JrYUVXd0FWZkpvWXp2clE2QVhJcml6REljQzhVbUE5NVIxTXVMMnBVSVdRTmgxU0NJV0I5UjlCZHJ2MFBWT015U3NNMHV3VEdIN3dM?oc=5",
-    "summary_en_or_original": "オッペンハイマー、アナリストデー後もSAP株の「パフォーム」格付けを維持 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 20:22:54 JST",
-    "title": "SAP’s AI and Data Cloud Offensive Runs Into a Wall of Investor Skepticism - AD HOC NEWS",
+    "published_jst": "2026-05-15 22:13:13 JST",
+    "title": "SAP SE stock (DE0007164600): AI mega-bet, buyback plan and volatile recovery draw Wall Street’s at - AD HOC NEWS",
     "source": "AD HOC NEWS",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0xBN25FTjVMQWgtbTlGNFE4NlUwVzE3c3hDZTgwMTFiYnhOQ3RvRUtCTzd5ZWlBRlMzLWtaRVJFQTdRYVFnLTJwRWQ0dGZVa25fdFFhb2hTT3pPa01RZVNFVDBHb3Y3aEZJNy1fNmljWnUtNHcwdDBWd0lOcWxvSWkyUHpaRjVCdWp4cTB5dnJRcGQzUml3djdfSGtWU0NWMDVfMXNCak1KRkdYQXAydl93MVRSSnA3dy1hY1BR?oc=5",
-    "summary_en_or_original": "SAP’s AI and Data Cloud Offensive Runs Into a Wall of Investor Skepticism AD HOC NEWS",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakdKSFEwY2ctdm91aTUzNUJXTkhjTld0cDdKM0xycTRSTHRHcUI0TDRFVkZ6dG9Ed1poUFZsTmJ3X0NqTXg2QjNNbllhV1Y1ZzAzcjczdnAxa3FWb1hPUkJnLU4yeUgxamhMOXJGT1lhRVhsTVhTT0YzVkJDUDRtVjUySDVLN0FOMmktV1pGazMzV0R0U2F1Wmc3cFZRcXB6NXNpdXdTcFlJbXFlYmNZeXBzeldsZFNkQ3k1eXNZcw?oc=5",
+    "summary_en_or_original": "SAP SE stock (DE0007164600): AI mega-bet, buyback plan and volatile recovery draw Wall Street’s at AD HOC NEWS",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
   },
   {
-    "published_jst": "2026-05-14 19:20:25 JST",
-    "title": "Adyen and SAP Unveil Embedded Global Payments Solution for Enterprise Commerce - TechAfrica News",
-    "source": "TechAfrica News",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHdQeG95dENkYjNqZUloeDdGZHlidVJWeXNfTHkxUUVOWk1zZnVLaERISFpVVnEzY3pjNlRtQUNVMDlnQldVZUM4Z0N1SHB0cll1dXg4SWl0ck51cU80SjJtSUdFUnA2S3Myd2Z3M3J5WkFua2N6T0pXcXgxVk1IQ2pvRDJjNHpWRElhZEM1RFJaTGZtVXpMYlJWZDg5SXZMVlNOZFk3eFNwVFRMdTlNMkNtaElSekcz?oc=5",
-    "summary_en_or_original": "Adyen and SAP Unveil Embedded Global Payments Solution for Enterprise Commerce TechAfrica News",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 18:23:51 JST",
-    "title": "SAP、Sapphire 2026で「ノーアプリ」訴える “自律型エンタープライズ”のビジョン示す - EnterpriseZine",
-    "source": "EnterpriseZine",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YVi1vaW1OQ20tUmRpTkU4YzYxNDRXc1hJUDRPaXpYcFZMbml5UUpWenl6TjRycDlyRXVRY3VjNmIyV3EySlZuZmY3UndFZmU2dTZaZzNn?oc=5",
-    "summary_en_or_original": "SAP、Sapphire 2026で「ノーアプリ」訴える “自律型エンタープライズ”のビジョン示す EnterpriseZine",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 18:01:16 JST",
-    "title": "SAP SE stock (DE0007164600): Shares drop 4.56% on AI strategy reveal - AD HOC NEWS",
-    "source": "AD HOC NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnNieWV0N1NDbV9QVDNlak9JZkhsNTBLMHVTalROcVlPeG1Ca0tCRHE0Uk9SVzMwYVJaWEZkdEJhemphVEh0aWx1QXpTZHQ5MUkwTWVTOGpScml6a2hkZUtEUklhclp4REM1UEhQSG41Y1A2OE1GdXFEV2tkWEFEUlRiRXJjc2dKbXFZSlRHbS1Lazd6dzVDTURoQk5NZ3JOdnZocU00emhRTDRRZ2ZCSEJnajFGM3pnQ0M2VDRXelJtUQ?oc=5",
-    "summary_en_or_original": "SAP SE stock (DE0007164600): Shares drop 4.56% on AI strategy reveal AD HOC NEWS",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 16:15:19 JST",
-    "title": "東ソー、「SAP S/4HANA」のユーザビリティを改善年間2.3万件の入力負荷を「テックタッチ」で軽減、データ精度向上へ - ニコニコニュース",
-    "source": "ニコニコニュース",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ieGo0VTJpYkN2NkhDSlotTEE5SVZfd0VMQzBQM2Rud3Q0SGJLdmo1U0dsbERLLV9GYjVqU0J1MjMyRkJZWkNod2VCN3lCWW1xcHprOW54SHhCRjQtRm55UnFkT1phdUVLX1dkcHZ6OWFqak9qZHJTUmdDZw?oc=5",
-    "summary_en_or_original": "東ソー、「SAP S/4HANA」のユーザビリティを改善年間2.3万件の入力負荷を「テックタッチ」で軽減、データ精度向上へ ニコニコニュース",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 16:06:00 JST",
-    "title": "「世界サーバ投げ選手権」2026年のチャンピオンはSAP従業員 - ITmedia",
-    "source": "ITmedia",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZngySVNTODBZLWdvUTBqN2RCa1dVQXpqUHZnOTRvbFYtTXBJX194RnhKdjNuN2NmNEE4Zk1ZSXVMYzZDdXUyTWZHd0VVckwxZ3ZrRmRoRnlFX0JaS1JDTjZhUmpERFJYLVpQTA?oc=5",
-    "summary_en_or_original": "「世界サーバ投げ選手権」2026年のチャンピオンはSAP従業員 ITmedia",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 15:00:00 JST",
-    "title": "Why AI Raises the Stakes for Customer Experience",
-    "source": "news.sap.com",
-    "link": "https://news.sap.com/2026/05/autonomous-cx-why-ai-raises-stakes-for-customer-experience/",
-    "summary_en_or_original": "Autonomous CX makes it possible to understand customers, respond faster, and earn loyalty over time.",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 15:00:00 JST",
-    "title": "SAP SuccessFactors Innovations Define a New Era of Autonomous HCM",
-    "source": "news.sap.com",
-    "link": "https://news.sap.com/2026/05/sap-successfactors-innovations-new-era-autonomous-hcm/",
-    "summary_en_or_original": "AI requires a fundamental rethinking of how work gets done, grounded in data, systems, and processes.",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 13:13:08 JST",
-    "title": "SAP、IDC MarketScape：ワールドワイド炭素会計・管理アプリケーション部門 2026年版ベンダー評価でリーダーに認定 - SAP News Center",
+    "published_jst": "2026-05-15 22:08:23 JST",
+    "title": "Making AI Value Real Today - SAP News Center",
     "source": "SAP News Center",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckVVUlctdnowbnFHMzNuOERYa19KQkYzM3pFN0ZuQlpJa1ZGX2xBMUVwWmIwcE1Ec2hUSFhZMlBlM2J6WTFrNVNtTzBraGhQNHFuZm5EeUhwYmtjU2tQY21HMkdVRkJPUjRBMXhqWnlWMTZEd0t5Qi1Ba2hmbVRqQXhnRnlQekN0aEdJZVlQdUdMRmZmNUxfZ3FPQk1IZExXbGRsQkZOOGEtOExGNkE?oc=5",
-    "summary_en_or_original": "SAP、IDC MarketScape：ワールドワイド炭素会計・管理アプリケーション部門 2026年版ベンダー評価でリーダーに認定 SAP News Center",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTJqM1ZCX2djNHVMeXB1UkRMMFJXRFFadUNCTERRSzlvNjNTenpwaUFHVDlWV2V5UHVMUjktc3B2N0RJOGdudU9ncktTRWFBaEQyR3Q3bmNieFVsanp2Z1ZCa204MnVaSkNYXzduVFZsa0RZSFZ3QWJlNmNEbEtWSzN0N3RpRUFxcWNuLUxHV3A?oc=5",
+    "summary_en_or_original": "Making AI Value Real Today SAP News Center",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
   },
   {
-    "published_jst": "2026-05-14 12:45:03 JST",
-    "title": "フィジカルAIで物流倉庫の完全自律ロボット稼働を実現 SAP・Cyberwave - ロボスタ",
-    "source": "ロボスタ",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhZ0hFY2VyUkNxXzUxcG8tYmFvU0UtOVVfWTd4ZUV5OUswUEhJWnRCYTdzdm80M3BseVR6c3BHak0yWFVMVVZFeGZWaU5OQ3owWmpYajNqTkV4NzhVQTlaRXdFLUc?oc=5",
-    "summary_en_or_original": "フィジカルAIで物流倉庫の完全自律ロボット稼働を実現 SAP・Cyberwave ロボスタ",
+    "published_jst": "2026-05-15 22:05:00 JST",
+    "title": "Making AI Value Real Today",
+    "source": "news.sap.com",
+    "link": "https://news.sap.com/2026/05/sap-sapphire-keynote-customers-making-ai-value-real-today/",
+    "summary_en_or_original": "At SAP Sapphire, SAP executives and customers presented the Autonomous Enterprise as the path to real AI value for customers.",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
   },
   {
-    "published_jst": "2026-05-14 11:04:26 JST",
+    "published_jst": "2026-05-15 21:41:27 JST",
     "title": "東ソー、SAP S/4HANAの社内定着に向けテックタッチ導入 年間2.3万件のWBS登録業務の迷いを解消へ - EnterpriseZine",
     "source": "EnterpriseZine",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LODlScnhyV1NudGdEWi1kNGFrZVR0b25JT1AxVFRYZjByWFY2dGZId1RFYmxqUWppVVpPSWFzUmI4aDc1empkblZHa3g5SHFmaWlHeGRR?oc=5",
@@ -152,147 +32,99 @@
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
   },
   {
-    "published_jst": "2026-05-14 10:30:37 JST",
-    "title": "SAPが2026年5月のセキュリティパッチを公開、S/4HANAとCommerce CloudのCritical脆弱性を修正(CVE-2026-34260) - 合同会社ロケットボーイズ",
-    "source": "合同会社ロケットボーイズ",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc1BadFpXeWpsRVF1al9weUVUdmRTU3NPRzdYT1MzRWd6WEQ4ZXczM21RNVJLQjRGY28wZnRWUDZlamRUYVRGS2dmbFBhYTBqM1AyWlpWbVdSb0FlTHlJNWxWTTZWelk2V2xvVDFwaHc3ODQycEQ4U29Yc3ctb3BSbjdsbjFwOWthZE1hcDcyWkhwM2stYjhTV0JSakt0SWc?oc=5",
-    "summary_en_or_original": "SAPが2026年5月のセキュリティパッチを公開、S/4HANAとCommerce CloudのCritical脆弱性を修正(CVE-2026-34260) 合同会社ロケットボーイズ",
+    "published_jst": "2026-05-15 20:30:00 JST",
+    "title": "SAP CTO Herzig on Business AI Platform, API Policy, Innovation - Cloud Wars",
+    "source": "Cloud Wars",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkh1WEoyVlVUbEJDSXZRc3ZTWndlMlZMcVlMN1FKUENnNkd2S0MyWV9IY290R3cwcWs4X0VmdGJucno5T0F5S0tkaml3aktDSDI2WGdybTl4MTVheFByWEdtR3Y4WlFXdWRaYzlUbjRtQnVvVUZMWGdTMldwR1lzRUNWWTFOZjBkUlFpcVowR29TbF82UEhodlJ2V1piaVNqTnNn?oc=5",
+    "summary_en_or_original": "SAP CTO Herzig on Business AI Platform, API Policy, Innovation Cloud Wars",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
   },
   {
-    "published_jst": "2026-05-14 10:06:59 JST",
-    "title": "Is SAP (XTRA:SAP) Now Offering Value After A 46% One-Year Share Price Decline? - simplywall.st",
-    "source": "simplywall.st",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWmpXbDhNWVptSjgtdXRYNG91UnVUTXB5WjN6a0xrODdZVE9FdXZ4eXdjTm1WNzN6SmZiV3NnZlhXNnByeExBMEdod2tnZzlwWGc0M1VwcGxqU29Da1FPa1RkMjBTaF9fd3lJRl9MWEJub1dLeGN3bEU2U3k2NW9NajRPWFFvZ25zaDVHSW9tb0Z0R3lFVVVkU2VhOXl2NFFyeDVQOUJJOFMzQVhwVE5YWm96aTJjSzBXUzJxWG1Fc0RSQdIBxwFBVV95cUxNU3VaeGdMZWF6ZU1LQkpOT2dab0VLMlk3WnhWWWJXdHVpRy0tQUNZWS1CQ1M3ME5mWUxTUGN2UlFpVUYzbGFZMEpVYmlmNFNLcXJzbThPUjFrb1hSQk9nb3lKRmYtazZoYkYxMmRwUVBTYjdoa3ZuRWhDRkw2MTJLdG03WHVXalIySW95QndBLWZzeXA1SWF3S2t4ZTBCVWd6cDMwczlwY3lYUGZ5eGJ0WXVvVzI2aUduNUJZU1FUVGVHdEN3R0I0?oc=5",
-    "summary_en_or_original": "Is SAP (XTRA:SAP) Now Offering Value After A 46% One-Year Share Price Decline? simplywall.st",
+    "published_jst": "2026-05-15 20:30:00 JST",
+    "title": "SAP CTO Philipp Herzig Explains SAP’s Enterprise AI Strategy at Sapphire - Cloud Wars",
+    "source": "Cloud Wars",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbFByTFJ5VGp2NDMzQXV3dWdmdEptaGJVTFVVOXhQQjZsVXlTNFNjcWxuMGdmUXZzOVFuZUZjd1pWN3VwanlISDZBVHJKd0xISWYyX2RTWk9NRVU2SEpXaGJ0YlYzSTR1enI2Ymh5QVJUc2hMV2h4ZkwwZDBFc1F4NE1BSE5pYlg2cGFwa1lpUUZ0dUVKZ2JNdVU5dFFXbm9JSW8xLUhzcUFsQVl1RXpaaDFLSDRiMEU?oc=5",
+    "summary_en_or_original": "SAP CTO Philipp Herzig Explains SAP’s Enterprise AI Strategy at Sapphire Cloud Wars",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
   },
   {
-    "published_jst": "2026-05-14 10:00:00 JST",
-    "title": "シーティーエス[4345]：DSRアジアとの協業に向けたＳＡＰ現場情報関連コンテンツによる共同概念実証（PoC）開始のお知らせ 2026年5月14日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-    "source": "日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMN3NvZmtLYnRGNWJVSDBYZXgzT29KTnhybGxzOGJBSDNSV25jbE5VbjRxVTNBQzRlUkpfTUFmR3FsYllrazdubVpRVmRtUE1GZnV1X0VjcEEwU2xnbmlvaEl5ZHRGSGMtWlE?oc=5",
-    "summary_en_or_original": "シーティーエス[4345]：DSRアジアとの協業に向けたＳＡＰ現場情報関連コンテンツによる共同概念実証（PoC）開始のお知らせ 2026年5月14日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+    "published_jst": "2026-05-15 17:38:05 JST",
+    "title": "SAP SE $SAP Stock Position Lifted by Dash Acquisitions Inc. - MarketBeat",
+    "source": "MarketBeat",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWF4cjFOY1pjeHhRSk12QXE2cjJXTjFXdWFmT0ctaF81SEdYOWhQajdDOGNDTEk0ZGpIRUpWc2JoV2JtS1lSMjRfOElyQlRrR0dGbWhkRmpaVExTektQWUc2RGxwOTVvTEFfODRZQjVTdFhfVDI3NTNDaThnNm1mdHMtLTVWdHBoV3psMmRNam5xY01ZOWZkT2ZMX3MxY05xLWhmdG43Z2VMS0NNQ2JZeGZIRnI1SlhCR3c?oc=5",
+    "summary_en_or_original": "SAP SE $SAP Stock Position Lifted by Dash Acquisitions Inc. MarketBeat",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
   },
   {
-    "published_jst": "2026-05-14 10:00:00 JST",
-    "title": "AWS deepens SAP ties with new AI & migration tools - IT Brief Asia",
-    "source": "IT Brief Asia",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPczlNaWpzNEVpQWh2RWhvZTJfV2VGOXJzUzNuLWFLRlR1dHRsNDBJVGlUUURGWGF4WGE2MWRNQ3NzaG1UYzEtUExpOXNkcnVxVFpjeGVBVUVmMTNneTc0Y1JxMnlkSmIxQklFUWl2VDFMZ0FRMVdibzJGZE54S3BCTQ?oc=5",
-    "summary_en_or_original": "AWS deepens SAP ties with new AI & migration tools IT Brief Asia",
+    "published_jst": "2026-05-15 17:24:39 JST",
+    "title": "SAP stock (DE0007164600): Cloud demand stays in focus after recent company updates - AD HOC NEWS",
+    "source": "AD HOC NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmlIeW1QMkFTWDROSE4xZUlCRXQxSDl6SXBKZG5vVng3N2lfenpUOVF0RzRkQ3R6MlJOaUdtbHBhMndjbl91eFJvSEdEaEtpTE13Q3c3M3pwZjU0N0ppY3JwS2hrM2d4NWlTWjdUTlhwNmpVVkFHMmt4dWpITjZqei1VOHlncXpjdGdtenhfVS0xNEFmZUJTcW9zQ294Q3J2dlJNREs4OTFSRkx2QWdJU0FSVm1XZDMxWW1hLTFjQ0Jpd1k1akdxSzZB?oc=5",
+    "summary_en_or_original": "SAP stock (DE0007164600): Cloud demand stays in focus after recent company updates AD HOC NEWS",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
   },
   {
-    "published_jst": "2026-05-14 07:26:00 JST",
-    "title": "SAP Expands AI Vision as Enterprise Software Demand Accelerates - Kalkine Media",
-    "source": "Kalkine Media",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXpXeF9UZ18tRFd0Y0FpejB6eXNNTFdnWThtV25fLXZOeDNRNmd2RGZHS18tTWxsUGJYZklXSWVkY0tUNlYwcldPTjJ6TE5UQzFjZGtiMmEyUjJ1MUg2RmhydUdXWm5hMi1uMF8wVnp4TkctMFptQktZTnF0NlJZT2tuTko2dFN0VWlQRHV2Z1otanZfN0dzaDVvY2gyZ3ctc013Q052VTUyMjItU1E?oc=5",
-    "summary_en_or_original": "SAP Expands AI Vision as Enterprise Software Demand Accelerates Kalkine Media",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 07:05:00 JST",
-    "title": "アクセンチュアとSAPがERPで提携強化 導入期間1年で中堅企業を開拓へ - 日経クロステック",
-    "source": "日経クロステック",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBubVVxNTcwM2pIQWV1ZU1pa1BYMVJEMHY5TlNia3ZsUGlVWUZ4NnlyaDJoRHNaWnpIZm90d2x4M1dScGUyZnBnMzdwWWMzaExDZ19SOU1aNmxuWXRheGJKRy12LXFDSDgyNGo4MGdhQmhZUQ?oc=5",
-    "summary_en_or_original": "アクセンチュアとSAPがERPで提携強化 導入期間1年で中堅企業を開拓へ 日経クロステック",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 06:10:34 JST",
-    "title": "SAP Sapphire showcases ‘new SAP’ with agentic AI infrastructure ecosystem & tools - Computer Weekly",
-    "source": "Computer Weekly",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOGJPWGFrRkliZGxUTXVNTUZnSGk4ZXExLVFRaFdQZkV2RVltdktyMWVtejVLMks4SU5xZXVYS3FONm1iemtQVWoxcnVsQV8tWUVSTzlIUW16aEp6MFo0UkkwYjAzYmV1Tk1WTHRyQnNRSTRiNTdmWGxLLWtTVTR2a082RU42RVktUzMzaHVCQm9VSndzME9GS0ZNdTBUa01BbFRfZ1E4dWM2SDdTYWs4ZzlHZERURmVGMHVLblExR1pXSEtINmFEd2p5a0l5VjQ?oc=5",
-    "summary_en_or_original": "SAP Sapphire showcases ‘new SAP’ with agentic AI infrastructure ecosystem & tools Computer Weekly",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 06:05:55 JST",
-    "title": "SAP Rushes Emergency Security Updates For Critical Commerce Cloud & S/4HANA Vulnerabilities - LinkedIn",
-    "source": "LinkedIn",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXpGMlFmeWRkOU5hT0plem5UN0FaaUNGY041SVp6RlUxWHZVQlZfMFE5dnJSaVNVbXhxWDNKdmZBUHg4TkNlQjR1cE5PYmVKNjZRLU9UUVdRZFkxemUtZUFTai1lTUVBa2tCbUZ5RWNpWmVaakFIeEhuUncwUXFmTklHUW5GdHNvYzhV?oc=5",
-    "summary_en_or_original": "SAP Rushes Emergency Security Updates For Critical Commerce Cloud & S/4HANA Vulnerabilities LinkedIn",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 05:54:38 JST",
-    "title": "‘Will SAP Be a Software Company in the Future?’ Sapphire 2026 Keynote Maps SAP’s New ERP Stack - ERP Today",
-    "source": "ERP Today",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZVNSMTE3WlJPdVRGclMzWlg3cXp1bV9lUEZhZjJFQkJVNmhpbm01T0RnQ3FWdXBCYWN0R1dwVXNFSUl5SnhGSFl2by1ienJvLUxza3NMclA1NnlzUnBLc3diSXM0N3JOX0lXdS14RG9QZld6ZHljM3N2eEl3SGs1Y2xmNDhnS1RZRlpUVW1uemNOSXhfTkMxdjdGLW5IUEpPSjExTGt3NXYzYXZVdUE?oc=5",
-    "summary_en_or_original": "‘Will SAP Be a Software Company in the Future?’ Sapphire 2026 Keynote Maps SAP’s New ERP Stack ERP Today",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 05:52:38 JST",
-    "title": "SAP Security Patch Day May 2026 Shows Risk Beyond Core Applications - ERP Today",
-    "source": "ERP Today",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Qa3d4bHdHM01zdjFLSkJwWGhHdUxVNGR4TkxHd2FrbExqQ19QUE9LSE94U2FES2F3cjI0YXpUTDd2YUpZWjlSSEVUNGpWR2hydDJaR09YUElxM1FndmFBM2tqdmFNdw?oc=5",
-    "summary_en_or_original": "SAP Security Patch Day May 2026 Shows Risk Beyond Core Applications ERP Today",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 05:30:06 JST",
-    "title": "The AI technology behind SAP's Autonomous Enterprise pitch - TechTarget",
-    "source": "TechTarget",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXFFUXFnQXU5WEtnSmowQ09ZU3N5ZlB4YV9vZmdFTDNTRk1IRjV3X0RpOExzRk5VaXE0V0pOaDBNMFUwVXJzZTFwb2FPNmlkNW1sWlpvOHpkVHhHS2h4cE5pbFhvSkVkM1kwU283aFk4V2xEcGFJb0JEbWk2eUdpSm9yX2VTU3pkcTFuZHJYbG1HOUsxQmtiQ3Z6LW4wMHUtS0gwbkdxb1QtTnZrTGc?oc=5",
-    "summary_en_or_original": "The AI technology behind SAP's Autonomous Enterprise pitch TechTarget",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 04:59:38 JST",
-    "title": "Sapphire’s Post-Keynote Q&A Unpacks The Hard Part of the Autonomous Enterprise: Delivery, Governance, Trust - ERP Today",
-    "source": "ERP Today",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTlCNWRibmY0MW5rNkdOODJ6VWpYbXFIT1dXRnU2TjdaajZOTXpCWWFKMWQ4ZmpXaVRCY3NnUFA0NHFzVklYN2FUeGNqTDBQd2VsMUM3Tkh5VDVZRVJmd2Y5VUJVQUhma3NZYmhlcDE2Tm8zdURHWnR2d0hXUGN0NTVvZGU?oc=5",
-    "summary_en_or_original": "Sapphire’s Post-Keynote Q&A Unpacks The Hard Part of the Autonomous Enterprise: Delivery, Governance, Trust ERP Today",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 04:19:37 JST",
-    "title": "SAP Sapphire 2026: SAP Business AI Platform Consolidates SAP BTP Stack to Solve Enterprise AI Fragmentation - ERP Today",
-    "source": "ERP Today",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdnVkNm9aTHZUVWxySGQ5R1EwczhEVEtxVDQ2S0M0SzRubzhadGx4eGF0STcyVEFXTmFkaVZyMFlQRGNZVGhQbWpDTEFOOUV6SGxIMFFiRXE4Tk9fWnE1OGxmRXV1bHBFbDlmTVFleHdyVE9WVmxMTzdYeWJlUUpacFlwUVZ3eVcydzlEXzF3R3dXRHBpaVp0MlJlQVpndmJKaDBCSDlpOEpnSk0?oc=5",
-    "summary_en_or_original": "SAP Sapphire 2026: SAP Business AI Platform Consolidates SAP BTP Stack to Solve Enterprise AI Fragmentation ERP Today",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 03:02:00 JST",
-    "title": "SAPのAI戦略、Sapphireカンファレンスでも株価回復に失敗 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01TDlNcFA5LXQ2bmpyVnp2QjhBbF81QThhQWhxLVNnNnhlbi1MUVgxU1J4WnVaVGZObHp2MWpWSTVfc19aX1Z3TC1YVldmUmJtSEJpZTNmWkxCZm1DQVY2VEpaaVdBRmJBSHdhX1YtaWs?oc=5",
-    "summary_en_or_original": "SAPのAI戦略、Sapphireカンファレンスでも株価回復に失敗 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 02:27:20 JST",
-    "title": "SAP blocks external AI agents. Salesforce and ServiceNow don’t. - Techzine Global",
-    "source": "Techzine Global",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTBpeDRCT3R4UVFFSnNpR2VyVFBZVmhkUC1HYnNHdXZCMXNuU0ctX2NpNjlpS040bTR5U010OUdQdUliV2JuWldueEZsZXg5cjRwcHRTYV8wdXJfWUk2SWt6TUx4UDZPQmlldHpSS2lXMVVyZ2NsbGluVENsRUE1RDZXY2Z0NFBDT3NMS19jbzZkc1d4RU5Rd1dWLXJtYlh5TktFY2psLXJramhXZGhBbw?oc=5",
-    "summary_en_or_original": "SAP blocks external AI agents. Salesforce and ServiceNow don’t. Techzine Global",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 01:05:37 JST",
-    "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise - SAP News Center",
-    "source": "SAP News Center",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFNzQTdoZzlEcnA0ZklTa0RpVWV2Z29UaGxCYmVlaXI4Vjd5bUtvSHBpNi1TSThOSHJHSmJfSmRfN01uajBrVmw3U0NPV1pHREd2RjVaSGNGeHBXei1JbUk5NVhVc0tnckg0NkU3WEdqRHVlRGc3ZkplVkVMczRFRUFsWTFncjByZzJHUmtiRmdJRzNXbzJzSDJSWlpJZWtp?oc=5",
-    "summary_en_or_original": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise SAP News Center",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  {
-    "published_jst": "2026-05-14 01:01:00 JST",
-    "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
+    "published_jst": "2026-05-15 15:00:00 JST",
+    "title": "The Path to the Autonomous Enterprise: SAP Announces New Sustainability AI Agents",
     "source": "news.sap.com",
-    "link": "https://news.sap.com/2026/05/sap-sapphire-keynote-business-ai-platform-power-autonomous-enterprise/",
-    "summary_en_or_original": "A bold new vision from SAP will enable customers to use agentic AI accurately, securely, and at scale.",
+    "link": "https://news.sap.com/2026/05/autonomous-enterprise-new-sustainability-ai-agents/",
+    "summary_en_or_original": "With the Autonomous Enterprise, leaders can deliver sustainable outcomes at scale.",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
   },
   {
-    "published_jst": "2026-05-14 01:00:00 JST",
-    "title": "A Symphony of Partnership to Ring in the Era of the Autonomous Enterprise",
+    "published_jst": "2026-05-15 15:00:00 JST",
+    "title": "Certification in the AI Era: From Knowledge to Capability",
     "source": "news.sap.com",
-    "link": "https://news.sap.com/2026/05/partner-summit-sap-sapphire-autonomous-enterprise-era/",
-    "summary_en_or_original": "SAP partners are the company's force multiplier to bring the Autonomous Enterprise to life.",
+    "link": "https://news.sap.com/2026/05/certification-ai-era-knowledge-capability/",
+    "summary_en_or_original": "Success depends on how effectively professionals can apply their knowledge alongside AI.",
+    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  {
+    "published_jst": "2026-05-15 10:20:00 JST",
+    "title": "首脳人事から読み解く「これからのNTTグループ再編の行方」 - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0NXbmlqMTdVNFRzSG9Qbl9MZDFib0huaW1HR0diUHY1eUtJTGhDMTQtSmdETGpZa0ZJSnM0LW5EVnpjZTh1TXFQa0NOeXdNSkZMQ1FmVFFwZjVEekV5cXowOWhSSnVka2twSGNiTnFJdzAyVHRXUWhYa1hUME51MXpkZGxrLWt0?oc=5",
+    "summary_en_or_original": "首脳人事から読み解く「これからのNTTグループ再編の行方」 Yahoo!ニュース",
+    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  {
+    "published_jst": "2026-05-15 07:33:07 JST",
+    "title": "「世界サーバ投げ選手権」2026年も開催 チャンピオンはSAP従業員 - ニコニコニュース",
+    "source": "ニコニコニュース",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kY3FjWmE0VmNRTms2dlMzYm5uM3RpZXVjQXZ4VDZqblY2SlZCUzNGWkpueWhkLU91SWliTkZTZXd3TmpnQkZFZGxGX1gwdkpWa01TUUd4cXJxUWdDUlFtMl92X251ZGtZTFlMWC1VakE0blNNY1lQV3Vqdw?oc=5",
+    "summary_en_or_original": "「世界サーバ投げ選手権」2026年も開催 チャンピオンはSAP従業員 ニコニコニュース",
+    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  {
+    "published_jst": "2026-05-15 07:00:00 JST",
+    "title": "SAPが「自律型エンタープライズ戦略」を始動 AIエージェントが業務を自動実行する時代へ - ITmedia",
+    "source": "ITmedia",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEb3ZJcUx2RmpJS0RhYk4zWFRKZzl0Z3JBQ3MwODVtT0ZMcENPZlpYQ0thdmI1ckJlQ3owcklPU0VTN01KSHFwM0RfVE1md2RCN2RhY3p1Vk9ZTUN5SXdBNTJmWkpwWTZPU1RQZ3cwZHNUUENJ?oc=5",
+    "summary_en_or_original": "SAPが「自律型エンタープライズ戦略」を始動 AIエージェントが業務を自動実行する時代へ ITmedia",
+    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  {
+    "published_jst": "2026-05-15 02:14:06 JST",
+    "title": "CERT-In Sounds 'Critical' Alert Over Multiple Vulnerabilities In SAP Products - NDTV Profit",
+    "source": "NDTV Profit",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnZIYkJBMHM2MzljbWppVEQ3dWlxaGs0WDFjQVU1ZXNsbmdnOXAxTEx5REIxOXZPMkZ3V0hjc1IzMG8zbEZGNzU3ZUJSRXNrVVNveVZuNjY0cUxYQTVCby03YTl6X2dZLU5RMWY4am1wQjVhZ2Zac0tzZFc3X0Ryb0wwTzBTeEVyZnFzaVRlX3hxZTVLSnRwT2hKdndRX0s3TXI1OGpCWGVtNFVXbXh6bFdwMFNkOFhOOXJ4bWFFY9IBxwFBVV95cUxOVVBQWXJHRnhrYUFPcVVfemN0RTNhVV9lTEozVmpTaWowamE4ODNHNWlFTDBIUVZYRGdpMF94TXZJdUFlMHVidDBwR3ltY0F1R3ZRSXhNRC01WWlyX1lsalg0cFZsa2xJSE5EUzVUdVpBMkdsaTNpV1h6X0w4Q2JBT2ltZ3dJSXpkZzNRNDc1aGlOd1l6WjdfTlc2YnNaaXJ6Y2twMDN0bHQ1ckFTQlo1QzI1LVZNQXpuZ0phMVFmMk9kREJxOFJn?oc=5",
+    "summary_en_or_original": "CERT-In Sounds 'Critical' Alert Over Multiple Vulnerabilities In SAP Products NDTV Profit",
+    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  {
+    "published_jst": "2026-05-15 01:45:57 JST",
+    "title": "SAP Taulia launches AI working capital tools - FinTech Global",
+    "source": "FinTech Global",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZkpvdkQ0N3g1b0VQVnlOMkQ0X3l0ak81THZaRU1vVXBuOFR0WENmekU5c0FKc0hITXlFRFVpampxY010UVJabkZnN1kxMGtkT25KWGdQX2ZPN3FZb0NEZTZYWHBhb3RkX05YMGhpdVB6YmgtNHJldDQzeGx4SVB0SkxhZnVjUQ?oc=5",
+    "summary_en_or_original": "SAP Taulia launches AI working capital tools FinTech Global",
+    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+  },
+  {
+    "published_jst": "2026-05-15 01:00:15 JST",
+    "title": "Enabling Autonomous Spend Management with AI and Connected Processes",
+    "source": "news.sap.com",
+    "link": "https://news.sap.com/2026/05/enabling-autonomous-spend-management-ai-connected-processes/",
+    "summary_en_or_original": "AI and unified workflows fundamentally change decision-making across the spend life cycle.",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
   }
 ]
