@@ -1,5 +1,59 @@
-# SAPニュースまとめ（2026-05-24分 / JST基準）
+# SAPニュースまとめ（2026-05-25分 / JST基準）
 
-- 抽出件数: 0件
+- 抽出件数: 8件
 
-昨日公開分の記事は見つかりませんでした。
+## 1. Ericsson builds SAP data fabric to scale AI across business - IT Brief UK
+
+- 公開日時: 2026-05-25 23:45:00 JST
+- 媒体: IT Brief UK
+- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxPWWYyYWtZOFZ5R2hITEtfX3lBMGowWVdYT0RqSC1XZTIzZGxGZjA0S0x6VHY3Y19CelpVNjlsVHI2Yk51QllKaE5DeU1qMTAta0hISHN1OGRJeUFpM2tzdk14bUYyMWlNM0VJak9GbDRCQXhwaUVfb1JKRDN1cy1VbThMMW52SlRFdlpHMWVMN3c?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 2. SAP Signavio Marks Fourth Consecutive Year as a Leader in a Gartner® Magic Quadrant™ and First Acknowledgement in Process Intelligence Platforms Category
+
+- 公開日時: 2026-05-25 21:15:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/05/sap-signavio-gartner-magic-quadrant-process-intelligence-platforms/
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 3. Three Journeys That Redefine Logistics in a Disruptive World
+
+- 公開日時: 2026-05-25 20:15:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/05/three-journeys-redefine-logistics-disruptive-world/
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 4. SAP's Ambitious AI Strategy Clashes With Tepid Investor Enthusiasm as Cloud Migration Becomes a Make - AD HOC NEWS
+
+- 公開日時: 2026-05-25 20:02:07 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTBFTTB6MW5oY2FyQWxQamZlTTlPX1dlTlhPMXA3bWdTVkEyWXVPQ1RtT2JXZ0s2WjU4ZGxxY296ZWxKN21TdDltTEVFVldPTTV3QWpxVXFVY0JoTllEdjlTRzhOTkFyVHBHWlRJQThZTl92eE9NcXI0U2diRXJOMmkwSGhSejV2X2FvX2ROQmFiR3F2MTZXcVZaS2tEOE1TYTgtdHEyZnplZ1JLeWRsSVRFeHpiRjRuaWRUMXVaM1ZzQzk1ZHdR?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 5. Signpost: Does Software Have a Future? - SAP News Center
+
+- 公開日時: 2026-05-25 17:06:03 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMifkFVX3lxTFBWVmRRaHpEYzRIaHYwNWROTDRGb3hCVmVNMUUxQXZSSkpjZDctR3k2SFh0c1Eta01xX0RBYkllMms0Z1dFbHdrLWRkQWdDb2xXXzE5RDB5UzdMV1NtNDduTmNXVUExM0F0cWZqZXhuZVBiMXZhMUJ5aUxIS1REUQ?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 6. セーフィー株式会社、海外展開と数倍規模の成長を見据えた事業基盤として「SAP(R) Cloud ERP」を採用 - ニコニコニュース
+
+- 公開日時: 2026-05-25 16:15:29 JST
+- 媒体: ニコニコニュース
+- URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE1rajBzaGJnc2xBaUttamxTR2ZOOFdvQmRRZVhaSXFDWUhmazVxNGY4VWFlcXlTUFJIZjYxWmZfUDRhTTQ3NHRjV3diS1k5TVp2bmowX01GU0RqWEw3bElVRnZRV0JFd3Q4cFc3YnI5aEViWlcyVUNFa3lGcw?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 7. SAP stock (DE0007164600): Cloud growth and AI drive investor focus - AD HOC NEWS
+
+- 公開日時: 2026-05-25 15:22:32 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUYzWG9tQVl3TmhjYzhabkc1TlN5WW5ZcGR2Vm9nZkxZbEFMUXh4Vk5ydDhfUHBBTkhtNklvTWctTF9vbjNoNkJpOE55bkNFQ3hUdE5sYTVxTGk1TTZvZE9LZ1BmN2RBZ3FMTUVpUWVJT3JlRWx4b3cwUGZmWjFyZzAyaFJwSmtUUng0SkI2Z0NhVU16eWFUMFdBcC1GY3dkZ2FlTUtUU0lUVGdIdDFCWTlYeFI3MHVZcjZ6SUNoSQ?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 8. Tricentis expands APAC presence with new hub in Singapore - CRN Asia
+
+- 公開日時: 2026-05-25 04:56:33 JST
+- 媒体: CRN Asia
+- URL: https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDdDTGJUb0lWVE5QV2UtMDBYeUhtclhOTWVGOFBXS3NQVWpJejdwU25wVVJoUng2RmtZM1czQkJIdkVOVDFvWDJCVEV2X1JTdTBsMW5pT01aMkFKN2ttZE4zV09DdGhkUENteDZ0ODNYeHEzNmJKMHk1bXZGTGdTeFNNLUtXN21xajJ1WkpWYWgxTUVSM3NmQmdsMWsza1Zacnc?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
