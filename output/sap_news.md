@@ -1,17 +1,24 @@
-# SAPニュースまとめ（2026-06-13分 / JST基準）
+# SAPニュースまとめ（2026-06-14分 / JST基準）
 
-- 抽出件数: 2件
+- 抽出件数: 3件
 
-## 1. SAP Launches Joule in SAP for Me Portal - Grocery Trade News
+## 1. SAP Stock Teeters Near 52-Week Low as Oracle’s $70 Billion Cloud Bet Crushes Margins and Sentiment - AD HOC NEWS
 
-- 公開日時: 2026-06-13 18:53:44 JST
-- 媒体: Grocery Trade News
-- URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EWlBpZkYwMzBSeU16d3MxVzMxdDdLQk5vWlNuN0NaTmFyT0ZpcTlPekVva2t0aVh2Tjk5YUNLVVZEaHVIRHRXZmFLbW1lWk41X0Q1MXVvdG5fcmotXzlSd0pmQQ?oc=5
+- 公開日時: 2026-06-14 20:54:16 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxNaFVYdUw0T2pITDdacGpERzg2bXZxZmZQVVZRMGd3VlZlYll1Ync1UW9XZGNhRGRYa3paZnBwaHhIdnR4ZzIwWG9IXzFkdkJSNkU2d2NJVlRoQi1OaXUxb3NSLW44TE9RWFRtNFpMZHFpSFBpWThCMUJ3MHV6Uk5tRXpjMzdtclJsRW5OZEJtMkdIbFptdkR2NkxTbGVSXzFjYlZvLVYzV1AzZHM5MTNSbXlabm5NTEt4d3BVM2UwcmF4VUo3?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 2. SAP’s Joule Bets on Agentic AI to Redefine Enterprise Support, Will Customers Buy In? - The Futurum Group
+## 2. SAP’s Cloud Expansion in India Can’t Offset Margin Anxiety as JPMorgan Turns Neutral - AD HOC NEWS
 
-- 公開日時: 2026-06-13 08:07:33 JST
-- 媒体: The Futurum Group
-- URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbnNOUTdwdEt5dnIwdXJ3RTFLMzcweUhlQlZubjhBNTd5aENkcnQyQzVrMHRpZThqbGloUTlONlFlSFpyRHVzQ21qMmc4WWlPRTJ4dml5d2RBTUs5cDl4M2JUSndlQ2stSVVCZjgwbXZTTmFxR3JGZVh2cjVEbFI5Z2hWWl95ZlV3ZkRvWlVqbHFCTnBzNkZGRmNOTzZCR1N5V2hvYXpzOEotS2ZEelFRd05PZXFsc3Y3?oc=5
+- 公開日時: 2026-06-14 19:14:26 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZExNbmVpWkYzQng5NWFiMXIybVNWNTE4SWxGdHk4djBLQUNGUFZYQV83QW1mZVhwa0lGRHZuMzBxbE9vWGRaVUhQcUNtckt2VktycXo0T0tTQnB6TjB6X2tFWXpqWGU4NGt4UFBibkQ0aVJzeTh3cTlWLVkxX1lIbGtuVTd6S1R5MkdzNVpTS2JKcUU5Qm85U2REQlNiRkJITVRSaWFoNzVZYkhMM3ZyMG5vQUpZTGt0Nk04U2M3cnRNa1FCWlpQXw?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 3. SAP highlights agentic AI push as enterprises move from demos to daily operations - digitimes
+
+- 公開日時: 2026-06-14 10:42:40 JST
+- 媒体: digitimes
+- URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxOVUhfSUNwTGppV3B1dHZ2MUdtZWlSM0dMVTNQUnhxbl84d2syNXktWjRmQy00RWJOM1lqVmx6U3pMcnpoT1J0WW9UWE56UHJNMjBjaV9OcFNuaDY2MmxGdENNdGpUbGI2Q3lMQzVLc1M2RlduOU5MaFBWTGNFRkgxNmR5TlhTZFdBanBVREZLZklZOEY1MUM3MklR?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
