@@ -1,101 +1,101 @@
-# SAPニュースまとめ（2026-06-29分 / JST基準）
+# SAPニュースまとめ（2026-06-30分 / JST基準）
 
 - 抽出件数: 14件
 
-## 1. SAP SE ADR guidance reset, shares reflect new cloud margin path - AD HOC NEWS
+## 1. Successful partnership - SAP News Center
 
-- 公開日時: 2026-06-29 22:44:36 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxQUG1MVWZ6SVItX3JkZzdQQ0tXWWMwdnJQdkxxWnRhSGRBb19hVW5vSm5feGozY0ZBNnNuaUNveUhTc1BhLUtEZmwwQlM0UWRkX2dCUUhhSEYtd3FvUzEwWUVSb0dGNUs3MHVwaUZOQjB2UnZXam9wQlNuRlhKd2RKZEVKVERrckdMcnpxbS11MVVXX1RwYkozREoxQXhEWmxaMHhkbDdzMGxVOW5xWUtBaFlmODRQNnpXMWYzM3h3?oc=5
+- 公開日時: 2026-06-30 23:36:08 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxQQXlSMnBlUG5XTkRwMmt3THlDRU9BTmdySXN3YXZPdWhzQktkam5Xc1JadEY5V3ZIN3FaOTlwZjRUSy1sZDJjbS05TTI0TkQ3YlMwNzd0WXBWVHR1b1NDY25xOHNNbnV6VG9NOGN6NDBCdEVLUzM3dzZpbkRFSTg2ZmVLSnRlb0xsOF80T2dBSldWdjdsYS1HdzQzUng1TnI1ZmMzU0VkSE0weFF5UTFUdUttSjBubVo4TFg3TW5nYw?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 2. OMV’s Approach to Data-Driven Workforce Decisions
+## 2. Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation - SAP News Center
 
-- 公開日時: 2026-06-29 21:15:00 JST
+- 公開日時: 2026-06-30 22:05:36 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxQdHNDZDlmSEwyd1VtZ1RRQjJNTjZiSW45bzZfVGljUWxPSGVCYVZvT0NQOGdTZlU1OHFpMFdveWozYTBhWUJKcW1xTG5OVmxaUkhZZVJ1X3NCYXp2Vk4ySWFfeDhfay1MWmVQb1NPaEg3cER1RFhudHhwLXB2eGdJNWsxMnctY01kM0FEekc3Q0RUcTBiYVVZSDN6cm45d1JTcUxKRVNaYThIbnFSbmQxTVVBeEV3Q0FxbW5vYi1jWlhiYzdFX0lR?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 3. Nokia, SAP and Microsoft Enter Strategic Multi-Year Agreement to Advance Cloud- and AI-Driven Business Transformation
+
+- 公開日時: 2026-06-30 22:00:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/06/omv-data-driven-workforce-decisions/
+- URL: https://news.sap.com/2026/06/nokia-sap-microsoft-strategic-multi-year-agreement-advance-cloud-ai-driven-business-transformation/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 3. How SAP Customers Are Simplifying Software Expansion with SAP Store - SAP News Center
+## 4. Syntax Expands Its SAP® Global Operations Certifications - PR Newswire
 
-- 公開日時: 2026-06-29 20:20:35 JST
-- 媒体: SAP News Center
-- URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckxqRmd5dmY4OFNDbzAzUUtKdjdRNVRMcGsycnBfQTIwOHcwLVhDZnphMjNBQmZ0UFJuZGZJLUlEbzhRZXM3SzdjV0RnVFRfMTZhUEpnODVkTktnRVpyVS1la0w3bTI1X1RZdTdadXg3d3RBVF9lNjlyc1lJUkhBT0dDY19PTVVq?oc=5
+- 公開日時: 2026-06-30 22:00:00 JST
+- 媒体: PR Newswire
+- URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0VCUEoyM1lQdHBmbVdaNDdxYmVicHJPUVhfV3pVWnUtTUwzekUzNnU3RjBtVnZKeUtRSXZXcGI3Tm8taGlwb05GUHFCRmpINElEU2NVd2o4UG9ON19qaENoano5UWpOMTk1LTV3MU8zNzBtLVRBblNGQWdGT21GVE9WOHFydnZNWnBsb0Z1QjJ0ZFA0cDkyMEpyeGFNZVpaZGRqYmVMWkNuNWt2SkJMYw?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 4. How SAP Customers Are Simplifying Software Expansion with SAP Store
+## 5. SAP’s Cloud Strength Offers Little Shield as Shares Shed Half Their Value - AD HOC NEWS
 
-- 公開日時: 2026-06-29 20:15:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/06/how-customers-simplify-software-expansion-sap-store/
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 5. Sankara Narayanan Appointed Senior Vice President and Head of Product at SAP - CXO Digitalpulse
-
-- 公開日時: 2026-06-29 17:35:09 JST
-- 媒体: CXO Digitalpulse
-- URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxPTVpKYlRhT1ZtTEw0YXpWczJIcEdIcXVsZEY1WHFjTFptZ0hIMnhkei1kQVRjbXdnZWc2OHJPVmZ2YjJCWGI3N2dmOXNhN0tOcHlCc1dOTGRCRjhLdEtiMjhfYlJ5RkxyVVFqQjRGdVQ1VVFRMmRBTUtRaDJFTmtVd2NoME11dm15M3FFRnBJeDZWV2xFWFZ5SjBzcjZ0aUhtMkZtWHRaNHBndTA2MlE?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 6. A $10 Billion Cushion, Yet SAP Shares Are Down 47% — July 23 Earnings Hold the Key - AD HOC NEWS
-
-- 公開日時: 2026-06-29 16:52:14 JST
+- 公開日時: 2026-06-30 21:11:53 JST
 - 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjdfQVhFVlF0MnJhWEhHRTYwZ0NMX2Uza3JfeWx1eTllNVllOUVDOFZfdFJkRTJQenBzQk9lLUpmeGJDOEM3RWhCUzlvYnRlX2tTcmt2TG1HeUFkU0gzSk1mZHAxUVdXMXNxQ215Qy1RMHU0cUhsS0s1QjNMRUItRUZVT1p2b2hrVUpFT0x4bnpBaDlqTlhwczEyYlQ4RXFKazBoRjZlQVdHdDVpM2hMeVY4VlNtSEp3RUowV0xWQQ?oc=5
+- URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTc2WFBZd05OQmRUcHNaNmhXN0VkNlJtQXB2Y3ZLVWlGZUJ2Q3J4S2UtdGZMeF9CVHUzZUxnbDVvdTZzQ01MWVlNTENvYm1yOVJRUk9zbmVGRjkzeGpZWE9lWHdEQU1jay1RTXZBV3FNSlpwS1l2RkpYektZdm1iTWtoTUR6VHAzR1drS0syRExZQWkwWTZpTnFLMTdnemFaSGNDNkhzZHBCWkhfQ1NwV1pSQWoyQWUtSVlzdlI5RThfQURT?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 7. SAP、「2026 Fosway 9-Grid™ for Talent Acquisition」において「ストラテジックリーダー」に選出 - SAP News Center
+## 6. データに基づく業務改革 AI活用につながる自治体DXの道 - projectdesign.jp
 
-- 公開日時: 2026-06-29 15:52:32 JST
-- 媒体: SAP News Center
-- URL: https://news.google.com/rss/articles/CBMioAFBVV95cUxPajNVcjJ3bi1uSGFKYUxXUlh5LUtJaXVvSnpjVkEwVjhkOHF0dU1kNFJxUHlwaDdoYzlvdjdsdHlJSW5fSTUxU3N4QjhlS2MxVzZSend2NWhNYU1tRVNfYjE4ZzI3aG4ycXRIZFdBdXRxdjV4bXF3Vnc0VTJrZUJmVDYzZjlsazlSSXdqRHdsU3hiakFxRlpISEJDWXJFN0xW?oc=5
+- 公開日時: 2026-06-30 20:02:01 JST
+- 媒体: projectdesign.jp
+- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE1LS1kxczBTTjY1aXprZ3BPM0d4c1RSSTBGMW5ianJLVVdXSVRvTTRlZlpaM0NyRkIzeV84M0FRZmFteTRKd0hYVU9WNG5rb0dxYnhKamlPN3hsdm96WERtNDRoQnVFbV9iSjBnbVd2LURUYXZ4M3FFc0VNVi1YQWc?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 8. SAP Procurement Agents Are Reaching the Front Door of Spend Management - ERP Today
+## 7. Natuvion resolves critical structural errors in GM3's productive SAP S/4HANA environment in record time - PR Newswire UK
 
-- 公開日時: 2026-06-29 15:28:50 JST
+- 公開日時: 2026-06-30 19:57:00 JST
+- 媒体: PR Newswire UK
+- URL: https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeHJfQTJHbG5EY3dkWXVBbmZocy1qaFkxSzJQZXQ4RDZXOVRjVTNGZllHNUJuTkhqTmNxQ1Z0Ni1uX1ZfWjU1b0g2RnJLR0pnR0NWcTVhMUlBdC0tMWdTUk5PaDl4bko4NG1BaW5RWWdkZWRVcDNVb3ZCb3RRVWxsYWowN1pVVFBVZ3MwT25FRnNONGlGX1lrZVRQemh5d2JLSU1xa3ZLQVJrVl80RHhZNEhXeEZjVXY2NmxnVWVPcy1FZEF0LUV3bnk5Szd3b090LXlXdC1laG9IZEN5NnNERVV6UmZMdkVuWWttVGtJVWQ?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 8. SAP's Worst Month in Years Triggers 'Wall of Worry' Opportunity Ahead of Q2 Numbers - AD HOC NEWS
+
+- 公開日時: 2026-06-30 18:33:04 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOVY3bkx2OWtZOGoxSnVvUGh1VXh0LW5TLTBlekRYd0pHLUJuM1VNTG55M3Z3SzBXUTM2Q2I5NnFVNzhYbFFvZERVYnpZN21HeGR1UVIta1lWeVR1b1MtX2lNSk9MZ01ZeFVFNklrdDY3SFM4WHNBZTE2OWVCYmVZTm1NbzQ5RE9iODUzREtxMFBCLXJLV0tZYjlFUFUzY3VkNXJpUEtkQ3FyV2M4ZFlaUlAtd3NSVGJBN2NvdVJ4YUVfdW9mbFVJbg?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 9. Rimini Street Provides Third-Party ERP Support to Pyunghwa Holdings - thelec.net
+
+- 公開日時: 2026-06-30 17:42:02 JST
+- 媒体: thelec.net
+- URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RRDRBcFBETTdHdm1aS2NQaEE1NENJaGVaaG9ENi11ay03M1JzdzlNRUJ4ZjhmRUlJYWh2OUE5X2JHVDBYN1RqNXUyZjR5aExuNlgxQWpqTUxIV2Vha252NFM4RmgwOEk?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 10. ノキア、次世代クラウド進化のためエス・エー・ピーとマイクロソフトを活用 - Moomoo
+
+- 公開日時: 2026-06-30 16:00:00 JST
+- 媒体: Moomoo
+- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpQWl3c0Q5R3U3ZmVlcm9qQnVRcGkxOGQzTDViZGFCUVhCemRMT01iaHZXdnFxaUFNN2RoRUxpcDFKU1hfNW9hcTFQVUwyWE1qS2pXdlItQ0tNQmVlUHRndU11R01xanhjT1o2b0hxQzBsa1JHXzdjZHZIMTJHWGxrdmhEVUZ3NFdRTU4waTliTzdSbGpvMGlDWHQ3d01uRzBRbk8yblRmWkd4?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 11. Nokia Taps SAP and Microsoft to Fuel Next-Gen Cloud Evolution - Moomoo
+
+- 公開日時: 2026-06-30 16:00:00 JST
+- 媒体: Moomoo
+- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUVjM1VqTzg4WTh6ZlQyOUlrS2R6ZXUwOHFBT0taeWpWd1k4QXl6YzdJc1lNXzVuZ3FvMnRwUTUzSDZXN0NOYmYyVmxrcE9XSThEQ2xtTVFCMzR3anRYLThNOUFaM2VJQmhkZlRQWl9rRGZHNGs4eGxReVBEb1VacGdreEdoSUkwYTdGVk9hUVJBNTdYT3pyX1pWT1dIS1hYbkxVWXJYam4?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 12. FPT Achieves SAP® Silver Partner Status in the SAP® PartnerEdge® Program, Expanding SAP Capabilities for European Enterprises - Business Wire
+
+- 公開日時: 2026-06-30 15:00:00 JST
+- 媒体: Business Wire
+- URL: https://news.google.com/rss/articles/CBMiigJBVV95cUxPNlY0eUk1M2RQYU5YNzE1d1IwdEItUDV3djE4M0FLaEhKa3BkYXBubkxndWNfUGJzeXNhWkFlWEVqR1VfMk9ZaXJPMjZ2RkVYMm9hRzV3eEpXb2dnQm92TzMzZllRRVFGTjFTUVJob2xwV21DY2NWdDhfZ1BqTUh4b08ydTRCLXhIUjVBeWtEUm1vZUxsbS1mWXNIX2o4U0lYaHZhdTFybEI1ZWtaRS1Ncmk1V21WVG1Kckx3TlNQSzdEc1VzMXBWYXh3MkxpY2xCX0JOdlBOZFZXbkNtbmw5enhXakt4bi1FRGg0bkYzOVNaOGxTOTdFN3g3YUhhbXVuVXM2QkQyMk1LUQ?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 13. F2S時代のSAP S/4HANA®導入における成功要因～AI・統制・変革定着化の三位一体アプローチ～ - KPMG
+
+- 公開日時: 2026-06-30 14:31:17 JST
+- 媒体: KPMG
+- URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZzVXSVF6bW1KeU5sbnFPV1dSWDAzRHdmendmYVpyTGxqU2duSUxpVzNxbEpfMUh4MWxpMG1lbXhFSUpKdUxWbUhOcDg3ZDRuWVVqWTRIdXp4RnJWREVIUDRB?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+## 14. 10 Stories That Defined Enterprise Tech in H1 2026 and What They Say About the ERP Market - ERP Today
+
+- 公開日時: 2026-06-30 02:06:34 JST
 - 媒体: ERP Today
-- URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxQVG5scTNzcGZVejRzNlRTakJQSmVGUFh0UWtBVGJvTzlKdmVyUTZRVGFoZkkzenZNSTRxQVphb1dCQk10b2FXM20wUnpjRkNvSzEtcm1rczVIUF9SUzBwV1hkMnRTRWFfV0F2MTdJTWc5ZTQ3ZzZLWXlydFZWRm8ycGZoTDJIWlU?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 9. Microsoft Power Platform Narrows the Access Gap for ERP Agents - ERP Today
-
-- 公開日時: 2026-06-29 14:55:43 JST
-- 媒体: ERP Today
-- URL: https://news.google.com/rss/articles/CBMickFVX3lxTE50QVZ2X2c2M013UnpEcGlWX0s0WUlodnh5ZE1sQUhBUmtnTEFXbENRQmVNc0g4OGVmeXRLNURBTFdBS0JEend1RGxXNUdES3dtMG43STVHZElpVGRYRjROUXIzMUFoV05xdFJLMXNKNG4xQQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 10. 【SAP NOW AI Tour Tokyo登壇】生成AI時代に求められる「次世代の会社基盤」とは？ 〜モデレーターにフリーアナウンサー酒井美帆氏を迎え、AIが変える組織の役割を解き明かす〜 - ドリームニュース
-
-- 公開日時: 2026-06-29 13:00:00 JST
-- 媒体: ドリームニュース
-- URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xV1pBLUh2MmFHY3ZZQ1Q3LTAxMmI4UjY1c1Rhb3g5UFlwMlBkal9aTTMyWVFwTGV5LUg5U3JTMmJ4WlJSbUxDWDVXbGtUWDlaVXpv?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 11. SAP Sapphire 2026で語られた「Autonomous Enterprise（自律型エンタープライズ）」のビジョン - EnterpriseZine
-
-- 公開日時: 2026-06-29 12:00:58 JST
-- 媒体: EnterpriseZine
-- URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE93ME12bE1Eb1BaUlZ2aEdEa09Dc1psSm1abG1ZaS1xQ1dxYU45dWxEMW4wNjgxZmw1SkRKSDRrUElSLTZXaGU4d2RDTHc5RDJWMjhUaFJTa0Q5QQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 12. SAP、SAP for Meに「Joule」を導入：インサイト、サポート、ガイド付きアクションを実現するAIエントリーポイント - SAP News Center
-
-- 公開日時: 2026-06-29 09:57:14 JST
-- 媒体: SAP News Center
-- URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE9zWWExdXdhZ0ZfMnY3RlYzMU8tdm9ZV3U5b2VUcGJDdG91ZjJZbU83Sm5RRDhWRXVFZzdRam9ONUhqU1k3T29nQUR1N3FSSllCeUh2Z0hVVEV3eDc5MHctYUhlMWFFYVo0VDM4RElQaU1NSkJWWVFsSGx0MVFKUQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 13. 株式会社Anfini、「SAP NOW AI Tour TOKYO」にスポンサー協賛 7月29日開催イベントでSAP×AIの最新事例を紹介 - PR TIMES
-
-- 公開日時: 2026-06-29 08:40:02 JST
-- 媒体: PR TIMES
-- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5hTVhGWlJTcVQtOXBINWYyamRBek1YUlkxQUJHSVI2b2V3SkFEcGpvUGZiNmVubW5YMlZYY0ZjWTFieGJHZThVRy1WRVhBN3F1MDdBanhOYlZFbHhVTTlCZjN1YkdGYVNHT0E?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 14. 【業界のキーマンに聞く】SAPジャパン・堀川嘉朗社長 ERPをAI時代の経営基盤に 「和魂洋才」掲げ、現場力生かす - 電波新聞デジタル
-
-- 公開日時: 2026-06-29 05:09:04 JST
-- 媒体: 電波新聞デジタル
-- URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pcVlkZU8xMHdnR0J2NG15dk12MXpfR1FGdkxOcG9IQk92djdqLTZKVk1zcjFENFlKTlFBcWR5dE5zajFfZmNZdFAwZ3ZBM0p2R3c?oc=5
+- URL: https://news.google.com/rss/articles/CBMia0FVX3lxTFAwUkMxLTk3eklPTjVTYnluWGxrRk9fWDNwT2N5Rm5PRUx5cW1sOU9rb1lfX2diTGtDMjNTMC15SzRlX2xGd3MzanhLUTFNbXRIRnRjdGdpeURSanNYZkRJbzRQX3VhUVU3cWtV?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
