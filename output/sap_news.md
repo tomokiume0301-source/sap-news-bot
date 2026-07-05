@@ -1,31 +1,24 @@
-# SAPニュースまとめ（2026-07-04分 / JST基準）
+# SAPニュースまとめ（2026-07-05分 / JST基準）
 
-- 抽出件数: 4件
+- 抽出件数: 3件
 
-## 1. SAP’s Mixed Signals: Cost Cuts and Cash Bonuses as AI Bills Mount - Ad-hoc-news.de
+## 1. SAP stock follows its business model. Investors watch the next catalyst. - AD HOC NEWS
 
-- 公開日時: 2026-07-04 23:47:22 JST
-- 媒体: Ad-hoc-news.de
-- URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYU1HZU81UVlRSnNfVVkzRlFLWkJMQTIwa3I0RTdjUjFNc0hDV3dSZ2NZMVc0NlpqRHlWNm50TW9xQTJOSmlJUXY5WHo1NktwZ001cENaZFFna191WVFBd0VlTXR4MnBUdDgwOVYwcUZTRjNmMElZdXl1Tk84aFpWVGJ1UzBiMkk4aFN0b2FGbFEwRTA4bFA2dFIwN0JIVkdpTm42MW85NTBQYWZyamhfYTVkQmV4X2J0cnhwclhGZTQ?oc=5
+- 公開日時: 2026-07-05 19:42:19 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcU1uUWdWSUJTeUhLbklIN3J4czJYeUhCSDBEWlhSOWZubWcydjZleHJZNDNPX3RKQ0Q5LWI1YWRmNG5HOTQ0a1ZRY0FtSmN4anU2eXdLY2xPanRMRzhZRjdJRjRwdVVyMmlaWUlZazVqakxLRUgteGRhNDZzM0J3cjd1bE9wLWlRLTVhNTNUd0JGT0k5ZHlNOG1JY2dGeHJDM2JNSy1Dd01OSGFVTlppWjM4OS1XVWUxU2c5RW9ySTVUWE5nb1VrRg?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 2. SAP outlines long-term cloud strategy as global demand grows - Ad-hoc-news.de
+## 2. Moran Wealth Management LLC Buys 6,498 Shares of SAP SE $SAP - MarketBeat
 
-- 公開日時: 2026-07-04 19:39:15 JST
-- 媒体: Ad-hoc-news.de
-- URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjVGT2NRRmN1eFJsb0poVmtQZHpTS2lRa0t6eGl0TXM5QmYydG50SmxIdERQUXJobGJ6aEZMNHo2THFPZXJ1NkpQbkdkUGJIcmNDSzZkZUZvZjlNanlmRmR0WW1zUGE3OEFkS0pFVjdHcDB3cFRDaktQSGRaenYwR1hwY1YtaFhHbHlYUXBZa3dMU1lZLW9ySmdSYy1pOGxIcFBEaHJ5QzdtUTBSVEpXZ0lKMEJTaWpYbGlN?oc=5
+- 公開日時: 2026-07-05 18:22:10 JST
+- 媒体: MarketBeat
+- URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjZkN0g4WXVnQzZqRkFaYzVBVUVYU25TNUZYQVIzT0VraHVpZFJVeTdWVG5oMzcyenc5bWtJSlphcFBsMVNsT1F6MUFSZXk3bHpFblJpTWlHdTNadzJjWHJRZmo1bzE3a3ZMc25Da2pIZXVFSnJGRHlWSmNxVEJmLU5CcXNUVDdBYlZyYkZDTWstVEw1cXN5dWdCdUs5dFd0Q0RYeU5nY3lkVXRnVExDSHJMUTRDZDNTSTQ0?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 3. ダイキンのグローバル人材データベース「DAIKIN People」を本格稼働：時事ドットコム - 時事ドットコム
+## 3. Elevation Point Wealth Partners LLC Buys 12,598 Shares of SAP SE $SAP - MarketBeat
 
-- 公開日時: 2026-07-04 14:40:00 JST
-- 媒体: 時事ドットコム
-- URL: https://news.google.com/rss/articles/CBMia0FVX3lxTE9KOWprOTdMLVhlZjdtdWo0UXlHd3ZQcHZWRzE1eE4yMy1BeEYtNHFJUGhtbGl4b0ltVkhjMVppcWp4NDlTaHVpTi1uOEliTzlTNTQtTWNMX1ZNcVJkai04eGpaNGdPQ054QUhZ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 4. Is SAP SE (SAP) A Good Stock To Buy Now? - Insider Monkey
-
-- 公開日時: 2026-07-04 08:37:05 JST
-- 媒体: Insider Monkey
-- URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzRRNTJSbjZVVFZmOG5fVU52VHhKWUVtRTdpTnBLeUpITmlhMGdBY2xLOHZvejdoc292UERwMGRRTnNDSGw4ckYwTEdhQzBLbGdoWDdCMkdlV3pzeFcwdjZnUG40a2NDcmNpVFFCX3ZUelNGUkIxYmM5OHVHRnF5ckNZRkNHRmNy0gGQAUFVX3lxTFBKd2x3SXg4MGRtbG5iYU14Rko1b2h3cjl1NGRKOTFhaXdJQmg1X25kN0lDVzE1ZzlPMng3XzJ4cHg5aGVOanFBa1FRdmQtUUhmQjVabXM3dkxEbDUzS294eDBCd3RMa0hBaUVIa0FQdzJ1Rm1VRzJCSnVaTjRsMG9LQy05TjdYTml4S1NvY3hHSA?oc=5
+- 公開日時: 2026-07-05 17:12:07 JST
+- 媒体: MarketBeat
+- URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDkxTWotQzNkNm9tRmZTckhNUTA2NUlsWVBQdHBvWFNiYmxRSVlWeUgteklnWjVVRzNGaDlZS2FoVTlOWW8wTmVnMUQ4UXo2TTFhUnBRV3lhSXhGTUZwREd1SkZfVlhGdWFjVHdrQ1JHVFlVSHBjZkIzVFdrcHB6TXBTblRqN3NxaTEtOUZrQTFNZnVMeFpFQlNXOWZFOGlYSDV4UkVFRjhmeDVPZnJXVjhocFE0c0VSQ0FpenVycGhETlJ5djln?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
