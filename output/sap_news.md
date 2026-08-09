@@ -1,45 +1,17 @@
-# SAPニュースまとめ（2026-08-08分 / JST基準）
+# SAPニュースまとめ（2026-08-09分 / JST基準）
 
-- 抽出件数: 6件
+- 抽出件数: 2件
 
-## 1. SAP Tightens Hiring And Travel As AI Spending Rises - BW People
+## 1. SAP's Two-Front War: Record Cloud Backlog Meets a High-Profile Hospital Defection - AD HOC NEWS
 
-- 公開日時: 2026-08-08 20:32:51 JST
-- 媒体: BW People
-- URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWd5NkttUFZkMzEtSlRpRVBZSXRnckZacHZNT2JsSTBwOTFWSkk4YVdoamFVeTd4QUZ2eFFXQ3FuSVdESmRaclY0WlRJNVhQLUlfNGdYbUJNMm83d1dIVGRoT0c3eVpHMVBMNDlBMTdFWWRPQUpIdFhHMFIxZVJ0M0pwYVN4eEJOaVhWenloU0NQem1p?oc=5
+- 公開日時: 2026-08-09 22:50:56 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUVpiZk5zODdIZlBZV1oySk9NSFF3NFo5aENDZ0NHcjlxeEpWRlI2b0dLWmNVbUZiZjJDVjhzWFE3YlNsRGYwTjZKOWR1TVJReWxtMVkxM3pQbmZyc0JjOGo2bTRfTmFya2hJTEtKQ3BreVd6VHlkWHNPempIbTJyZHVhUTBYeVdUUnRkSmJ0cklzQWdLMFNfXzNIYUZyVTRxN3VYby1aaXNLV2V1ekJrUFNTZVNYMHlnSkRFV2NNdHhpaEtxZmhTVS1jUnRScmZtR0VDeERvRTJmUQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 2. 『【SAPパートナー企業向け】変わるSAP認定試験、育成計画は対応できていますか？』というテーマのウェビナーを開催 - 時事ドットコム
+## 2. SAP's Cloud Momentum Faces a Reality Check as Stuttgart's Biggest Hospital Walks Away - AD HOC NEWS
 
-- 公開日時: 2026-08-08 19:10:00 JST
-- 媒体: 時事ドットコム
-- URL: https://news.google.com/rss/articles/CBMia0FVX3lxTFAyMG5tbGhvSmJvVGwyUTlrZEdvQldDTlRaTmM3Vzg5cUlPcWJJTDg3cmo0Mi10ZGc3M1Q4RmdkUllTRWl3c3pXNDFEZVBpYTU2Nk51UkFmZWkyaW9WWFVRMG9NNFBQQmJ2WEpB?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 3. Software sector outlook: beats across the board, but the re-rating is still incomplete - Investing.com Canada
-
-- 公開日時: 2026-08-08 03:12:26 JST
-- 媒体: Investing.com Canada
-- URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcU5fV1NIWGRBNW0wUW5qSnEwWGVvdEpuLWQwa1FNVGF5SWQ5ODFnamRmLUhiY2NWdEE2THdlRzA2X3NBZTFYcS10Z1U5MDJnVlFEYTE4eHpYWWpHY1NzS05wUEk5MWF1LWdrZ0lxMTJwQ09BeVpNS0s2V3duekxSdlVzYzhVTTZ0Uzl3MW5QYmxxNldKQm1OWklha19XNnpfbG5IWjIzbGdndGJxd1pFcWJ2Zkg4QjRtQXYzTGhsTF8yb2FuTENmd2I3S3piSV9FY0ljc0tEaHRqaGVs?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 4. SAP (XTRA:SAP) Is Up 9.7% After Deepening AI Integration Across Its Cloud Ecosystem - simplywall.st
-
-- 公開日時: 2026-08-08 01:02:12 JST
-- 媒体: simplywall.st
-- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ1lYM0FKSDE5MEZaVWkyVzhzV3FDaTJwSGFSV1hiX21FMWdzX0lJNGoyMmpHcm5hLXZVdG9oUGxmV1Y5UDlqRlNfMnlYRm9JMENqcEFRZ3BBN3NvbG9aT2ZtUnJWYjI3b2ExdTdlY0VxbGo5ek4tbHZqbzVUV3I2cWFIN1Z3aDFGZHFJZ3RScmJpWlhsTVpWNGt1Wm9lM01sZVRjNWlNTEdCSGNvNmkyZ3l2RzZOUnd5NVVzMDZDd3ZIb1XSAcgBQVVfeXFMTXhxSl9FYmJFTk5laTRJVm45RHMyeU9uTEdNUjcwNGdjandwcVBhdDVoX0FmcmZwUDVqaVI1dHdqZTIyZ1VSdXZibjBlUXRmcl9lTURMUGJJNWVoc19aU19sTzNlNWQwSW1KOGxlel9NdnRRRW1PdERzM1pvREg4Ymh5OG9CWFhPTkdBVkhPdHd4MUdYRGlCMDVvbUhRUWRPbkpRU0JLRUdBMVFNRWFYdzQtNnEyOWpaVmdWME1CR1p5ZFNJanhJVHc?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 5. 8月7日のSAP SE (SAP) 値動きは3.66%上昇：主な推進要因が明らかにされました - TradingKey
-
-- 公開日時: 2026-08-08 00:17:01 JST
-- 媒体: TradingKey
-- URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVJDajZYZ0tPeXg1c2ZnQlMtYmdfWllmcl9sMEZ4Z3EzUFhQdlRka0FRVkFacS1KSEVOMTVydTd3TlZHUF9taVRpekZmMWN1NVBRSmpLYm01MTVSeGUxcmw5aERKc1ZWdmd3R3RNemV3amQ0Wlk4SjNIXzBMSlYxLVhwU1Vib05Jd0x2ejdR?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 6. SAP SE Stock (SAP) Moved Up by 3.66% on Aug 7: Facts Behind the Movement - TradingKey
-
-- 公開日時: 2026-08-08 00:15:26 JST
-- 媒体: TradingKey
-- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNbDZGVUxsLVIydEhtUUJrR1k4QTgxa3dCZWQ4eWVzQXlYSlVYMjVSS3liZ2Roa3hmQ1ZIT1R3ZjBTalhwRVA0cTlMNlh3Tm56elpLdkhaN21vOUJVV1lNSndldHJGY1JaVjlGbGJNZ1lrSF9kYVZfUkhiOGJ3YnhzekNCSWhTRnRWQmc?oc=5
+- 公開日時: 2026-08-09 21:11:44 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSWhkY0k3dnNIMlk5RHBEbUh6MjRieHNQUHBWcmxLaDJFTzBwcHkwbjZWUUFNSWlmdDJPQ3RJaEFXRE4yZmJ2WjdjOUJHNFNJaXNCbm1iVldmb0JyWmNxZC1aelY5Z2paZ1FrUFAxTExwMXJNRElkQW45WjZYb1NDQklfcnJva29SMkR4djVxeUNpdDU3eXprNm9iNXVPWFdfMjVSaGlsZlFLcTBxcmtINFhMQUdaT0NmaS1pOF9fZDBYSVZ3SUFadFdoa1dpRUVMMkFiQTV6SWp2bklGSXZn?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
