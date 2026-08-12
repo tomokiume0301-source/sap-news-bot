@@ -1,74 +1,98 @@
 [
   {
-    "published_jst": "2026-08-11 23:49:00 JST",
-    "title": "Epicor names Vaibhav Vohra as Chief Executive Officer - IT Brief UK",
-    "source": "IT Brief UK",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDNfcTdzTjBmeF9hYWIwcm9jOGFoVzIwTDFYeVZiQzVQTHNBc2ZtbWFldVNKbktfNGQ5dmVybjMybklLVkY5cWR6NHFubmpPN3oxekROaFZDUnpTRWZiaWpTV1J0bkhSRFplbW14c1FTdVJxS0JDcWpuQWFJeThHbUxJbEdPWFl4?oc=5",
-    "summary_en_or_original": "Epicor names Vaibhav Vohra as Chief Executive Officer IT Brief UK",
+    "published_jst": "2026-08-12 23:54:17 JST",
+    "title": "IT-Conductor SecureOps Now on SAP Store & AWS Marketplace to Focu - The National Law Review",
+    "source": "The National Law Review",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWxLM0owSW1pYXVGRTB6M3lLTmkxNmhKLTlIZDNKaG5SUkdSUE8xMzBsdnE1LVJ0Nk1OUFk5QTFYUFBGMWh5Zk9GRUJZLUxtaVhmS0kweXFoaVBqaTVWZTB5Y2xzZjBObU5Ua0h6aVZwdzRZSE9WUG5lQzkxWnVsU2JyVDI5dmVaMTY5YkliMXdsanhZYTZHcDNIV3I3VWl3cGZONjRkQjh0SndpNHZQZlZWdU5QQQ?oc=5",
+    "summary_en_or_original": "IT-Conductor SecureOps Now on SAP Store & AWS Marketplace to Focu The National Law Review",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
   },
   {
-    "published_jst": "2026-08-11 23:14:32 JST",
-    "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities - SecurityWeek",
-    "source": "SecurityWeek",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXh0UkkwT3pCRURORlR2ZE9oZG5hTUlaZzlMREN0aFhJSFNRekJ5MmM2MUstNWhBY01NSlh3YmZJUTFhXzZJMi0yQTMtN1d3bDVqOHlvNUZySzZCZ1VVbWliTm1WZ1NSTThJS0ZkZDVaaUgtUk1UanlQMUFjdkxTX3FLNllNWU05NjFzOHFRUFl5eDFTU05aZWF2bHNLaTMx0gGmAUFVX3lxTE1jUzV5R0NfS2dpWWNDZm96b1pmbm9XeF9PampKSHhjcDdDcHRsd1dIdXM3NVhneTJBNS1aZG5TcFpvWENXaWVfeV9meE9kRlQySjVnSVRIekd3Q21GWWVGSm45QXZ1MzE2QlZJRnJLb0c1X0NNQllxOXNQM2JVWkJEaGhuMkhwNWxqV0YxaHdqQkwzOW1Md0c2czc2VmQyYjlZRjMxbnc?oc=5",
-    "summary_en_or_original": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities SecurityWeek",
+    "published_jst": "2026-08-12 23:51:00 JST",
+    "title": "SAP slides as investors weigh AI spending, recent profit trim, and software-sector pressure - Quiver Quantitative",
+    "source": "Quiver Quantitative",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTdJQzFEUW9ybFJ4Zm9qNkh1eE9KZmxnYWZ4dnY5b1lvUUtBZmYxQnJjZW96aFFRTHZKalpCUURuOU1YVFhFVTRjRkdwUERhMWxMZFJsYTJMS1ZLc2NhR1RxQU56SWIxd1dnQnVUVEFoV0liTG8xR2RMLV95dy1OaXR5NWNzZEtoZGlkLTFYSllSZDhGakZEWFRUb040dXk0aElhdmcyZ01IWF90N01UTS11Qm1yelN5NHV0aktsUmdkMjFDVmhr?oc=5",
+    "summary_en_or_original": "SAP slides as investors weigh AI spending, recent profit trim, and software-sector pressure Quiver Quantitative",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
   },
   {
-    "published_jst": "2026-08-11 21:41:27 JST",
-    "title": "SAP Clears Two Regulatory Hurdles in a Month, but the Rally's Next Leg Faces a Margin Squeeze - AD HOC NEWS",
-    "source": "AD HOC NEWS",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbHRqRVctaGpRWUY3WGN1SGxBUHY1aDl1d3lkZWEzTHZBQjI3N3dYMHd0cjZ3ZVBCLXNfeG9sV0NUVEtoSkVxcjRsUHZ6ZUNiY1h6dFJKVkR6MEpIUEQ3NTRoYldqcUZGN1ZNbG5jcmRpcjdpMExiVFRvcFI2MUZGb0dnR3l4QWtsdGRNQzF5ZUVTeU0xekdra3Mwb29mZFVCYnBSbUJ2alVvUzdiZ1BGWXR3MGN6NUNXaFhsdG15em1zd1hzOWJ3SElQNXhoSkkxWjE3YllUT2E?oc=5",
-    "summary_en_or_original": "SAP Clears Two Regulatory Hurdles in a Month, but the Rally's Next Leg Faces a Margin Squeeze AD HOC NEWS",
+    "published_jst": "2026-08-12 23:31:02 JST",
+    "title": "Inside SAP’s AI ethics policy - Trellis Group (formerly GreenBiz)",
+    "source": "Trellis Group (formerly GreenBiz)",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODRmdkFvM1RFU0Vydk1Kd3FBTjJ0c1B0QlJOd28zaFZkQ19TNC1sUmpGV29TNGo5Tl9SZVpUcHpSdDA1SjFPcmhHUFJpV1FTTG03aDJDNk0yZWlHZ0ZjUndyR0QwdHBmdkt3V3U1UmV1UUt2bVd4eml5S01PNS1mNXZlQjZWWkdTN3NCYlViZktTSVdjZXdaMjlDblQzUQ?oc=5",
+    "summary_en_or_original": "Inside SAP’s AI ethics policy Trellis Group (formerly GreenBiz)",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
   },
   {
-    "published_jst": "2026-08-11 20:03:31 JST",
-    "title": "SAP's Technical Ceiling Meets a Cloud Backlog That Keeps Growing - AD HOC NEWS",
-    "source": "AD HOC NEWS",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXNzalhTeERIQjJFcGZrTkNUMXNiUlQwN0pFU2RLV21sOEltcW13Q250aHpDai1tN2dhTVBFWnVCZVNVV1UyelhoaGJ5eUxJUXh1eUN5ZGtCcnNLNHV1Z0M1azQ5OXVjRmtkdkV5N29PbkIxRjJZTy1MYUQ4SzdSQ1U1YnM5cDhKUm80bjJ4RUpOX1M4cnhWVlJQcGQ3cmJhS2hPaGVkeWVwZFg0WHdjREw5OXVtdkFhOGRmUWR4clFQeWRtZ0p4RWx3b1lMcmh5Mnc?oc=5",
-    "summary_en_or_original": "SAP's Technical Ceiling Meets a Cloud Backlog That Keeps Growing AD HOC NEWS",
+    "published_jst": "2026-08-12 22:07:13 JST",
+    "title": "Precisely Closes the SAP Automation Governance Gap with Automate Evolve Cloud Essentials | Corporate - EQS News",
+    "source": "EQS News",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMThHMVNHZ2lhMUIzSmNrQUg0dzU5TFd1R1ItRXAzU0RBcHkwakJ3RU1uRmNSNS0wVEpGdC1wWEdwWWRtZzRuMUFia0NNYk5ObENoaG5QSmZUd2d4M1dsaG1vcVdlRlhQeWJNcEM2b05sckhpRFpoNTR0eFRYUVFTV040NTZLSXo4ZkhwNVk5MGhyaEpYWk4tOGMtZmJQU09MZHZySE5qblVoN2Rhck13cHllZVZ4ellDZmJnallDWVpQMkhoSGVueDFjalJyMkV0a3k2M0hOYUJYanZnOVpvT1lqazRLaUFaczdETWlVZ3kzUDV0WlBqcmw0UjE?oc=5",
+    "summary_en_or_original": "Precisely Closes the SAP Automation Governance Gap with Automate Evolve Cloud Essentials | Corporate EQS News",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
   },
   {
-    "published_jst": "2026-08-11 20:00:00 JST",
-    "title": "Lucasys Named the No. 46 Fastest-Growing Private Software Company in America by Inc. 5000 - GlobeNewswire",
-    "source": "GlobeNewswire",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOHNxUjJBRjJFMGktRW5aQzZOWjdHMkFPamdGQ1MteDBOLVlWT3FRdkVwNzNhVGxNTElFNEVqNjBKcVFsTHRCa3VNMGFHWDBLOVJSRWVaM1pNWk1NWlMxSU56Zmk3U2JyMkdnUmVwbUVmeHZ4U2t1YmlfVlNMRGEyYy1SZDRSMWVfQXQwbmNrRWNIUEhqTWY4bVhSeThzeU9SNGlrOU9QTXZnU3pWMllsWGdtWS1wSGZiRVY4N3BPOEs4TmV6RjdhYUN4Mlc3LVZCMjU1UFhrbnJROEVOSGNnNUk4dl82bmV5b2NlVTd1WmU?oc=5",
-    "summary_en_or_original": "Lucasys Named the No. 46 Fastest-Growing Private Software Company in America by Inc. 5000 GlobeNewswire",
-    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
-  },
-  {
-    "published_jst": "2026-08-11 19:15:00 JST",
-    "title": "How a Small AI Use Case Is Automating Document Processing in the Supply Chain of Lemvigh-Müller",
+    "published_jst": "2026-08-12 20:15:00 JST",
+    "title": "Service-Led Growth Starts with the Business Model",
     "source": "news.sap.com",
-    "link": "https://news.sap.com/2026/08/ai-automating-document-processing-lemvigh-muller/",
-    "summary_en_or_original": "For the 180-year-old Danish wholesaler, an efficient supply chain isn't a nice-to-have. It's the business model.",
+    "link": "https://news.sap.com/2026/08/service-led-growth-starts-with-business-model/",
+    "summary_en_or_original": "Technology can help scale a service business, but it does not define how value is created, delivered, or monetized.",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
   },
   {
-    "published_jst": "2026-08-11 14:54:13 JST",
-    "title": "プレイク区では、公立学校の再編と統合が実施されている。 - Vietnam.vn",
-    "source": "Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeno1ZHduQkhmSkdXSDR3Yk01VVpjTXQwT19KOWFDUXNpZUlhcDRDdmFFUUVfWTBJS05XcGxET1FfZnRrYmJCWmg3amhSb2xSRFhGNWJhVWRWR3pLUGs0cXBJSXFFZnlaU3E2Z1RuUWVzTUhNR2FoZHkzY0pDa3c5TkVwc0tGMW5tQVBEYzBaSlc?oc=5",
-    "summary_en_or_original": "プレイク区では、公立学校の再編と統合が実施されている。 Vietnam.vn",
+    "published_jst": "2026-08-12 15:56:28 JST",
+    "title": "What is SAP? The enterprise software giant explained - qz.com",
+    "source": "qz.com",
+    "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5TaWpadk5TQnZTeHJsYVMxSlF1VW1MYU1uOHE5bmc5VFg4YXNVc2QzZGdYSmxKV21pUkZvckVqOA?oc=5",
+    "summary_en_or_original": "What is SAP? The enterprise software giant explained qz.com",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
   },
   {
-    "published_jst": "2026-08-11 13:05:00 JST",
-    "title": "東捷資訊、上半期EPSは1.86台湾ドル AIデジタル社員とセキュリティ事業が後押し - BigGo ファイナンス",
-    "source": "BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZT2V0Q1BRWlkyLXBtX2FxYnhXaFhuRV9DOWtqUGJValhHeWQ3cDRKT0lIUUVyQ0J4Q3pQR3BDR3lRYTQtR0lmVWEtdTdzVEhrM2lHQmpjODBTTm0xRjRlMlRLWjdySjNWY3RLcXBWb3ZnUEZP?oc=5",
-    "summary_en_or_original": "東捷資訊、上半期EPSは1.86台湾ドル AIデジタル社員とセキュリティ事業が後押し BigGo ファイナンス",
+    "published_jst": "2026-08-12 12:31:36 JST",
+    "title": "SAP's Quiet Week: Patch-Day Urgency Meets a Buyback Bargain - ad-hoc-news.de",
+    "source": "ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXNIQUVQblpxZE1RbEE3VTMtUHVyR3Q4UktrNmNIaXFkNDVTQktyRlhodXRsVE9kQlhtMXFjbmdBSnpkTHo5SkRWOUZ3OUhNdVhEVThMQlBDMW1LZDV4UkcwTTlEUlpkeWtDc0hQM1B4UGNhVXcxMUVTR2hESFZrREpTOWszVTBLanBiSGtzbGdhblp3ekpweUJBUG56YW1NZ1YtODZ1UVRWMXhOU296dC0ycVdjQTRhR1BsSE1hckJ2SFZKbjJHY213?oc=5",
+    "summary_en_or_original": "SAP's Quiet Week: Patch-Day Urgency Meets a Buyback Bargain ad-hoc-news.de",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
   },
   {
-    "published_jst": "2026-08-11 05:00:00 JST",
-    "title": "情シスを悩ますAIの費用対効果 IBM・Oracle・SAPら30社が業界標準づくり：The Linux Foundationが新組織設立 - ITmedia",
+    "published_jst": "2026-08-12 10:00:00 JST",
+    "title": "SAPプラットフォームとAIを融合し、自律型企業への移行を支援するサービス：製造ITニュース - MONOist",
+    "source": "MONOist",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tVEZKc0dVNXRObFNBXzRnNTcwTmNBcUh0Z1gyb21hbTBJR0J0Z0l6QThmVFo3M2NLZFBfWGZqdnBOdUFqVnp5aW9JY0FqUjNtVUFaQzFGVEw2Y1FPQk9vSmhROVZsM3FHRERSS0lUaw?oc=5",
+    "summary_en_or_original": "SAPプラットフォームとAIを融合し、自律型企業への移行を支援するサービス：製造ITニュース MONOist",
+    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
+  },
+  {
+    "published_jst": "2026-08-12 10:00:00 JST",
+    "title": "「中堅製造業にSAP S/4HANA導入は難しい」は本当か？：株式会社エクサ提供Webキャスト - ITmedia",
     "source": "ITmedia",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4YjBZVC1ycFpYVk5kN1BiYzNhZnM3MVlaZmdjWHN1YzV0aEF4eGkxNmNyYXhYZjBmSlZ3MG5uUjMyTmc3dXoyRHNoaC1xbzNyT1U2THg0bHRNTjFfaGVPLWU5TFg2cF9qbDVjQQ?oc=5",
-    "summary_en_or_original": "情シスを悩ますAIの費用対効果 IBM・Oracle・SAPら30社が業界標準づくり：The Linux Foundationが新組織設立 ITmedia",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JTDdPcEkzNE1vc1hzSXVWdVM1T0VZc1BNdEF3TnFrZzFfSHpONjZOR25VY09BYVhneWpvN3NaTS0yMVJDbWRlR2hOTER1VkdPck5mdjluZnJtVndIczRvUTRyb25xWFNWTndTaA?oc=5",
+    "summary_en_or_original": "「中堅製造業にSAP S/4HANA導入は難しい」は本当か？：株式会社エクサ提供Webキャスト ITmedia",
+    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
+  },
+  {
+    "published_jst": "2026-08-12 07:00:00 JST",
+    "title": "エージェント型AIで変わる働き方--SAPの責任者に聞く、「自律型」時代の人材戦略 - japan.zdnet.com",
+    "source": "japan.zdnet.com",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0OUZrWHc5YkhRTkxoRl9rLWVxejNiNFJUS2drX25oaVVkR0thQzZXTS1TVmVfTERHUWdGQ0tJV0p5Wi16R0JVaTVDcUFnOVdoTVhB?oc=5",
+    "summary_en_or_original": "エージェント型AIで変わる働き方--SAPの責任者に聞く、「自律型」時代の人材戦略 japan.zdnet.com",
+    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
+  },
+  {
+    "published_jst": "2026-08-12 05:00:00 JST",
+    "title": "なぜ10億円払って“高額な塩漬け”を作るのか？ SAPクラウド移行の闇 - ITmedia",
+    "source": "ITmedia",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtYjQ0Y2JsUmJ4TmE3cWhRQnBYOTIxc3lremdDTUk0Z01HOGZQNWFlSlZUWUFsNWVjWFAtN0xubzdwTWc5MERRMmU2TjhoWEE0VlVRSmZ1MTdvX2xQS1E4S1dXcm9DUGVLSzFzZw?oc=5",
+    "summary_en_or_original": "なぜ10億円払って“高額な塩漬け”を作るのか？ SAPクラウド移行の闇 ITmedia",
+    "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
+  },
+  {
+    "published_jst": "2026-08-12 04:06:04 JST",
+    "title": "独DAX、4日続伸で2万6391 SAPや半導体に買い、中東警戒で上値限定 - BigGo ファイナンス",
+    "source": "BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96ZVZ3Yzc3amE5OEJfeElnZjJpYkQyQnhRZXpzdGRkQ1V0RkdKOXhKZVJIZjlJcEdjRE9QZTdMOE1Hd1oteGRhR3lLSFB1TlMxdDNBU0lzbkNtZmVvS0wwaGJrT3d3SlhaMDl6XzNoY1ctVXhy?oc=5",
+    "summary_en_or_original": "独DAX、4日続伸で2万6391 SAPや半導体に買い、中東警戒で上値限定 BigGo ファイナンス",
     "summary_ja": "要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}"
   }
 ]
