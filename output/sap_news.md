@@ -1,94 +1,66 @@
-# SAPニュースまとめ（2026-08-13分 / JST基準）
+# SAPニュースまとめ（2026-08-14分 / JST基準）
 
-- 抽出件数: 13件
+- 抽出件数: 9件
 
-## 1. SAP ERP Exit with the Model Context Protocol - E3-Magazin
+## 1. Max severity SAP Commerce Cloud flaw now targeted in attacks - BleepingComputer
 
-- 公開日時: 2026-08-13 23:28:11 JST
-- 媒体: E3-Magazin
-- URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE9Tc2Y1R1hOVlVjdFZDWEthUnBaX2paRGJvRld1MFo0aWFQcHRmTHpDazlDUWpvcXpPN0tBUlZwR3VKTW9hXzE1RXljdTZWS2Jsalc4b3JFWmR2a0FINnppR0JtRlJyaHZIdzgtdVBEaw?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+- 公開日時: 2026-08-14 22:45:18 JST
+- 媒体: BleepingComputer
+- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGNtZ1owUHkzYnlVbWF0cnN2a2V3eUVKSzdFUVdvX3BRdjhCREo5ejVtVDFOcUJ3X0o1WkQ1SE5hZjRqbjVwd2ZibENBUjhpVEx0T0ktSy1CZm9HQWRwckRlOE5pSW5RMklDdy1GMFV3MWkwUWJHRjhJVFhEZ1R1NmpBUm9veXFfZHBWZXVqUEN2bmpRZmFrenMxMzJITzJVeXpFekw1MkZoZjV10gGyAUFVX3lxTFBFSWZ1MVg5NHF4dVNsWnRpLWVBUm5xZDZ3dGdOV3M5VjRaMWk0RTJ2Z1RZT2ExQkcxXzdKWkJJM0RHUmZJWmJpX2xiLWJJSG1jOTBrbEU3Y2xoMEdPYXdneHAxUU10dHBOWFgxT2hpQmx0QkhiN3NCcWhHX0tqZEdwY2ZFOHRjZFB6VjNNM2tvdTJ3Y2t4elU4bU1iVUIwVEd2aldhUDA2ajRNcTc5TU4xQnc?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 2. SAP Order Management Services Named a Leader in IDC MarketScape: Worldwide AI-Enabled Order Orchestration and Fulfillment Applications for Retail and B2C 2026 Vendor Assessment
+## 2. SAP's Rally Rests on Two Pillars: Takeover Speculation and a Partner Ecosystem Proving Its Worth - AD HOC NEWS
 
-- 公開日時: 2026-08-13 20:15:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/08/sap-order-management-services-a-leader-idc-marketscape-worldwide-ai-enabled-order-orchestration-fulfillment-applications-retail-b2c-2026-vendor-assessment/
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+- 公開日時: 2026-08-14 21:01:45 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzRUbkY0dGlKcWdRT2hJUWM1YnNxWTNoVTZsN3RuNUhudVFUQ0RpRi1ZUkdfbUluRTdwMEwxRFVRZDAwdGxQSzZoVzV5bnNadTI0TTMtNTV4aUxsTlBkT1BROFNONEViWFowazJkVkJlVUx1VDBiWm9pWXkycHU5ZHA4cVBKM3BsSjlkZXA5ejVoVU5jaFJLV1BzWk9uLUFBV0M2a3Exd0s1YkJMd1ZwcVFhZ3ZJMGxyNVlLWnp4N2U5dHp1Z0szY1hOYTNfQ2NhTHp1bkdR?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 3. Women In SAP Consulting - IgniteSAP
+## 3. [MARKET ANALYSIS] European bourses soften while the DAX 40 gains as SAP GY share rise after positive software commentary by Citi - Newsquawk
 
-- 公開日時: 2026-08-13 19:32:58 JST
-- 媒体: IgniteSAP
-- URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aM1huY21QQXBGVWJwVDVud1BRdDQzY0FTNHducjVtTzhia3FBVkRmeFF4UzF1NEdoSENJVS1MRGtHaTZ1clIzZzhha3RNT3RraW56dDVqOWlHQQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+- 公開日時: 2026-08-14 17:27:00 JST
+- 媒体: Newsquawk
+- URL: https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcXU3c1MybVJZOWdTVlBhNTBkOHZGeWNGcC1XRzRYY2ktUFRsQnJzMEFRTFo3SDN1cjlYOXh0YUpObUloS2M1WTktT2R0eHh4U3hkRzhBdkxkWjl4SG9mMGk4LVZJTV91RDJMTjhCeUxSSV9ZRUV4LU9YZVk0RXJQd3RqYWZYRzRManJhV2ZTRFpRclkyek1lb3EtQTcyMTZLRXpvd21VV0ZUZzF6Q2VYZmdDX28tSWwzNUhuTHFPSDQ3NU5XN2dja0J4aldaODZEYVFRZEszZ0VsYUdmYVN6X3ptSzFoelNVT0NJNFozTEkwZDZR?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 4. SAP Software GCC inaugurated in Bhubaneswar to boost AI and Digital Innovation - Elets CIO
+## 4. FPTとSAPは、木材業界の企業と提携し、業務の最適化と意思決定の迅速化を支援しています。 - Vietnam.vn
 
-- 公開日時: 2026-08-13 19:24:22 JST
-- 媒体: Elets CIO
-- URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxObm1DM3g4N3N1RGhpLTd4ZFJSaE9RT0ptN3FzTDh1RUs4clZlUXpyR3AtcUszTkdWV2RMX0FLT1l2c3hzMTQ4V2E5dnFDekJqekprVE43djBMQzhPQ3lFNXBXSjN1QjVENExRMFlBWXFkQ3ctZmszczRaWFJDRDdOQ3M1MTdLbHc2Mm1TNEdRakM5bnRCVWVxUEtqT29VamxZVFphWXhiTFhoR21YNTB1T09BcTFLeFpHa2c?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+- 公開日時: 2026-08-14 15:44:33 JST
+- 媒体: Vietnam.vn
+- URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWExOS10NTMzbUNjS01BQ09LZE5mVHJ3NHk5MmFrbmpNOXBuZlZOU0dFdE9mbkhfS2pWT3BvMVlhUWVwOHZzUFcwY3pNQkJVZ3djYVRfZ0t2bXQxYzdubkRINFo4X3dkc3kwNUJ2U2IzTlB5ZlAwNnY2Z09Jb2FEUGJLcVRNeXVWejBjdVNQRzV6OW81RU94VmpxNDdKZ0dmZ2ZSRXlYOVRSMWx3ZHI3M2l3?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 5. Germany NTT DATA Business Solutions SAP Certificate - gazettextra.com
+## 5. Pathlock and KPMG form alliance for SAP access governance - Portal ERP
 
-- 公開日時: 2026-08-13 18:01:26 JST
-- 媒体: gazettextra.com
-- URL: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZnRFeExDek01Vm9IcnhoLTBfMHVlc1BrVk1ub0lhUUNLVjY2d2s0U2JoOGQxcHJ0UjdQT3FEWVg3MUF0RWdpQXlaYmV1V3dyOTA0eG9xckFvczh1Q2Y2bHpfZXNza0RlOTZLWWxVUnhwcDRnUUlLcThLTWN1LUdGU3lHLVh6SWVvSlRJSzJaRGZxSGFlbVpuNzZTZnEyVlVhTmdzR1J5S3EtTzdqSUlYRlhsb2FQVUs4dnVaZzB4SUdUVzVpdkdDYy1tV2lSTEJnaVBiYXgzNEY5c1VNQ0E?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 6. AI and Software in a Super Cycle: SAP, Oracle, Strategic Resources and ServiceNow Are in the Spotlight - Stockhouse
-
-- 公開日時: 2026-08-13 15:06:07 JST
-- 媒体: Stockhouse
-- URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxPcVRqX3VVU2ZnTEJfVkNYUTFoZ0JWZ2FXcldOd2J5V2N5SHJDR0w2b3hydVBmOFBEa3ljRnZnMzlOLXRET25tNTQwZ3JEeUVMQlFiZHBERHFWZ3dfWEtDQ09aczN2b1hkZGJyRjFXbEtQTmF2R3YxWGFlMV9vZ2tQMFlRMHZxVTF5cDFJNHpfaUxneHQ3SUFEYWh2Z3EyMk9odGxXWUdadWNERWlXalVlTDZoa3V3N3IwaFJLUTY2WFVBSTJqMUpqcHJRMTQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 7. Concur Expense、「ITreview Grid Award 2026 Summer」の経費精算システム部門で最高位の「Leader」を21期連続受賞 - イザ！
-
-- 公開日時: 2026-08-13 14:00:00 JST
-- 媒体: イザ！
-- URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE9OVDVPN3h0RTA0aGtzM21hLXN1R0JZUllRSmgtdGV6NTN1MzV2YllFN242cUttNU1ZRmZ5LTRuYzctUGhFVnZ3NFMzdl9QSk1FZGhId3BwUlVMbEg4dVRmUVhTaWNPalF1SkoxUnJVVFNSSXBKOTN6eHJn?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 8. Rimini Street appoints new COO and Chief Delivery Officer - Portal ERP
-
-- 公開日時: 2026-08-13 10:18:53 JST
+- 公開日時: 2026-08-14 12:37:53 JST
 - 媒体: Portal ERP
-- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzVuMVVGeVA0eHBRNWNTa25IZm9qaWtyN29FWjJDckNyTnBjTmhkUXEwc1pYTmhUdUo2c0ZwZnhUMHdhT0JPZWdoeER6c2xwZTZobTBZMnRsNkxUeXBXV1RqNFdLYU00YkhqbUdDa1MyRXE0VnNQUG4tbmZNS3BsQlBSRkVIeWpZOC1Vd3VQR2I?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVEyQ3U3S1NTdGhfQVZrRTREdGxvdk84ZUEwOG5tbjNuZ2YwUmNvVm80UVRxb2NWRHRaOHpZcV9YY0JBbWxoVlg3WEMweVJCVzRuUnlIUUNrbHhmQ2Y3RWRlM1Z6TVpOX3BURU9ZOWFrVUhLZkpZbUtGdnd3UERodHZGMTRpMGE3TEhsdFdRN1A?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 9. SELECCIÓN Consulting acquires AppsFreedom (Pillir) to build an AI-first enterprise services model - Dealroom
+## 6. IBM and Together AI sign $240M AI infrastructure deal - Portal ERP
 
-- 公開日時: 2026-08-13 07:14:08 JST
-- 媒体: Dealroom
-- URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcjFmNFpqcVVpZU9HWkhNc2dhcDBnSFg5NG5DRUdEOUR3QnUzNWctVVkxMHh4MEFSZklyVzREYkxjR1V6NmJmUHJxNTlUS3owNkxBcG9QaXNlY1g0VWh2TkR4RlB1ZUpKQkh3VG1TYWgtS2V1NWxCTjYtLWxhamhOWXFFMHpsSG9Ea1A5MDljbm5zNkZyRTMyZ0dFMmx6djVmUklZRk1sNTVJMjA0Rm5VcmtKeE8wQlBndjd6VmN4OHdDYlRQdDFQRQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+- 公開日時: 2026-08-14 12:37:53 JST
+- 媒体: Portal ERP
+- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNZE02R1llY3N1RVZEVzE1eHY3bE9TNHk2SDBick95VTcyU0pDQmlLcVFGUXBIY0R4eXpLamJ4N2c4M3hNcHlmdGxQZ2s5VzNRcmkzR1g1NnBjUEJ1M05aOXlGQVRYUnNTSHAtZkR5Y0JuVmMxeXZuSnZVMFVQYWRVOXVmaUtDZ3JsUkE?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 10. SAP looks to partners to scale AI adoption - CRN Australia
+## 7. Silver Lake in Talks to Acquire Workday in Potential $43 Billion Software Buyout - finance.biggo.com
 
-- 公開日時: 2026-08-13 06:26:28 JST
-- 媒体: CRN Australia
-- URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxObXhra0NzZjdMd0N4WldNZW9OOWdyY3cyRlRoLS1NSWVVbzlzeU13MDVoNk41VlY1TjlXQmdKb2VGcmxQaTM5RG8tN2wxUWhkLVRvX2xqX0tsbHVIcGViNEU5cHp6eTdXdkh5T2Fkb2x5Sm1EUnJpbGZ5WG9HUlVYcjYzN0IxMEpNbEhUbQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+- 公開日時: 2026-08-14 04:05:00 JST
+- 媒体: finance.biggo.com
+- URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE1iOWxBTVBSTWxIX0JFY2xBWkR4YWxqVEhJTFhWVk9fVS1IT21Cc3huZmdiQlBpM3lvNk5JWXd6NUxHT3pvbXlXM0o0YS1ONVpsclV6MU9MUHJvMUhGMmRHSHM1NDNLOTVsWUNQWWRfWlJWODF6cWc?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 11. Salesforce and SAP are putting AI agents inside your workflows. Who tells them no? - cio.com
+## 8. SAP Positioned as a Leader in the Inaugural Gartner® Magic Quadrant™ for Supply Chain Management Suites
 
-- 公開日時: 2026-08-13 06:16:12 JST
-- 媒体: cio.com
-- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3BOTjhUZzlmanF2UjVaTF84LU84UlQyWFZveE1pVGZweDlJYzg5MWNnei1Kb1dVYjBFY3VlaklYWnJvZ0s3VXRIbmdiUmJYQ1cyYWsybXk2UWNtUmI2UHNKWXVFc3JoVS1SUW5MTWFHQktlWk1pWElPVzRkb3NhMEtGZGo2dEI0dU5RbGs4dGw2SW5DRWpleEJHWnVIM245R0hvSVhTWEIxTk53U0NuNk9tcDJLWHVIYnEwZDBn?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+- 公開日時: 2026-08-14 00:15:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/08/sap-a-leader-inaugural-gartner-magic-quadrant-scm-suites/
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 12. SAP August Patch Day Raises the Stakes for Manufacturing Security Teams - ERP Today
+## 9. BBDO New York, SAP Counter AI Fears With 'Better' Options - Yahoo
 
-- 公開日時: 2026-08-13 06:05:41 JST
-- 媒体: ERP Today
-- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFA4T081M2tNUlI5dkNqX3pELTNpRUJSU0hqZk1WWjlHNkFzRTdITlV6YUsyOHNjX05HUXZVQmlPc0xSYWRoQ2wxNXBCRElTRFRaVS1zOFdySDhOUTBRRnU2Qm9lSnhSWlJRR2lhSTAzZlk?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 13. SAP SE Stock (SAP) Moved Down by 3.03% on Aug 12: Key Drivers Unveiled - TradingKey
-
-- 公開日時: 2026-08-13 01:15:29 JST
-- 媒体: TradingKey
-- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNSXh5a05HNm5nanh3QUlHOHN1TVEtRXBKMDNlQjR4ejY4cUQ3MlhHdmJrdkpBVGhKVzJCdHhsYnJVR01TV1VfdmRjdDZjME1SNVFtUFJvcjF0dnhqbC1taDg0LTFLX29PckVqbE9tWkh6ay1zSnZqdjJrRGFzYXpnZmxqOXBRS0VhREE?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+- 公開日時: 2026-08-14 00:00:00 JST
+- 媒体: Yahoo
+- URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1hFQkVieUZaTHNXSnE1S2FuRGRPTmcxbmktalRKZURUc2xDdlU3a1paTzVBS0NhN1g0Q3lMcVlUdDBUZDExbzdSeWtpeXlCUjRKZlAwR2VoelNfay1uZ2E2aVJUTVJLYmRxTDUzREVScEhxamRnNmNjMXVqeVhtSWRsWVc?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
