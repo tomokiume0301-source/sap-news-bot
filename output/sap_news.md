@@ -1,66 +1,24 @@
-# SAPニュースまとめ（2026-08-14分 / JST基準）
+# SAPニュースまとめ（2026-08-15分 / JST基準）
 
-- 抽出件数: 9件
+- 抽出件数: 3件
 
-## 1. Max severity SAP Commerce Cloud flaw now targeted in attacks - BleepingComputer
+## 1. What Do SAP (XTRA:SAP) Security Patches And Supply Chain Awards Mean? - Yahoo Finance
 
-- 公開日時: 2026-08-14 22:45:18 JST
-- 媒体: BleepingComputer
-- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGNtZ1owUHkzYnlVbWF0cnN2a2V3eUVKSzdFUVdvX3BRdjhCREo5ejVtVDFOcUJ3X0o1WkQ1SE5hZjRqbjVwd2ZibENBUjhpVEx0T0ktSy1CZm9HQWRwckRlOE5pSW5RMklDdy1GMFV3MWkwUWJHRjhJVFhEZ1R1NmpBUm9veXFfZHBWZXVqUEN2bmpRZmFrenMxMzJITzJVeXpFekw1MkZoZjV10gGyAUFVX3lxTFBFSWZ1MVg5NHF4dVNsWnRpLWVBUm5xZDZ3dGdOV3M5VjRaMWk0RTJ2Z1RZT2ExQkcxXzdKWkJJM0RHUmZJWmJpX2xiLWJJSG1jOTBrbEU3Y2xoMEdPYXdneHAxUU10dHBOWFgxT2hpQmx0QkhiN3NCcWhHX0tqZEdwY2ZFOHRjZFB6VjNNM2tvdTJ3Y2t4elU4bU1iVUIwVEd2aldhUDA2ajRNcTc5TU4xQnc?oc=5
+- 公開日時: 2026-08-15 22:08:28 JST
+- 媒体: Yahoo Finance
+- URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxORVF5TEdfYmFuazJmellsWTUzNFZxNFdwbVpyV1NsV3FrNTBtNEhVdkg2aTRqTTJ4b3dSekF1aXlFUFN5QXJYZ0o3T2VJUFRoUGhoSFVQMVNQUG9UdTVDWGdWWnFDTDdPUkExa0pPYUdtT1JDUThVcnBWZVRMVnFvMEFQeWVlSFJKa0hYUGtTdVRkZjMyb0owbQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 2. SAP's Rally Rests on Two Pillars: Takeover Speculation and a Partner Ecosystem Proving Its Worth - AD HOC NEWS
+## 2. SAP's AI Shopping Spree Collides With a Maximum-Severity Security Flaw - ad-hoc-news.de
 
-- 公開日時: 2026-08-14 21:01:45 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzRUbkY0dGlKcWdRT2hJUWM1YnNxWTNoVTZsN3RuNUhudVFUQ0RpRi1ZUkdfbUluRTdwMEwxRFVRZDAwdGxQSzZoVzV5bnNadTI0TTMtNTV4aUxsTlBkT1BROFNONEViWFowazJkVkJlVUx1VDBiWm9pWXkycHU5ZHA4cVBKM3BsSjlkZXA5ejVoVU5jaFJLV1BzWk9uLUFBV0M2a3Exd0s1YkJMd1ZwcVFhZ3ZJMGxyNVlLWnp4N2U5dHp1Z0szY1hOYTNfQ2NhTHp1bkdR?oc=5
+- 公開日時: 2026-08-15 14:51:55 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVkJyN2RMdVE4X0xmcUNkSDVfTWJlMDJpQ0FtTUNoa2JDUThTby1YRU5CbHMyQlpPeUlTQUM1VDB6MEJZeFJuUHFKdkZNWmJucFU0WjFDeHJJa05lWXg4MFZPeDhneklWVUJZU2FxSl83ODRvcktXTWxZVlR1VWx2S0V5TXZvTEQ4cWFYZmFuMDhEVEU0SS00OG12Q3BRTnZpOGpuOVktRzZyb0VBdzJTcUN2eDg2VHJ1MUlPWmRfRHV2YzZVdnE0dTRNSHpWeE5YODVoQmw3WkVYUQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
-## 3. [MARKET ANALYSIS] European bourses soften while the DAX 40 gains as SAP GY share rise after positive software commentary by Citi - Newsquawk
+## 3. Is SAP (XTRA:SAP) Undervalued After Gartner And IDC Recognition? - simplywall.st
 
-- 公開日時: 2026-08-14 17:27:00 JST
-- 媒体: Newsquawk
-- URL: https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcXU3c1MybVJZOWdTVlBhNTBkOHZGeWNGcC1XRzRYY2ktUFRsQnJzMEFRTFo3SDN1cjlYOXh0YUpObUloS2M1WTktT2R0eHh4U3hkRzhBdkxkWjl4SG9mMGk4LVZJTV91RDJMTjhCeUxSSV9ZRUV4LU9YZVk0RXJQd3RqYWZYRzRManJhV2ZTRFpRclkyek1lb3EtQTcyMTZLRXpvd21VV0ZUZzF6Q2VYZmdDX28tSWwzNUhuTHFPSDQ3NU5XN2dja0J4aldaODZEYVFRZEszZ0VsYUdmYVN6X3ptSzFoelNVT0NJNFozTEkwZDZR?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 4. FPTとSAPは、木材業界の企業と提携し、業務の最適化と意思決定の迅速化を支援しています。 - Vietnam.vn
-
-- 公開日時: 2026-08-14 15:44:33 JST
-- 媒体: Vietnam.vn
-- URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWExOS10NTMzbUNjS01BQ09LZE5mVHJ3NHk5MmFrbmpNOXBuZlZOU0dFdE9mbkhfS2pWT3BvMVlhUWVwOHZzUFcwY3pNQkJVZ3djYVRfZ0t2bXQxYzdubkRINFo4X3dkc3kwNUJ2U2IzTlB5ZlAwNnY2Z09Jb2FEUGJLcVRNeXVWejBjdVNQRzV6OW81RU94VmpxNDdKZ0dmZ2ZSRXlYOVRSMWx3ZHI3M2l3?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 5. Pathlock and KPMG form alliance for SAP access governance - Portal ERP
-
-- 公開日時: 2026-08-14 12:37:53 JST
-- 媒体: Portal ERP
-- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVEyQ3U3S1NTdGhfQVZrRTREdGxvdk84ZUEwOG5tbjNuZ2YwUmNvVm80UVRxb2NWRHRaOHpZcV9YY0JBbWxoVlg3WEMweVJCVzRuUnlIUUNrbHhmQ2Y3RWRlM1Z6TVpOX3BURU9ZOWFrVUhLZkpZbUtGdnd3UERodHZGMTRpMGE3TEhsdFdRN1A?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 6. IBM and Together AI sign $240M AI infrastructure deal - Portal ERP
-
-- 公開日時: 2026-08-14 12:37:53 JST
-- 媒体: Portal ERP
-- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNZE02R1llY3N1RVZEVzE1eHY3bE9TNHk2SDBick95VTcyU0pDQmlLcVFGUXBIY0R4eXpLamJ4N2c4M3hNcHlmdGxQZ2s5VzNRcmkzR1g1NnBjUEJ1M05aOXlGQVRYUnNTSHAtZkR5Y0JuVmMxeXZuSnZVMFVQYWRVOXVmaUtDZ3JsUkE?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 7. Silver Lake in Talks to Acquire Workday in Potential $43 Billion Software Buyout - finance.biggo.com
-
-- 公開日時: 2026-08-14 04:05:00 JST
-- 媒体: finance.biggo.com
-- URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE1iOWxBTVBSTWxIX0JFY2xBWkR4YWxqVEhJTFhWVk9fVS1IT21Cc3huZmdiQlBpM3lvNk5JWXd6NUxHT3pvbXlXM0o0YS1ONVpsclV6MU9MUHJvMUhGMmRHSHM1NDNLOTVsWUNQWWRfWlJWODF6cWc?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 8. SAP Positioned as a Leader in the Inaugural Gartner® Magic Quadrant™ for Supply Chain Management Suites
-
-- 公開日時: 2026-08-14 00:15:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/08/sap-a-leader-inaugural-gartner-magic-quadrant-scm-suites/
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
-
-## 9. BBDO New York, SAP Counter AI Fears With 'Better' Options - Yahoo
-
-- 公開日時: 2026-08-14 00:00:00 JST
-- 媒体: Yahoo
-- URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1hFQkVieUZaTHNXSnE1S2FuRGRPTmcxbmktalRKZURUc2xDdlU3a1paTzVBS0NhN1g0Q3lMcVlUdDBUZDExbzdSeWtpeXlCUjRKZlAwR2VoelNfay1uZ2E2aVJUTVJLYmRxTDUzREVScEhxamRnNmNjMXVqeVhtSWRsWVc?oc=5
+- 公開日時: 2026-08-15 09:52:23 JST
+- 媒体: simplywall.st
+- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0RpbU9ocDVhbVNRQnBqZDNLVjRlMnVHQjBRMHQzbENYSWw4RFpPU3B1c0F3RWlGX1RWLWN4UjVQRU8tRnUzckQtaG9QdzBlSXEzYWZoTkF1RlBKbDZ2eXNKbXZDaGs4M0U1UnRDaGtHcUszT1BsLUxwNnZtSzQwOWsxanI2YUdEQlp4UVNtcFFyamY4NXllcDlWR2xLTnh3SmZJSmtDb1B6WkF1Vk40d09ZWm9vYzZsN19ZMlBVOG45OW_SAcgBQVVfeXFMTnlGQmJhcmNaSnJtb3JpSkZZS2J3ZmJBclRvVk00Z1UxWVItSmI4UmN5V0lOTEFQcnkzbUZsVUotZUJkMFRBblVDODZZUDJ6MzU4VXloNEU2TUdET1lZS0FWZnV5MXgtZHQ3ZXdIT3ZiM0hkbkRmRTJ0WmtIM2FmNGdpdlJuUVl2NGhCZXBwbXFLMXJzNENITWVURWlLVTgxR1Q3SERjYWV6bHNNU1c1T2Q4UUJPeE1wdlFOc1lFZ1k4NVc3S2Fzcko?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
