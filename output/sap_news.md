@@ -1,94 +1,24 @@
-# SAPニュースまとめ（2026-08-28分 / JST基準）
+# SAPニュースまとめ（2026-08-29分 / JST基準）
 
-- 抽出件数: 13件
+- 抽出件数: 3件
 
-## 1. How People Analytics Is Powering the Future of Workforce Decision-Making
+## 1. SAP's Triple Vote of Confidence: Insider Buying, Regulatory Clearance, and a Wall of Bullish Price T - AD HOC NEWS
 
-- 公開日時: 2026-08-28 20:15:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/08/people-analytics-powering-workforce-decision-making/
+- 公開日時: 2026-08-29 18:31:34 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0hraGoyYlM2SEZ2LU1ubkxtX1QtLTRuYVJXTmp1MDZhblo4enNLNUVMeTFLb2d1SXdvaTl3VDJIRUhFc0JWcmhOVVFXM20zbHk3SXZ4WG5ZWUNRNWQtWjNWQUdzRXlwbFhWUEZMMTlOdzh6ZTNSRU1RVUJuSHQtYlFJTGk5bTF4dzduN2tqc05VdVVIeDdiU3AyQVJqaGpFaGpucFBlTXA2NHdvV3FlcG9VdHI1N09mdlBobzJFbjBVaklVMEk3N2RSbWJkVnp0V3cxdldFRUQzX1U?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 2. 【セミナーのお知らせ】経営を加速するAI×データ活用とERPの最前線～KPMG×TISIが提案する製造業のためのグロー - ニコニコニュース
+## 2. SAP stock steadies after strong Q2 2026 cloud growth and recent rally - AD HOC NEWS
 
-- 公開日時: 2026-08-28 16:45:23 JST
-- 媒体: ニコニコニュース
-- URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLaTZOWUJNYnN6OWxyXzNHbFJzdnpCak1XdWZZYUp6eTBzRl9EWE9OQko0aDByWHBGRWFjdGtfT3pSYXNyRl9rSlZic04zY1hxb0Fsc3hsOEZhTlQ5NzN3cG9KaUNlQXli?oc=5
+- 公開日時: 2026-08-29 14:26:32 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxOZDN2NGI4V0ZIMXhGci1KbkZrbG55OVpfWXQ3SWdiYmYxcTNxZV9DQ3Z0eDBCZFFQTjRnRDNkdUdheFlzemRBZENSTTJmMFd5bS1ldjdzT0hHTnVtdUdPano2SHU4SzhWRGo2U0hLYjkyTjJ4TWJxRWlVNFN1ZFQ5Y1ppamFKb29JdGJ0VEJKYk9ZOGV6TUUtSWx2NWdZbWdyeU9tam90dGFwNkt1RlU0WEdocFlnSjdoeW1tdUtDNWVXQjBCSjcxd2xBTUc?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 3. SAP's August Balancing Act: Security Patches, Insider Confidence, and the Cloud Backlog Question - Ad-hoc-news.de
+## 3. SAP (XTRA:SAP) Stock Could Be A Bargain On Its 65% 5 Year Run - simplywall.st
 
-- 公開日時: 2026-08-28 16:31:08 JST
-- 媒体: Ad-hoc-news.de
-- URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSXJ3YXl3d3VPWXI2X3F3dUs2TEc5cFhaWWphaXBXTWJFcDVDU01UY1FjaE90Q0N3SUJ2dElnY0J5NjRRZk0xNDMyTk9JX0t3SFV2eEswQUNmUllUZzlKOFhRNHBJUURmdlJrdEhiRWhJMTJTVUgzMnVYOW03OHNqT3dsUlVRUi13NVJCTEUzRzRmLUQyeWthUFh4OGlZb0s0SzUzRGZrTG42N3pmdVpDZHVnbzUwU3E4dUFvSUpLT1lEZ21rOVVqSkJ4RkJFaWxFbll0anhDX0s3dw?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 4. SK AX, SAP Partner on AI-Native Enterprise - thelec.net
-
-- 公開日時: 2026-08-28 16:17:29 JST
-- 媒体: thelec.net
-- URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JYzZJUUtyZm9VbjRPNGc4dWdacTMzeDNXU2VDdjZYcjNLeE5vMTRhUUM5bTJMQzNYUGVzOEkxQWlJbkgySkMxcGN6UGgtaUZWdVRidW5Lb29QZzZGaS1hcXVWWG5vd0E?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 5. 「自前主義」を支えるSaaS活用、ニトリHDが引いた「作る」と「任せる」の境界線 - IT Leaders
-
-- 公開日時: 2026-08-28 15:03:31 JST
-- 媒体: IT Leaders
-- URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NlAyOUgtemg0UFNiQzNzU2lic3JkbVhYQ2Z3TEJzbDY0eUU3QzFWeGk3MTAyWlR5Xzk5UmYzUU9OSFBXblRQMEplbDRuZWZ1N0NR?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 6. SAP stock jumps as AI rally lifts cloud growth expectations - Ad-hoc-news.de
-
-- 公開日時: 2026-08-28 14:58:29 JST
-- 媒体: Ad-hoc-news.de
-- URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGpMNmYwMk8yTkYzeno0MUdGMFJvS3c1NXM4em8tZTl0N09uT2oteGlycUFTdHQzRVhMZGdCVWNvd25EbkdkYVlpTTBXV0Zhc2xNMWkzWjBqMUZrVmlyYmRDZGx3YnRRd0NLOHZPXzlPQnFNZWc1N2k3UXI4SnNuY3JpWFdKRktzLW8zYmY3VnlxNXA1SGFxUDdqUUtWV2cxQllCNDd4bjZJTWJ1alZteFdMeHZ2eE9BMUNqeFFwSQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 7. SAP Stock Just Got Downgraded: Insiders Are Buying Anyway - Forbes
-
-- 公開日時: 2026-08-28 09:40:11 JST
-- 媒体: Forbes
-- URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1lhMXRnaTJEelliZDhJWUQzR3BvNzVRUmNVRFczYlZ3TDh1dXZmS2ZzRDExSHNudmtZcV9SV3cwbTlzUFhibmhDdGlvc3hSTUMyM3RyNGU0OExhaU56V2tfU3RFaW8xeVFqU1JhYUxjTFItZjRENUhJLW9fSTBvRm1ta2Uzbmdtdm11Nk9HSDk4NV9LVUR4ekdoRXF0NjVWb1pwMGthN0ZlZw?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 8. SAPのAI、全社展開はわずか1割 「PoCの次」に進めない本当の壁 - TechTargetジャパン
-
-- 公開日時: 2026-08-28 05:00:00 JST
-- 媒体: TechTargetジャパン
-- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE5OYmgzSkJSM1g4LTdINEhzTC1WNTNvNkdndDQ1ZUd6Q2FIQUt5cjd6S0xNREQ3Mi1MbXdKSDlrQXdYRnBwVFNtb21mcU5iUjVNMWhWY0VwRWdqdUluLVZTczkwYlpiNVVvclVvcVNzZzY?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 9. SAP Jumps 5% as Salesforce Breaks Software's AI Panic - Yahoo Finance
-
-- 公開日時: 2026-08-28 02:02:31 JST
-- 媒体: Yahoo Finance
-- URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0lxVTRyVjRZVTZ5cy1UR0VPV3VVVTFSdjQ1Y2ZDS1pITVpvRnY1ekpYckRWTGNPT1pIUzRTRUFuMlVrUmxlbEkwRUFJNm9SRFV4UXl2amZxU2ZqU2hyN2FKMHhZdlB6SkUyYlNGaldUaHBCcEc4dmxOaTEyTzNEQVJ1Y1F3RG9vU1ZHdDhGVGFOWTZsTEstdk1n?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 10. アクセンチュアとSAPがERP導入で協業、中堅以下の未開拓顧客へAI訴求 - 日経クロステック
-
-- 公開日時: 2026-08-28 01:41:54 JST
-- 媒体: 日経クロステック
-- URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FV084ZEFTV3FQZFljaGRlNmhRMHZCa3lTX3I5U0l0SXk1THZLQVdwQ0dWY0JqbWFzbFVCT0lGTV9JYWhLVk1rMzNQdUNud284Q1VDc1ZiRnREcnpKeVVVOURTYWVwNVU?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 11. SAP Catches the AI Tailwind as Salesforce Surge Lifts the Whole Software Sector - Ad-hoc-news.de
-
-- 公開日時: 2026-08-28 00:41:06 JST
-- 媒体: Ad-hoc-news.de
-- URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ2E2Zk5xcDhTcUp3UEd2enF4bWt1cmNoWG8tWVFOUzYyQkd5MHdzUXpveUxmdXBZSVk4RTJmaXZfVGE5UV9pV1NISWxmQmY1dFloM0RudWpUaXFHU0JxVHNuSzlrUlR5UjAtQlh0OTNCU1RrMElxSHhreUl2QWxucFk2eTBuVWRURWMzTUgwZG13Zm41bXg0VHB6NUxqNm0td0RBMFpaX0NJY0tueEhodkNELXZZX0dYT2dld2xLTTRSelI0SzJlUGxwU0JHSjVCdXQxekpGQWhHMlYy?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 12. 8月27日のSAP SE (SAP) 値動きは4.49%上昇：どのようなシグナルを示しているのか？ - TradingKey
-
-- 公開日時: 2026-08-28 00:16:23 JST
-- 媒体: TradingKey
-- URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxPM04yMFJVZUNPOXU1MWhLY0pOek1nZFB1d3VKU1ZSVnpxeFljbXNyR0NzWFJ0cGNNUkJ4UU5jMGJkYkdqc21NS3k3UXhvUnp5Rkc0b2VHQlRZc012cG5nWDNuUEhTX2lqNkNua3UtcXJhaV9lZDZ5d0NtTk01dHJkcVMxQ2hGYTgwZS1iNkN3?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 13. SAP SE Stock (SAP) Moved Up by 4.49% on Aug 27: Drivers Behind the Movement - TradingKey
-
-- 公開日時: 2026-08-28 00:15:24 JST
-- 媒体: TradingKey
-- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNSHZLNlJBYkN5bnN3eGpUOWJvR094WW1aM2lSYWI3VGg2VDZzUTFXb0diM2pkVXVuOXRuNElwOTB2c2ZOU2NYa0dISTlwNmpWczI2UWN5dzVlcXRkcWpDd2staXVZQlFselc0MEtuTVAzcTlsVVhGNDFud0VrcF9EMzh3LU9FcVg3aWc?oc=5
+- 公開日時: 2026-08-29 05:39:01 JST
+- 媒体: simplywall.st
+- URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1V1ejdjNERHbEpxQWpMUE9mSEM3WWxmSEdJUmF5UGNZWTh1aHoyNlI0NUFQZVNRbmJ1RmZ1b04xOGJqV0haUVBCRnVjYWgwNkJsV1dpUzRGWVZrS2VCN1YycmhfNHY1MnYzR3pTWHZjZkJoYXBHT2d6bS1BNW9Ua2hCd1lxaTdyQU1ndTJNMi1XWWswUFdJeENHRTc0X0JHWEVKcTNpcW94enYzTXF5cVVFS01lZ3NHN1c4R2lOVdIBxAFBVV95cUxQZzAyWE1FT1cwN0piTllXUXdWdmZkUVBJU1p5TkpaS0JSZEg5TjRwVUJ4dExTSTdQRWgzSERYdDNPcklWNGJGempsX0JodElXd21XbmlRb0MwN2xGZ0p0dWVkWm5IQ2VxVzZLOFJsUEFVa245eUF6SUJHM3hYaGdRR3lPZTRLY3YzOWp2eVpsUjNhNTlnUXc0c0JxVnRDSE1nQ2x3R0dKM1RiajVheUpycDMwTkdIUUZWNERCcnpURlZmT0pk?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
