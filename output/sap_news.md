@@ -1,129 +1,94 @@
-# SAPニュースまとめ（2026-09-01分 / JST基準）
+# SAPニュースまとめ（2026-09-02分 / JST基準）
 
-- 抽出件数: 18件
+- 抽出件数: 13件
 
-## 1. SAP stock slips as Santander downgrade contrasts with robust cloud growth - AD HOC NEWS
+## 1. EU explores antitrust case involving Oracle’s licensing practices - Techzine Global
 
-- 公開日時: 2026-09-01 23:37:08 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMVdtVVpkbjBsTTAtSzVqUnR0OUNkOWpFX215OWhBWWFyUWRYUGNIdk5kU0owM3c1amdyQmpVYWVMZlR5RVFCbWpFYjV0RldYTUp1TVFkZ2dNdkl1NDFJZElNRkVHbGRkVXppeGNFZms5MThWd0xZS01SRGxPOUlZMmxtZVduYWM0QnEzcGZpLW1IY1FXOTlJaGROVWxrc04yZWNTSzNQYXB3S1NuQi03SXpOQ2VYeDRlUXR3bmhQYWdZNFZ1bjVTR19ySm9IVkFKZEE?oc=5
+- 公開日時: 2026-09-02 19:20:37 JST
+- 媒体: Techzine Global
+- URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxPeWp3ZTQtaF9sM2Vnb3BqdmUxZFRaMXhfSHByWGJGSmRfZktZRFlSX255NUZHTVRHUmpUTE9QQ3I1VV9BWmdXN3hxN3dKRktCczdCNWdVd3ZKT2dnbnQ4dDA2a3dvaE5PaXdyVUsxWnZzMWRBUkRXUlczVUtuY3BWc3B1Rnl3OXRPS0E0UmkzdkZfclRWMV9LUGFjMnluR3NQa3JnUFlUNWtLMEhnNVVqTk1DNGd5bXhFNGQxYg?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 2. From Cloud to Court: Wilson Runs Smarter and Faster with SAP
+## 2. How to Optimize AI for the Entire Enterprise, Not Just the Individual
 
-- 公開日時: 2026-09-01 23:00:00 JST
+- 公開日時: 2026-09-02 19:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/cloud-to-court-wilson-runs-smarter-faster-sap/
+- URL: https://news.sap.com/2026/09/how-to-optimize-ai-entire-enterprise-not-just-individual/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 3. Interview: Haleon’s tech chief delighted for AI agents to feed SAP ‘clean core’ - Computer Weekly
+## 3. The European Commission is looking at Oracle’s licensing, two months after settling with SAP - thenextweb.com
 
-- 公開日時: 2026-09-01 21:01:29 JST
-- 媒体: Computer Weekly
-- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkJjTDdNOWdHMWlwbzN4dVNPYVVJdFBKcWhTX3JRYUh1Q25mcUdyR0V6QVp2U3NZZFMzRUJOdWFOVU9mVy1Rb1NfREFLTFNwd043RnVvNlY3c0RPM0R6WE1pVm5QLUpXNWdLOHFkOXlLazNFZlRBeWUwczVSQ3k2Z1B6X2tRc0tBdWowMVRKV2k1aUN1RUVvamhEbkZJWV9Oa1NxM1dFWjBGZlRsT0ptSklXTUR5WWVXWVBlMFRn?oc=5
+- 公開日時: 2026-09-02 18:20:36 JST
+- 媒体: thenextweb.com
+- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE81WGdOZ0hpLU5DQmU5WF9kOTNjUDFTUXFnSTJMc1JjLVQ1eGxfbW5ycE1YR050OGFQQ1ZvRHo2WFFVRGJRNS1RM3FaSG1tQVFHbXhLWHlWUk1WOVBmNzdfb25aR2RTYXBNaW9UZzJOc2I?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 4. Oracle faces EU scrutiny over software terms after SAP settlement - MLex
+## 4. HARTING Accelerates Cloud Transformation with RISE with SAP
 
-- 公開日時: 2026-09-01 18:48:00 JST
-- 媒体: MLex
-- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxPbXdSRVFXNDRBZkRLZlZScnBRc3BQaFJsS0F1Zzl4UU5Qc3Q0aVFlallMbmZUS1RwU2g3NElRa2VfeFBPcy10UjZmN0JHWVBIYTFtTVB1VWlnSmR5aE8xbzNSUlUtUjY3Y3FwcmxaU2hOVW5MNmptVE5ZS3IzZ3BCUy1fNjFaVzduRlBJaDZtVmN2QnlYSW9iUTdqeUFNaV9odWNQY1c1REs0YVZF0gFaQVVfeXFMTVoxX25VbnhfTEdJU2xGQUVlYXljdXMzTjlQUFE0MC14NEY1V0NodWh4LS14YzRRQmdJTjctVVBHMF9tc1dDdVJLTVZhYzFTMDB3dVFPUmpwTDln?oc=5
+- 公開日時: 2026-09-02 17:00:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/09/harting-accelerates-cloud-transformation-with-rise-with-sap/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 5. Starting SAP Consulting as a Second Career - IgniteSAP
+## 5. AIを活用し、現行可視化からSAP刷新構想策定までの期間を最大1/6に短縮 「SHIFT DQS for リバースエンジニアリング SAP S/4HANAオプション」の提供を開始 - PR TIMES
 
-- 公開日時: 2026-09-01 18:26:29 JST
-- 媒体: IgniteSAP
-- URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE5QLUZsaEhjNVJjOGdJOHZHdDNjTnczVzJfUGFNM1FxcjlmVU41b01VQ0RMYVBpV3hGdDFRamM0UnYwMVN6a2ItSkZPYWsxdWNob3pRNDFJQ3YxeEJ4S1BvQUFIdE1TNFQ1Tm1qSjJreHd1QWM?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 6. SAP's Insider Buying Spree Sends a Signal Wall Street Can't Ignore - AD HOC NEWS
-
-- 公開日時: 2026-09-01 18:21:32 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNjVvc2xtMXJCS3d0cDN4bTBMemdxb1Jrem94UXlmQ3VLYmRJbGtRUHpTUXA4dkduYnZQNXZrMVFaWlkzc3BHY193cG5ybm54aFcyNWZNUF9UZjBEajVtd3pPWXZsa2llaVhuV0xEdDdjbnlIczMyM0d0TVBlTjhXbFBySE9jZW5EZm1DQWkzMVBIQXRRYW9CVzZzQ3MtWlRCa2lWZUJsUkVobXpHZmdkLS1NazZERUszNGRTYmEtb3VsMHp3dHQyZk1TaDhqaXZzMkZtMw?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 7. ショウワノートの基幹システム刷新プロジェクトを開始 - ニコニコニュース
-
-- 公開日時: 2026-09-01 16:15:21 JST
-- 媒体: ニコニコニュース
-- URL: https://news.google.com/rss/articles/CBMie0FVX3lxTFBnc0w1X09IUEl3d1BTdjhMczJqZEJOV3hsX0NISC1fY0Q0aUJOQS1xMUhGUEJ5aVRjTTI5c2FPR2g3em0wU1V6V1gzQTFpWHRLR29FN2MxM3M4bjBiWGpkeV9oNEcxMFN4TlVrcGIwSlpvQnc2YUp5YVBsTQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 8. SAP stock steadies after strong Q2 cloud growth and trimmed 2026 profit outlook - AD HOC NEWS
-
-- 公開日時: 2026-09-01 16:12:30 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMizwFBVV95cUxQOE5CZVJhSTNvMkJ4MXZmWUlVUE9EdnFjMmRKenhMOVV3ajROQ0g2QUdrdHpvWk5YMzNwamhRSHlRQ0JFdV9vY0dzTW0xVVVZUUFEdVFxbDQxMjhZUXptMWRRTVV1dXJINFBkdUM2QUJhUE96ZmJsd05JV0w2Mm5jRV81VjZ5Z0hxaUZmaUNpbjJScG5EcDFqMkMzNm1kcEphdTJCVzA2ZjFSV1JUZG5VdWpqOWVFZFI0dEV4Uy05YWU1eGFic3JTX0Z6MHZDbHM?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 9. SAP NOW 2026講演レポート「2035年、あなたの会社で、誰が仕事をしていますか？」を公開。AIエージェント時代に向けた業務改革と経営基盤強化のカギを解説 - PR TIMES
-
-- 公開日時: 2026-09-01 15:40:01 JST
+- 公開日時: 2026-09-02 15:30:02 JST
 - 媒体: PR TIMES
-- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVmZzb29qYmU0YXJSbFdKbFJweW5aMHRQYVFzc3Vucm82UVp0blVPSWZJaXNIekx6OGdJUnVudzhnVVpUVFByWmZxVHBia1RZLUgxb0JYNkFGOFZYT1ltNWN0Ti05UkhuNlE?oc=5
+- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1nUkpRbm1XM1V0WFE2YWw2T1ZZNDVGQ29KSTV3eXFGeU1OR3phY1M1aTdsVXF2b2hWaEN6Y3lyTkYxSV9fbk9yQ2lnU204OVNTemc3cHlTS0wyTnZ3NGxtU29JR2FPTHVCdkE?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 10. 9月1日のSAP SE (SAP) 値動きは3.65%下落：投資家が知っておくべき情報 - TradingKey
+## 6. UST、SAPやSalesforceなど5基盤対応の生成AI開発基盤を発表 - BigGo ファイナンス
 
-- 公開日時: 2026-09-01 15:17:00 JST
-- 媒体: TradingKey
-- URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxQcUMzMmRzU3pVbWdqVE45SDdJVWNKaDRSNGpyZF9Ld0d6SFRZdjE4TElKd1ExaExOUjhxTWs5TFBJVjI3WURkeXJNaUR1dHV1c210ci1vS2dFODh0bEZBeEtNVVo5S3hIWjhMN2VVTTBUTnRVSFVTMWtjVUZJdjRTREdVdnlwdktVeDdEVDZ3?oc=5
+- 公開日時: 2026-09-02 13:36:02 JST
+- 媒体: BigGo ファイナンス
+- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE83Y1lvNXJXZlZGalJwZ0JHajl1OE1PYW9SQmdkeEduWGFNdzJQdzY0U3pENFFFajgwVmNZOU54bGp5ZWpYMTM2cTd2NW5VQ1k0ZDhtOVBwc0hQQ19oWVkwV1k3TUJPS3dDT1M0TDYzUGdrVXEz?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 11. SAP's Leadership Bets on Its Own Stock While the Cloud Engine Keeps Humming - AD HOC NEWS
+## 7. USTが「UST Codon」を発表、SAPやSalesforceなど企業アプリの改修を生成AIで可能に（ビジネス＋IT） - Yahoo!ニュース
 
-- 公開日時: 2026-09-01 14:11:35 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOclZIbVdaajlTSG9oM3VZMmRUNEZXM2NiYndxblJaUXJlMk5KalJOcWwyWkRYNzZhdlJseEQ0S3NWeWJGSFJxYlVoZlVFRGdTLXplUDNsQkItMnpPRElWRHE5QUY5cDBXaVZ4RG1FQ25ya3c2MUFWQXpiNnEybE1MTjVoNWtKTXg4ZFZkUzlwdjgzWkpqM3pza2taT193YmtxblRiS1UtaWRBU0JqUkpQb1FfX0ZLNXBsbDktYXA1VzNwM0paNkp4M1Z1ZW90amRBY0l4VGN3?oc=5
+- 公開日時: 2026-09-02 12:35:06 JST
+- 媒体: Yahoo!ニュース
+- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE5BVTRmY2pCX0pWMHlIWFZOM0luaGNLeVpvdXhsX1B1M280MGJvOWF2NTR3WE9SSmNGT2toOFBfU1paUk9qOXhfQll2b21MNGh2eUFYVXpwVzhqbXk3eExhWmpoY3ZBbUxwcFFKd0hwbkNuUEN3Nkk2Tmp0cmdPSGs?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 12. ショウワノート、基幹システムの刷新に着手、ERP標準機能とクリーンコアで事業環境の変化に追従 - IT Leaders
+## 8. USTが「UST Codon」を発表、SAPやSalesforceなど企業アプリの改修を生成AIで可能に (ビジネス＋IT) - Yahoo!ニュース
 
-- 公開日時: 2026-09-01 11:35:25 JST
-- 媒体: IT Leaders
-- URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrUjQyR3VSMlllNUlCalZ1S202azM2cGd5M1Vid29ZQjB6cGlOLXhsV2F6SEZQUXpCOUVQbGVabjRub1FmNXNBX09xUW4tbjA3bGRB?oc=5
+- 公開日時: 2026-09-02 12:35:06 JST
+- 媒体: Yahoo!ニュース
+- URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1J6T01zc1VocW1RVWJyUTNXUHhEbGlBX08tRVI2cWQ2aTEzSVA0aGpGakd3ay1rSlZhQ3FYWm1zSklGWml4bUROWm9hdWN4aVVxYUxVcGotbmIzWnNtcHplZm02TUw4MjFmalhmWHY2aHRhUk1JU3hvLXFqTWk0bDFiNVlQczBxb19ibEZB?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 13. 長崎県から「旅費システム構築及び運用保守業務」を受注 - PR TIMES
+## 9. 『ベンダー任せにせず、本当に自分たちだけでSAPを導入できるのか？』というテーマのウェビナーを開催 - PR TIMES
 
-- 公開日時: 2026-09-01 11:10:02 JST
+- 公開日時: 2026-09-02 09:00:02 JST
 - 媒体: PR TIMES
-- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE91RWgwXzl3b29mOU9NeVhOY1hTV1NXMUZ0VWlIUnl0eTVkZ1NSYjF4SjZyOXozV1dYWndjOGVBRFVabHpING5YQ0hGNWo0N2EyOTlaeFRRR1hUeXN6UlBJWUF1MWkwenpfelE?oc=5
+- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZWU3WDRVZHpnQzlROTNzT0x0YmMtaTdzWjk1QTVOOF95VDd5WTlhRHRMN3FjMmJqQ0dQc3hOakVEd3k5ZHJ1SHZ4cW93S1RDNGloRS1UX1VQT3hwaGJqUEVfSU9wa1BfWVE?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 14. VIVERE Group in Indonesia picks Rimini Street to firm up SAP support - Frontier Enterprise
+## 10. 『ベンダー任せにせず、本当に自分たちだけでSAPを導入できるのか？』というテーマのウェビナーを開催 - news.infoseek.co.jp
 
-- 公開日時: 2026-09-01 11:00:00 JST
-- 媒体: Frontier Enterprise
-- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkFkS1owbmgyUTR0aS13dWttYm9QOUFUN1pwbC1DR2hoWG1vUl9GWVdmY2ZNZkt5NTZvNVJtc3FUd2RqOG1US0s4VkhSbFdSMkxKbmVEOUJ2V1J3WTdpZ1ZTSXhCekdRZ05QMVgxQi1uRmRoZDVBSUswM3M0M1hIbDVGajhVUUc2VFItSUJwYkFmMlE1cVh6T2xhdzBLMFF5cWN6dHFMTGY?oc=5
+- 公開日時: 2026-09-02 09:00:00 JST
+- 媒体: news.infoseek.co.jp
+- URL: https://news.google.com/rss/articles/CBMickFVX3lxTE1zYXppSGJYTVpQU1RFTUxzZzE1TzNtdnhic2FNWi01NjRORXN5Z29NYTZfTFZkWUlDTXVOVlA0VWVXaldzdmRyM0MweUN2bzM1Yk4wOEYzX1JUTDNaZ3NsY2xkSHBxNGJuaVR4M2ZBTHQzUQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 15. Rimini Street executes $5M stock repurchase alongside equal debt prepayment - Portal ERP
+## 11. 『ベンダー任せにせず、本当に自分たちだけでSAPを導入できるのか？』というテーマのウェビナーを開催 (2026年9月2日掲載) - ライブドアニュース
 
-- 公開日時: 2026-09-01 09:51:01 JST
-- 媒体: Portal ERP
-- URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDJGSFRDdkg2cHZTMnltX3BFd2dfWlhmSzhNNlJ3N0dpWU8wSjl4NUhEZ1d4V3RtQW00WE9kSlk4Rm1TSmg0NHYxZ2xPYVJYa3JuUGhrUnotc3lIWldZeTNjNnVtSkhVSjlUNHhCTkFQZzI5QXNPZTNRaS1oSlBVaXRvNXVJX3IwQ2lqaDRpSWtwczlsYnNBVkdIM0UxVVlvNWQtMXlnUQ?oc=5
+- 公開日時: 2026-09-02 09:00:00 JST
+- 媒体: ライブドアニュース
+- URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rY2wydFNvcm0xMGMxa1ZJSVlQSEl4dFhOLTNfbVhLUzNTSDNQamhkTXNlbkVjQ0g3MXVLS2JDYzkzeTBuYXNfSTRVVjFaN1pOQ2FOM1drbU52NE5HMThMREJn?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 16. NTT DATA stock steady as new SAP cloud ERP partnership highlights AI ambitions - AD HOC NEWS
+## 12. 日本ハムがS/4HANA移行、ECC6.0とオフコンを集約 計画は4年後ろ倒し - 日経クロステック
 
-- 公開日時: 2026-09-01 02:16:06 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0txdmE3aGFwNU1xdkNPRkZ3U0VGWEZfbjZzUU9xNWRSSjFjSEQ3WUpSTGNnRWp1NUtEM2tNR1hUUjhJR293dHVYaVV3Y2owb19LbWh0ZUVqdk5sSVBLMVM3dTdWQlMzWDBmTENxTnQwblQ3empPS21XQ0Rua2VOZlJrOGVuOVpIZmRpVDRhS1U1WkViMEhSZlB2TWZrQm4yZGtWWXY1MFVad0ZCbTcySk81OTJ2QnlsN1h2aWNXaFdpYW8wOWc?oc=5
+- 公開日時: 2026-09-02 05:00:00 JST
+- 媒体: 日経クロステック
+- URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOVdyYnVxMzdMa19TSkZqd2JzNmplNGVLZTdZWmxlQUNxTWpyYXVuYzNzdDc2NzJTRlJsMU9GRzNPME5INmZMbXVTTEdMUWk2RUNfWjE1OGVLNmQ1bjE5MEVPN0dDNDQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 17. SAP Clears Regulatory Hurdles and Buys Back Stock, Even as Analysts Temper Their Enthusiasm - AD HOC NEWS
+## 13. AI Is Coming for One of Legacy Software’s Most Defensible Businesses as a New Challenger Takes on Oracle, SAP and Workday - 24/7 Wall St.
 
-- 公開日時: 2026-09-01 01:33:14 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT28za1NTb2FlLW9BNi1FTG9DTXVpLXB5OGJscTl1MlRSY3R5ZUhZT2tBZmRLS29ab2VSNV9Vam80VFBZYjVwSmZDVTNCV0VPdzRId1lZODMxV2M1Y0xKOUJVM1kybXBYVkxNbzdwV1dHRTBPdGpKSklaOHFwV1dMazJvLVE5cEJpeEZWTEJVVk83RW15TkpqSEpnZWJFcVZ3dXBoVWpQNU1YTmJZRFdYY1hvNDNvcUxHdWtTSGd1ZDVPVkxfM0FIcTRhb2dDaGhXOGRwcjFhZ3hjdHVWVnc?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 18. SAP stock holds its ground as cloud guidance and AI spending shape the outlook - AD HOC NEWS
-
-- 公開日時: 2026-09-01 01:20:44 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHhXUzMzUzBZVTZkVnluQnpfeWI5UWlOUktTd2YyakxLcFpIek5JeVlncnhtUUxXSVJhaGJhOThEbHVHamtaOTZRVzlmRjd6YUVnQkNwZk50bndEeVl2S0lCc3ktWEhLcmw4YnVwOGdKRmNDbVYzekNtbDNGVGxuMDFrMU42eDJTWUlaSWp4eE5TdEt5RGw0QUhJNFpzOGdpaEtqTkJFSTZvN0tXUEt3SXE4a0FLcHB2M1I0OWxISnplSUdockI1bHZfbmxGdw?oc=5
+- 公開日時: 2026-09-02 01:08:00 JST
+- 媒体: 24/7 Wall St.
+- URL: https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNkZRUERFOGRzdU1OVU4tTFNPVFNrQkp0YkZhRDI1X3FXT2E5YUlKRFp4d1NTS01aVVZnY0l2X3FXSE5NaHhsb0ppMkk1WGoyYzNocGs2T2FpRkxPX0ZrS3ZKUmxqTmtxU184Sm80ZjF6MU9MaWJhMkthYXBhNnYyR2pScUc5RFdqTjhYME1ORlJJQkdrUkgtX1hBMDNxMjZjZHVQVEgxUmE3UVpFTFBWTHBPZm5RUVZmTFlNZnFaLURBWC1aVGlIaENRaG16YmtoRUtaT0pMQUZjWV9UbkZQdWpwcU13bE5vY3J3WnpDMUktM2UtSnc?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
