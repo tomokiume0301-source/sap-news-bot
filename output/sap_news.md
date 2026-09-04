@@ -1,115 +1,94 @@
-# SAPニュースまとめ（2026-09-03分 / JST基準）
+# SAPニュースまとめ（2026-09-04分 / JST基準）
 
-- 抽出件数: 16件
+- 抽出件数: 13件
 
-## 1. SAP gains as investors appear to lean on software strength and a broader tech rebound - Quiver Quantitative
+## 1. SAP Recognized as a Leader in the Gartner® Magic Quadrant™ for HCM Suites for 1,000+ Employees for the 11th Consecutive Time
 
-- 公開日時: 2026-09-03 23:49:00 JST
-- 媒体: Quiver Quantitative
-- URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxQODFjX2Jhak16cUNDeHNCUHpiM0JOd0ZXUzVmSTFpNXlmVHNCUkZBbGNjZWpXTnBxc3RXRzFCdUhFa0M4YXZ3REFXcXJycHZBZi11LVhOLUtXRVhKT0tuRHRUMzVIUnVYbUxGVEU1dTNESlQ1YU5DaFRNQ3NiVUxuVk5KZnVieTZPbU1OMHd2QWRNZjlDa25TY05zdlVMUWNkX2dsSmg5WHQ4RDNNZEk3WGIweGNkNkpIcUE?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 2. 9月3日のSAP SE (SAP) 値動きは3.88%上昇：値動きの背後にある事実 - TradingKey
-
-- 公開日時: 2026-09-03 23:16:32 JST
-- 媒体: TradingKey
-- URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzBkWGVabGJ1ekNJY21ZMFRmTnVuOGwzTElkX1B0V1RrWm14ZTMydV9pTnJWTk1YQ3VXWmphY0ZpeGdYVTloaGFJcWt0YjFfVG5QdUZ6WkFCVkotTGF3V3R3cllkUUs4bzFZbEdMLW1sbEo1SW9PT3VheHVtMzBjaTJyNmliSDVFSWhWZjZn?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 3. SAP SE Stock (SAP) Moved Up by 3.88% on Sep 3: Facts Behind the Movement - TradingKey
-
-- 公開日時: 2026-09-03 23:15:26 JST
-- 媒体: TradingKey
-- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXZyVnVaby12b1lEcFhtY0wxLXFOQ2lsYXN0NDRmMEgwZVk3V3hfMG1SOGVURkUtWm9HeEVmaXQ1SVNkT3FGM1Ewdzl4VnZUSzM2OTA3c2Exd0tneGMtck1Rc2pTb1dOY0wtRC15MjdqaldUMDQxR0RVcmY2QTFlekxaOWNFOWxSQVE?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 4. SAP's Boardroom Bet: Executives Put €900,000 on the Line as Antitrust Clouds Clear - AD HOC NEWS
-
-- 公開日時: 2026-09-03 21:21:09 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUVU5bWpzVVVlSUR1TDRha1VoZnF6UER3UlVjMnJsRVR6ZmFSRHRYT2k2TzZRODg5aDhuTE5GeFJqZDFUTkdFY3pyWDVLckR1UXNkaUNXRlh6NXJfN2FzbTc0TXZoSUhoZXdQWDFMYUNSQ2Q0SEJCV3hxY0pLTnRGT09saEZUdVpFSzVNWlIzUHM1djQ5enlnUUk0OVM4Unc0MWdFeEVOV0R1cEE0SEV4ejhXNkZRX2lXcVplZGRWdVp1cFM2YWdQcWU0YWxLbjFRNmNqSHp3?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 5. SAP Commerce Cloud and Vercel: A Faster Path to Better Customer Outcomes
-
-- 公開日時: 2026-09-03 21:15:00 JST
+- 公開日時: 2026-09-04 21:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/sap-commerce-cloud-vercel-faster-path-better-customer-outcomes/
+- URL: https://news.sap.com/2026/09/sap-leader-gartner-magic-quadrant-hcm-suites-1000-employees/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 6. バンダイキャンディ『CHOCO SAP ドラゴンクエスト』2027年3月発売決定！手のひらサイズで人気モンスターを立体化！ - 玩具人 TOY PEOPLE
+## 2. CTC、ショウワノートの基幹システム刷新を支援 - SAP Cloud ERPを採用 - news.nicovideo.jp
 
-- 公開日時: 2026-09-03 20:44:57 JST
-- 媒体: 玩具人 TOY PEOPLE
-- URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE81NWtMLTB2MVhyRXBCZ1p4eFlGOFUySGdIUkRHekNpVWZFcHZyd1Rrc2M3MTRYV25UUXBKRks3aTcwYVZQRlhueGQtc1U4aFFT?oc=5
+- 公開日時: 2026-09-04 19:36:04 JST
+- 媒体: news.nicovideo.jp
+- URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE52cEZWZVRqdFVGZk82WGUzamYxSkNTSGhqMHdXdkU0WGNiTThlTEdjekI0aVdhOWlxV0VlbVREem90SEcwZ0lwZVMyVV9IRlU2UVdaRXNTX2pPMTktaXhOdVc4N0JHdHZPUHZ0N0xwR1QtaWk3SlMxc1pGRQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 7. When Sustainability Data Meets Finance-Grade Rigor: Winning Under IFRS S1 and S2 - SAP News Center
+## 3. SAP's Embodied AI Jam: When Customers Meet Robots - SAP News Center
 
-- 公開日時: 2026-09-03 20:17:52 JST
+- 公開日時: 2026-09-04 19:27:55 JST
 - 媒体: SAP News Center
-- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE1sMVppS1BvbEQ5Q1ZmLUpqZ0ZtZzBEWGZiZnhCOXVoQ2Z3U25VUUxLXzlVdmhaaFpRSFBhQlFUYmMtRFphYk4zb3pwWE1QZUZvUGtnSkExc2w0dUFBMVZEV2JKM3JrQmtWQTZwZjhRNFJyVkR4Qy04WXJuaGhBZjQ?oc=5
+- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdKVnNidENqR1J1d1FhdnNDSmFGODRua3BVM05kSVpKZ2F2NHpIMnhiRFNjd2VWaVF1ZV95TUdZZGpnVmUtNlFHWFUyUnNVY056R2NVRFZOVGRlY1ZxcnJlX3lvMnptV0NtYWxENUI5WThmUzBfT0pJSERudnZ0NXlTUnNmZTMzeUE?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 8. When Sustainability Data Meets Finance-Grade Rigor: Winning Under IFRS S1 and S2
+## 4. SAP’s First Embodied AI Jam Brings Customers, Robots, and AI Together to Develop Viable Use Cases in Days, Not Weeks
 
-- 公開日時: 2026-09-03 20:15:00 JST
+- 公開日時: 2026-09-04 19:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/sustainability-data-finance-grade-rigor-ifrs/
+- URL: https://news.sap.com/2026/09/embodied-ai-jam-customers-robots-ai-viable-use-cases/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 9. SAP's Regulatory Reprieve Lands as UBS Downgrade Puts AI Execution Under the Microscope - AD HOC NEWS
+## 5. Expert SAP Licensing Consulting for S/4 Cloud - E3-Magazin
 
-- 公開日時: 2026-09-03 19:41:33 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSTBNZWliOEVDYVdMTnBibktGQ1lJV0t0Y0pRVkJadmFvcmJ5UEU2Ni1SU255cVhZcFUxNE1XUHJ4Q0dzaXB2TS1hTWhqNEhqTFoteWpVbXZMNWxVUG1kRG1sb3FodzEyWDd0RHJxNXFTSVFfUHgtOTNfOTUyaVNiTVBRdEhmRGQxU2hic0JYRzNvd1BNTWtHRFVjZUIyXzJYMlBjYlJ2Tkw3U0E3TXIxMDNsSkFYaDRyVU15NTZSTVZNV1Z2dEp2TWtKNVhYcG9MSXR0bl9FcVlFOHgx?oc=5
+- 公開日時: 2026-09-04 17:42:58 JST
+- 媒体: E3-Magazin
+- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE5fczRSdWhPd3VQRkpsWXNiVlpucEFJSVJ4VVpZVWoxMjJHWkxpNlZyWGVnV29zRkVjUmZmQkZDa0RMWXhuNmdpSjFTdnlYOXFaX2FLMFQzeDBRaFNyZFp1SmptTHFCSzZKSGlvR0VBSWpLWDhI?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 10. SAP SE $SAP Stake Reduced by Natural Investments LLC - MarketBeat
+## 6. SAP's Rally Tells Only Half the Story as CIO Caution Clashes With Sector Euphoria - ad-hoc-news.de
 
-- 公開日時: 2026-09-03 19:25:44 JST
-- 媒体: MarketBeat
-- URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzVXd1dad2ZwQkpRVkY3TC1Dc1ZqeDJyWnQyRzJXaWVwc3FWS0tsTDJyYll2bDNaRlIyYmZqYlh1ZzNtMklqU0dCYkhqU2RxM01nU3FWZnRDMU5LUDZEOHQxckhlM3hoY3ZNeUFqYVJQaWhjWGVZaU56c1NuWEhXb2tRMVJuVmdBdGNDdVZXZzVvTDBMTmNfTlI0Z194ZTFCNVNsMTF1R3RCcGUwOWl4MHRB?oc=5
+- 公開日時: 2026-09-04 17:21:11 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR2NEN2Nfc09paW94ZUF3Zi1YdUszSlZhb096ek5pd1BtbnFsN3hfNDdhOXBuNFFPcXlVN3VRbXZVRkQxeGU0eFBjdzJ1UllfQ2dBRHBVRE1GMVJVaExNTkZQTUlRNGV1NnNHQlBvTF9EMHFMVlFWR3FkbTBsdDE4WmFTN3hKdTRXZ2ZDRjRqNjh6TGNNM1V6N1NoZHJQUG5RRVJuVW04ZlVUbE5qSzVlbkM4UG9TVEZ1WmhmMXFsNDl6U3BrMUhWbGVTWkJoWG1lLTBod0NUZFlQSVpl?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 11. Oracle licensing practices draw EU attention - computing.co.uk
+## 7. SAP Caught Between Sector Euphoria and Its Own Unfinished Story - ad-hoc-news.de
 
-- 公開日時: 2026-09-03 17:46:11 JST
-- 媒体: computing.co.uk
-- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU5XWXVJQ2UtVE92UHd0TUxGTVptSVdDV2ZkUmtHel9rUldkRmNMZUlfRUNQb0dpbkg5aU5oLW9UQy1kT2NaLXVjUUZ0VFgtUk5SUERGY2cyVEZna3U1U0hIVV9tRVFHdzMyVkw5cm84TlBfZlpiRU9TZ0hrOEtsVkJlamFEaW5EcXdpOEVsS0RuQTZSeFpRaXNvN0pnUnJhQV9YRXRaOFI?oc=5
+- 公開日時: 2026-09-04 14:31:29 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHk2TWNOdEtVWF9CLThDZGNpWU5mYTQ4RzZwblJ6VC0wU1c0UHpQLXFITVFrMXJwZmt0ZlVIakUzcE01VV9ORlFjbHRBR3NCR2hiWkVXTWFscXZZam9vcnNSLXdiV0luVURMeVBlbkZ0R1pGOURTM3pHSUFVOWVRX1dYOFB2NGxtRmJsN0FvVlBSTDRsZXRlUGJmcnZXYkd5LWxSYkdyczlFZlFydkJUNXlCdEkwVmFVdzdkQjF6T2ZiWkx4ODVqbldOMG9MSXJL?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 12. NTTデータGSL、SAPユーザーのAI自動化を推進 データ整備や業務改革サービスを本格化 - 週刊BCN＋
+## 8. SAP stock gains on AI-driven cloud growth and guidance update - ad-hoc-news.de
 
-- 公開日時: 2026-09-03 16:00:00 JST
-- 媒体: 週刊BCN＋
-- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYUxCai1TZFJvVUdMZFp2OWNmWE93WXNhYWkwMnpTbnllOVBQanp4enZzTjRjbzNWMm51NXM4dW9IUmxSUDE1eVVES1dLdl9CbUlaQnUtVjRVcllubmgyd2ZSb2dmMTAwZzN1cHZ5QlNIS2ZH?oc=5
+- 公開日時: 2026-09-04 14:17:29 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXZnN0NadVNYdURVZ3ViZ0pZMDlockdBTTJfQjVHXzZmN1pOTlFRWlQtbjRIVnZGaHhIdzZGV0lPemlvNUo2WXkySDV1TjJzcWZwM2xSQ3lOdDVvOXBCbjdzNm9YRUt5N1VpSkRNb2V1cjduQ3YyeFNvSzZ6R290LWhwSGdraEhzcjBXRnVhc1hiWFdiTU9kQWV3cTByUmJnX05OZnJJLU9SUm9qWXNkX2hPQ29xQkYzRXl3Z0NTdmhxZw?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 13. Rimini Street stock reacts to insider sale and new SAP support win - AD HOC NEWS
+## 9. Redefining Work For The AI Era - Portal ERP
 
-- 公開日時: 2026-09-03 14:32:19 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0t4RjFSWXozU3RxOVctbWxRVDh4cjROS3h4M0RxcDhMUFUxR2JTRW0zOHAyNlZmMUFyRG5FU1RPd2xITjFWSi1HaU52ZjdXb1FKMnBKV3A0ZWI1M25nR2RNRkIzM25QckpPQXpDMDg2dUY1QjNJQjRQZGtUUXQ3RmtWT3YwcU1wczQxeVB5QmxqN3hvUHh5SWlqaWNnWE56TlJERlc0Z0NqRGhqZXJzdWtLSUg0eWlvV1RhcFpHbzNkSG8?oc=5
+- 公開日時: 2026-09-04 10:05:50 JST
+- 媒体: Portal ERP
+- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE5EZGUwWDlRazRSZnBRYXY3OFRLVDlic3pxdmxwTld6M2hyWWxldWhLR2Z2ZzNCY2NYaTZrR0M4b1NaMEU1ZFd1QUpHX2g3bEJEUVdKRThwMV9HS2pUbE9jZmVSX21tVUxLUGMzOGZrcnM?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 14. НАБУとSAPが「フェミダ」作戦の詳細を公表、国会議員らがキーウの企業・不動産を狙った疑い - Межа. Новини України.
+## 10. SAP's September Litmus Test: Can Insider Confidence Outweigh a Widening AI Delivery Gap? - ad-hoc-news.de
 
-- 公開日時: 2026-09-03 13:32:42 JST
-- 媒体: Межа. Новини України.
-- URL: https://news.google.com/rss/articles/CBMia0FVX3lxTE9NVjlJcGp0QmpCckhNWC1DQ2V5bEtMR1RzdHBtMU94WXphUFR3RlIzMDdLNnd6Y0hEZGtOcFRZWE9jOGRrM0VBbUpzWlRhcTNDY3hjcHc1cVVvcFpxS29EYUNWTlotQVBCeF80?oc=5
+- 公開日時: 2026-09-04 10:02:05 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcnZCd1ZyNmk1VXJjZ1RvRnAyQ0tPbTlwYVJoSnlWbU5VeFQtTFByalFGZXdtakE3N0FBSU5RaUo1Y2xYcmtmSV9RTjBmZ0JSTDF4WFktakNjNWNKb01ZRlkzYmxIeU1Ydm9qdHhycS00Y0NpR0xKRDFObTlDWmxLbzJvSF9CUVpsck5jVzd5dTcxNUNYRnlQTElVeExXdkJhVU1DUlJKd2FoUkxZZVZTUFFMbV9qck9ITE9MMm9JNXJRemtCTUV6Q0l1LWMxSUN5SDVkMXVSSWRtNTZRdmc?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 15. SHIFT、SAP刷新の構想策定を最短2カ月に短縮するコンサルティング、AIが既存システムのコードを解析 - IT Leaders
+## 11. SAP SE (SAP) Stock Up 3.5% and Still Undervalued -- GF Score: 86/100 - GuruFocus
 
-- 公開日時: 2026-09-03 10:09:30 JST
-- 媒体: IT Leaders
-- URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xUnZhN1JKaU13RVpiYUlGT2JwSzJySHNQOUg2TVpTWkl1OS1ldTdYcGtwYWhfQkp2Q2drcVU3eXpORW1sVGR6ZjRLWDhwRjZrem1v?oc=5
+- 公開日時: 2026-09-04 06:18:50 JST
+- 媒体: GuruFocus
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkpma2lPdDBieWxaRGJSWVZlMTZDU2Mta3pWNTJDdkFuWkxKMDg2T3ZpV204Rk5rdjA1OFBCdE5pNDlBSWdfM2h1RmprZ2xZb0wtbkxic25UZ1BYNkNsZEdmOWlZZW4wU1M0Y096eS1ITFZlVmVPMFBSWGxjQ0xfX1dTcVROVEJmWnJuUU1kQ0Vkc2VPSFpOWGVvUEwyY0E?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 16. 日本郵船が「あえて不自由な」システムを選んだ、SAP移行の舞台裏──苦労の先にあった思いがけない成果 - EnterpriseZine
+## 12. SAP's €22.9 Billion Cloud Backlog Buys Time as AI Agent Rollout Lags at 17 of 200 - ad-hoc-news.de
 
-- 公開日時: 2026-09-03 08:16:42 JST
-- 媒体: EnterpriseZine
-- URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zeDltQ2hGbUV3WVphdDIwX3FpSkliLV9vdVpKWG9XdXF1ZWVJNGUyS1dkekhGOXc4ZzZZTGdsVEI1LUl0N0s5aEVHU1pCZ2dxbE94a1hxUDlhUQ?oc=5
+- 公開日時: 2026-09-04 04:11:13 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNGJ6UlJLcXBzNzNUTkRLVnRqRzlpTVBscWlUa3hCTmFiMkR6TkF5NnZsd2ZRRFBUaGh5WWlaaFFYc0Y0NXAzZnZIMFhmMXFsQlBseUlPOXdxZU9RdFdVMVdFUUxyd1NtZzBwaDhKRVhLU0dVT0FJd0MzRHFmQkxIajF5ZDZnVHlpQTFTTnRUcklhd2xDNEVuYjNkTW0zWFNiTUhoWEx4LURmUEk5bkJxZHRsS2QtaUlLS2NCSnF2VFpvU1hPVWNlQzl4ZEpTY3NhZFItV3M2N1k2Zw?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 13. SAP stock gains as cloud backlog outpaces revenue - ad-hoc-news.de
+
+- 公開日時: 2026-09-04 00:10:03 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGcyU3JYUGRTcWQzVnl6NF9pY3Z1dENwSkQzSlRCclEzOHFna29CQUw0UHltRXRFYVRmX0JjU1prZWVRWXI5bVByamRPWWNTM3ViUlNGelkwNC1uLU8tVklLSmc3MnQzUWtoS2hwSVJuN0I0VkJhZFViMnlFNk5mSmVmWmhvNGdORzI4OUZhdWdvdU1PVjhfQ2N6cS1PNHZEZzNoWDMyLURORGdoOGNqU3Vn?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
