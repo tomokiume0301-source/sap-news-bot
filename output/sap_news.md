@@ -1,122 +1,87 @@
-# SAPニュースまとめ（2026-09-15分 / JST基準）
+# SAPニュースまとめ（2026-09-16分 / JST基準）
 
-- 抽出件数: 17件
+- 抽出件数: 12件
 
-## 1. Playing the Long Game: Why Team Liquid’s Race to World First Runs on SAP Business Data Cloud
+## 1. SAP ABAP Backend Developer Certification: Your Readiness Check Halaman 1 - Kompasiana.com
 
-- 公開日時: 2026-09-15 22:00:00 JST
+- 公開日時: 2026-09-16 21:57:15 JST
+- 媒体: Kompasiana.com
+- URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmphQVRUcDVqN3pLamU4VkFYQjdWekdfVzZ5cU1UQWtjaEhJWkE4SnVCcnExZ1RtbWNXeEhyQ2FaeDh5Y2FOS1A2aXMwVmNWWE05aF9HTVJWVUJjWVlDb0VQbnVhY0VJM1VHdmRzcnRhLW15TFZqX0JNdmp5SWM5NkFGWHhDNURPR1ZtRV9CNEVJaDlZNy1zdVotOXR3SVozYnpUZ1RucF9COUFlbVVpU0pXMzEzTlpOdm9pN1Vfa290R1NhSGZKZg?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 2. From Disconnected to Autonomous: Daikin’s People-Centric ERP Transformation
+
+- 公開日時: 2026-09-16 21:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/team-liquid-race-to-world-first-runs-on-sap-bdc/
+- URL: https://news.sap.com/2026/09/daikin-people-centric-erp-transformation-disconnected-to-autonomous/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 2. SAP BDC Helps Team Liquid Optimize Player Performance
+## 3. New SAP Ariba Spend Analysis and Insights Solution Now Available
 
-- 公開日時: 2026-09-15 22:00:00 JST
+- 公開日時: 2026-09-16 20:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/sap-bdc-helps-team-liquid-optimize-player-performance/
+- URL: https://news.sap.com/2026/09/sap-ariba-spend-analysis-and-insights-now-available/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 3. Vietnam Green IT Software Forecasts Growth from $124.40M (2026) to $385.37M by 2031, Profiling Schneider Electric, Microsoft, IBM, SAP & 16 Other Key Players - Yahoo Finance UK
+## 4. SAP、Gartner® Magic Quadrant™ の Supply Chain Management Suites（サプライチェーン管理スイート）分野でリーダーに認定 - news.sap.com
 
-- 公開日時: 2026-09-15 17:32:00 JST
-- 媒体: Yahoo Finance UK
-- URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxPYjM3TWdQeUNpbE5QY3BaYWR2dXFUbUp0X0wtblR2andlSU1ob0pycHU5Vmc0TW1BSTJZa2FSMms4aDZQNFIyTlJCRHcyM2p4aFU5LU1ZYnpuQ01tZVpHUlgwdE02NF9mNC1qUHZfel9OZlBiOTlFZmlaRVFHZ0Zua3M1TVFkakhwZVQ5cE5wMnctQQ?oc=5
+- 公開日時: 2026-09-16 17:19:06 JST
+- 媒体: news.sap.com
+- URL: https://news.google.com/rss/articles/CBMingFBVV95cUxNMjFIRUZQM3dTeWRiUk0zdWNfY19EX2NkMkdVODc0VTVySk12ajMzMExZUU1XcWV6UzdRR3pKRHRxcktVajJsZW54c0s3UVdyeHpjaHlab2c3bk5zQ2xwWGNkWU10cjY3ZUl0UFZISGNQYUhiTFJBaUlaQ1lfOFJqejJockNsU0R0S1ZQTF9pUXlpTHVXMzFpbGM4Y081UQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 4. 次世代ERPと、企業におけるデータ主導型意思決定の加速化という課題。 - Vietnam.vn
+## 5. European cloud watchdog slams Broadcom over VMware licensing practices, issues warnings about SAP - cio.com
 
-- 公開日時: 2026-09-15 16:48:37 JST
-- 媒体: Vietnam.vn
-- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1ZrUGY2Sl9Zb3J4Z2dxUER0RGdSYk9BRVpiMHc5aEdBZ0RBYlVQV2JJUVRlN0hKRW1VVDMzTk9Kc1BqU1hUYlhHQW5hbThHeWpRZDV0cXdtNzIyRjlBTmRtRjRuOWdJMENENmtaemFUMlMzMU9KMTBoLTZEVWNWREpVSXd5NFhrWm9RSWYxU3lCVURENG54UU4zREhON0htZWg3R1U2bEF3WHot?oc=5
+- 公開日時: 2026-09-16 11:06:25 JST
+- 媒体: cio.com
+- URL: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR1hDRGZXV0xvU1lfMGIyakJqaVJWcV9YMldXQ295c2o0Rl9WcG5VY1ZVMENwRWx2OXVwUHh2d3QzOGRtYkw2YjBfcEswMVNlZ24tOEx0WGdnUUc5a1pqazNfWmFlSGRfcHI1bnpqQVJtM0JaMWxXdXBtSWtOQm1uQkRGaEcyREFoQ2ZPTklYbnJZTlBnaGpkQkpWSV9qS01sbGNJVk1HcHFGRDZkR0t3cG1DaWd3TXloQUlxTkQ5UWZfZ0F1OW5MaG9LS2FnWi1OdFNj?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 5. NafoodsはSAP S/4HANAを運用しており、上半期の利益はほぼ倍増した。 - Vietnam.vn
+## 6. データとAIで経営スピードのギアチェンジ：中堅ものづくり企業が今選ぶべきデジタルプラットフォームとは？ - ニコニコニュース
 
-- 公開日時: 2026-09-15 16:48:28 JST
-- 媒体: Vietnam.vn
-- URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGtRNXdfU0Vmai1BWmVOc1FjZjlzcFNFc2FOU2s1X01kSEZUMjM1a3FtQ2RVTzhhbnJBclV5enp6cnpubEM5NGlkQ1pzaWVCNnNBTVhFQnBrdUF3bFprZUNabTg2ZVBVYkhDZUMwWkp5T2x4aXR5T3N6OWs1bG5hWDhxdUFGS3JkT1k1VzdlQzd6THUzdW1KSQ?oc=5
+- 公開日時: 2026-09-16 10:45:25 JST
+- 媒体: ニコニコニュース
+- URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kSGhiZTBJMWdnTjVDS1oyeWVFeS0wR2RQc2pEZERUSDFiYWJmVVhyWGFXLVNfdDBHdWlEanpWcGhTajRTT2VZVS10bi1iTWJSYkpMZm9OTUhNN0JzbmxuNnZGTmFUa0x3?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 6. ＪＦＥシステムズ、原価管理システム「J-CCOREs(R)」にSAPユーザー向けERP連携シミュレーション機能を追加 - 千葉テレビ放送株式会社
+## 7. 人事 AI 活用の理想と現実 ー AI 時代に人事が担うべき役割と AI 活用の実践知 - - news.sap.com
 
-- 公開日時: 2026-09-15 15:39:16 JST
-- 媒体: 千葉テレビ放送株式会社
-- URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBubHp3d28yZzdVQmNwdDdVM0tpYUl4VGI3VmRLeU1UbUFWNkh3b0I2Vzc2NTV5bGdaenBrUjMtdFk4S25BaFF5Z3d4NDBieHg3UXBIWGE2NFVRc1RmZ3BF?oc=5
+- 公開日時: 2026-09-16 09:49:15 JST
+- 媒体: news.sap.com
+- URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tQUNzSkRab2FWTGtXSF9SOTBhWTJTMW40NHZERU1NUmM0a3ZPOS04enBUR1BOZ1lkdmlPeU43ODlaSkpWS0dkMTd2dXhvMW41em1NU29oOVFKZzd6TEw1Sg?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 7. ＪＦＥシステムズ、原価管理システム「J-CCOREs(R)」にSAPユーザー向けERP連携シミュレーション機能を追加 - PR TIMES
+## 8. SAP adds TabPFN-3.5 Plus to AI Core for business data - IT Brief Australia
 
-- 公開日時: 2026-09-15 15:30:01 JST
-- 媒体: PR TIMES
-- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9VT2g2aS1tYktDWXZQcENuaXBCOXhuMnczYVFWM1ZVYzlfeFhLank4LUpweVVpTXRyX1JhOHluTjhtVHljY3VwUTlkVE1vQ0hIVXgzV0pNdTQ3VGpfZTduV2Y1bUxNQkJ0TlE?oc=5
+- 公開日時: 2026-09-16 09:01:00 JST
+- 媒体: IT Brief Australia
+- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxQWG42cU03SVFQLXlsM2xIMDF6VzdfcDdrZlVIb2I1dmYxRGhQREVvUTNWQ1lHTEFlUzdEYW0wRWJLM2lTem1BcWowSlZYdFp6b01STjNxalFKSFN6V0hZVm5HRE53QUxPaXYxOHBUZmVWQk1DdF9RY1RLTW01RHdwU29YTVJGWW5oM1E?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 8. ＪＦＥシステムズ、原価管理システム「J-CCOREs(R)」にSAPユーザー向けERP連携シミュレーション機能を追加 - ライブドアニュース
+## 9. SAP S/4HANA移行の「落とし穴」2026 - 日経クロステック
 
-- 公開日時: 2026-09-15 15:30:00 JST
-- 媒体: ライブドアニュース
-- URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwY0ZlTnhwVHI1d2JiUzRQNlM3UU16eXczWTBla3o1eFFLYWFJc2tHOEd4U1RxMUNaR05rUENoOGE2NnQ0ejdJbkNUT0tjRzU1cnNGa2M3X1hCNU05YlZsQlVn?oc=5
+- 公開日時: 2026-09-16 07:09:46 JST
+- 媒体: 日経クロステック
+- URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN2s3SDF0aG8xRlZsaWs4MndzOW83U0tBOEVzRGR1WTRfQ014eENFWVdDQ1FiZVRIeEJwM2x0UnpLV202ZTNZcjRwaFhMU0xmQUxWd2FJU2l4YS1FS21z?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 9. ＪＦＥシステムズ[4832]：ＪＦＥシステムズ、原価管理システム「J-CCOREs(R)」にSAPユーザー向けERP連携シミュレーション機能を追加 2026年9月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
+## 10. Warning: Critical Memory Corruption Vulnerability In SAP Extended Passport Processing (EPP) Fixed in SAP Patch Day, Patch Immediately! - CCB Belgium
 
-- 公開日時: 2026-09-15 15:30:00 JST
-- 媒体: 日本経済新聞
-- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFA3T2xTdW0yU1pjclo1WUkySFFMZ1BHVXhLQjgwcFY3SDNRTnVKYkNuajZxLUx3aEIzZTBCV0xYV0JNV2x5ZjV1TjI4eGE0dENPWjQyZmJtWFduMUstZ1U5YmlzSGNzVjRvSnc?oc=5
+- 公開日時: 2026-09-16 04:56:30 JST
+- 媒体: CCB Belgium
+- URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRE9UM2F1MmFlUFhUQ1dWV0xrdS1kM2kzV2sybFk4dkRHSnRuRU82clVvcVNkREdqYXJDRXNIRHY1QVlzVFdPSlpkTHpOWV85c3ptS21oR3BZUjdQa2dtY1YyaUJ3amN6c01vejVqVnp6TkJQODZNZ3FyYzVLd1VJNExuZURXRFNGbGNnb0twX2hiaURpMUR6X2ZOUW5XWUllNk1Gb0xnaUFJTWFMM3hLcXRTZldTMzF0U1NN?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 10. SAP's Dual Narrative: Buybacks and AI Ambitions Collide in a Week of Contrasting Signals - ad-hoc-news.de
+## 11. SAP Stock And Its AI Retail Push After New Partner Deals - simplywall.st
 
-- 公開日時: 2026-09-15 11:20:43 JST
-- 媒体: ad-hoc-news.de
-- URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc1U4eFFDSzBBYld1SU85T3hWQ2RBMk9kRUg3bHB2NTR6YnQtZzR0dl9jX1V2Qk1NU3NGQXl4ZTZSVjdzMWVqQXh2aXgwS0pEbHdVaFgtM1NESWVJMjgwalJTRUxuM0ZxRWNERG4yUzJKLTNBaTZTQmo5bU55Q29nVUJfUG5oZ2FsZ3IwZTRWZWJxVlZMdEtDUHh6Qld4WDFsLUVMVTZsNk5OV2RVY0hGYko1ajI1amJGRjI5N19TQTVpaklQcXNnMHdRZkYxeFN2a1ZqS2x3?oc=5
+- 公開日時: 2026-09-16 01:49:06 JST
+- 媒体: simplywall.st
+- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxObG1xSkVYTDd5aGlEY01UNktPMV9TclZIV04wRnR3NDBzYmtWVFVOOG15dkdiQ1ZsVTZDanFWYnI2R0lfQk9tSHJlcFNNNHpxMWoxTlE5ZWRpQUZPX1JvSDhVSzZTOWQ3YURxQ3R3YmpwRElhM1VFMkRsR2Y2T0I5cEhkaHVCb0tyZkRhcS1RN3REWDZrT1VhQW41LURDQm0xWGhEVXhETHdNSVdnZkhPYVVqeVBkTEJTWjV5TFh30gHDAUFVX3lxTFA0TENJRUtFcEViNzBJU3A0ckJVZXR3Z1dRRkhoTHlrdlRoX2FaSzZyVEdmTlVLWDF4eDRjelZIdEJsX2djc3I1TXJkY0tQdGttTHpRamg4NnMtR1FEQUpRclhLZl9MNFcxSksxQVU5cGJvVmhZbHpzS3lTMU14dUpmc21icENKOHpJNXdBRlZKOEdxaFlTdFpzMXllTEZlOFh4aV81ZXZYZ3QxYldsZUdtSEs1T2dRS0VnNnJnUW1QdnIydw?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 11. Datacom to offer Rimini Street support for Oracle and SAP software - ARNnet
+## 12. TabPFN-3.5 Plus Now Available in SAP AI Core for Instant Business Predictions
 
-- 公開日時: 2026-09-15 10:34:33 JST
-- 媒体: ARNnet
-- URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxORU1neFFHOGRoUEJGZEFyeXlWdGI2Z0lOTExYZTNFUFFGal8zZ0dpd2p5N1ZqNzd5SElHaFdicWlSYXhJblJLZGI0aUZndHQzNEJIa0drbWYzTTBVNG5fbFFMTEtHaWJLYUJ2ZVNmSmV1Rlc4cVRhVmlubXQxdzlKUklGQ25VSldCdU1qb09obzltUDBHVlh4RWo0bHRZT2ZwN3lLWlBSbkpkcXU0WWhwcWlwRQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 12. NTTグループが挑む＿スキル起点のタレントマネジメント - - SAP News Center
-
-- 公開日時: 2026-09-15 09:18:43 JST
-- 媒体: SAP News Center
-- URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1MTFoR2t5NDk0M2NGQmRSeTVWU0RwNUM1Z2ZSd19NMnBxWGNMbktzd3NKejhxeXVZQjdMalQ5bDZFbUZlQUJoX3lQQktCT3ZsNEh0OUZPeERJcjVkcURuNw?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 13. Datacom teams with Rimini Street in ANZ support deal - ChannelLife Australia
-
-- 公開日時: 2026-09-15 08:07:00 JST
-- 媒体: ChannelLife Australia
-- URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXZGQUJzMzk3WTZwc1FlUVROaElDY2RqM3l5eUZrR1BCVWtFRkFLNnJwRTlUX2JmWFcwajdpb1VwbEJTMHRsaWRPOFRSTzBiOTFwSXJkall6YWw5VXpJck9MRmpJNGo0elFiSW1EdDIzNTdNRWVWWlNhb0RVQ3MxRjl1blhtOFhZVGVacTV3?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 14. Rimini Street and Datacom Announce Strategic Partnership to Accelerate AI Adoption and Drive IT Optimisation Across ANZ - Business Wire
-
-- 公開日時: 2026-09-15 05:00:00 JST
-- 媒体: Business Wire
-- URL: https://news.google.com/rss/articles/CBMihwJBVV95cUxQN1lKRWJKT3BhWDdiQ3dfVTZuVXoxNnJUXzRfTTFyVG9xVm9hTVhzR2FPaFJFaWJ1eWtFTV9zMHkyRlZEaTlrNktVbFJ3WjhhMmJxZFRWelJPNlFDenFyMU9OLWRTUmVJYUtMODdMblFoZlljTFR3Z3psenVtM1JJSkdlQkNrNTAxMVphM0V5ZHlOMEVJR3dRX1FUakhSS29nbm9oN3JqYlowYzZ0OExubzlVTS13SDhXYkt6emk1cjFhMURxS2VsNF9yaU1VT0hXQU1OQS1PeGNJT0l0Z3NHcUN5VmhOLUFWWWlGSkQ1Q2JicHJkNlNWOWNmLUE0ekJ2R2E5eFliMA?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 15. SAP stock rises as investors weigh strong cloud growth and a fresh analyst target increase - Quiver Quantitative
-
-- 公開日時: 2026-09-15 01:21:00 JST
-- 媒体: Quiver Quantitative
-- URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaldtcVZnRlFGTWN5Nk93SHpmaW41NU9BVWNSQWlHeG93SnEwWU43UDFiamVPdFBWeFFXTDVlcnNMM1lMeENIakdXQWNNN3F0N1dhYkZMUWxZRkRVSTNLeWpRd3lZUEU0MjE3T1REX2NkeW5HQ09VbGFqMmxPbU5HWjNPcWFaZTNJbUM5T1NYRTd0UUlfUzYyUmE3anRtMkZDVTRES3Y5Y3h6Y3FVWDBSSG9PRXViRmRLX2VHSXNhTmo?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 16. 9月14日のSAP SE (SAP) 値動きは4.79%上昇：主な推進要因が明らかにされました - TradingKey
-
-- 公開日時: 2026-09-15 01:16:47 JST
-- 媒体: TradingKey
-- URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXMwYVR5NTJfY0VaWFRIaTVtTWhPV0Jsem50eW5VRTBoaUpPZjZLOXN4Qm4xNTZybHM1TWMwWmhkd2loRE4tTHNPYVpvN3ZXU2E2SVFTdU9rUFZfbTFFNHZmU0JxUm1PYlN5OUxSUXFZUXZuMmlIWDhiMjB1U3NTTHpEVXlCa2RBQi1JMlpB?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 17. SAP SE Stock (SAP) Moved Up by 4.79% on Sep 14: What Investors Need To Know - TradingKey
-
-- 公開日時: 2026-09-15 01:15:46 JST
-- 媒体: TradingKey
-- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxPcWNhdUpFelE2VEx2aWFULXZlcktMb3NBNlZweE0tZzJ2M2EwaGNrN0I5dGVqM2NycXlSb2dRUzM3QmZaVFg4ejVjNnhHQlhNS1VBYzZnWm9DYngtX3ZxT05vSWJGSHVtUnJFbnl1d1Z3bElFVUtnTHJxQ1FvaU0wcTFRVEY3NnNPZUE?oc=5
+- 公開日時: 2026-09-16 01:30:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/09/tabpfn-35-plus-now-available-sap-ai-core-instant-business-predictions/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
