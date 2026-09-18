@@ -1,87 +1,122 @@
-# SAPニュースまとめ（2026-09-16分 / JST基準）
+# SAPニュースまとめ（2026-09-17分 / JST基準）
 
-- 抽出件数: 12件
+- 抽出件数: 17件
 
-## 1. SAP ABAP Backend Developer Certification: Your Readiness Check Halaman 1 - Kompasiana.com
+## 1. I’ve got the manifest, you’re clear to dock - SAP News Center
 
-- 公開日時: 2026-09-16 21:57:15 JST
-- 媒体: Kompasiana.com
-- URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmphQVRUcDVqN3pLamU4VkFYQjdWekdfVzZ5cU1UQWtjaEhJWkE4SnVCcnExZ1RtbWNXeEhyQ2FaeDh5Y2FOS1A2aXMwVmNWWE05aF9HTVJWVUJjWVlDb0VQbnVhY0VJM1VHdmRzcnRhLW15TFZqX0JNdmp5SWM5NkFGWHhDNURPR1ZtRV9CNEVJaDlZNy1zdVotOXR3SVozYnpUZ1RucF9COUFlbVVpU0pXMzEzTlpOdm9pN1Vfa290R1NhSGZKZg?oc=5
+- 公開日時: 2026-09-17 23:19:08 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUk8zMmxyamdSZFpXYzFacDRYb3ByVk04cm5NVXpMRExXVFFzY3RnZm1BZkFOejUtTGZsdFBiZHpjeEtJZk00eUYtV3dKS1dMUHBwM1NPenlsdUFUT19NX18zOERZcWxvWHhxYWEyaU94UE43dENKMklyT0dNck5HYWtWUW5ZWFRxUzA2SWdWeE9MVUFBQkQzSHlJWU9uLW1mYXNZN25DUmZQT2ZlVXRhN3Y5ZjZjZ19mSXNMbkFuSGVfc1RtaWZQb3pqd2dpcjdXUDNXcg?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 2. From Disconnected to Autonomous: Daikin’s People-Centric ERP Transformation
+## 2. Computer Neural Network Concept Image - SAP News Center
 
-- 公開日時: 2026-09-16 21:15:00 JST
+- 公開日時: 2026-09-17 23:19:07 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxQRlllaVpScWtReTJpcmJxSWhEWmN3Y3VwY25ZcUEzbWhjWFZlM1lyM2NzeU9ZZ1BhTFNvRjNjcXRPV3JYZFdKakVkZV94MkVwRG9sVVFOTUJEalQzS2dNelRzRG9qX0s3cnJabmJiSW5aMUdhWGhFODJMdElEbHQtWV9YazRWSEF3akdjT2phM1diUExTRTl5UTNzeWs3bmZXejdyd0FyZ3psQ3VySm1OeTBudmp6d19QMXlDdHdzVzhFem1lajNn?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 3. 02_HRKN02_026 - SAP News Center
+
+- 公開日時: 2026-09-17 23:19:07 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE5ESzN2MVBtWktma2FBR1RacS10a25pNnhSd3VBelV4M3lGS0pfVzBSalNSZ3pHTnR2SVZfd1ZkQzB0WndrV0pJNm45Mml1d1VUcTcwWmV1Y1lscVZKb3VpTkNWV21UcDAxZ0NBeFhHeGVVR1E?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 4. Group of business people applauding a presentation. - SAP News Center
+
+- 公開日時: 2026-09-17 23:19:03 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxORktlTXlpOGZTRU14MTVjOFQyWW9JeXZ5WnA3M3JfdlVRdjRnWlBnbUNIZE9sYjlmdmwxcVVqSWZNTmNxVHEyTUVKb216YXVXblFqTUtuWFo0YVVrTGEtb3pmQVF1M0tnTlNfZjhfaFM2N1V3ek1pNWZwcjM5RTVvOXdxRkdaMXpGV2JIR2dxSHBscDd4dktqVzlubmpxbE51WVJFeWc2dGxmRVdnNFpBSDIxSUZWbmY5eW9aSVpJV1FhRTFkV1RPTjlQZGk?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 5. SAP's Recovery Faces a Double Test: Chart Resistance and an AI Rollout Running Behind Schedule - ad-hoc-news.de
+
+- 公開日時: 2026-09-17 22:31:18 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaF9mT2VTU0V3R1lRU2RJNEJ6SWRqa3dnbFlBMEJqdmVlRk8wbVZPaWVCSnBEQTA3V3BROHhHQ1R6Z2M4T0xYZUpJdDVMRTN2TGY2bDdpVl8wTDE1RDFHMUNrOExFei04QVVsRnJXRk93TURXcnREV2hZVmNJUXo1aWI5aUdlclZKOWFGaDQ5Z09QMGFEbktMaDNQWlp3U3JiaHBwdTdNVFZncG9yaEJyQVNlYUpBbFpZczBGWF9oNGhORS10RDg2NE90aVpPU2x0dWVtbkR4NjA?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 6. Protera Advances SAP Functional AMS Portfolio - PR Newswire
+
+- 公開日時: 2026-09-17 22:15:00 JST
+- 媒体: PR Newswire
+- URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxPTm4zLVZvd195dkdqbHRnUFRnOXFrRWdXd2RXNlBKZ1pqeUQ5SHNHc1N5VDdCNE9TVFFRVnVMNHEwVG9RNTd1MUJlQV9iMGxnMVZMVjVZbnUtN2k2WUNWeUVHZllycmhPM1BtMlotdjUyZFFaMEJ3eEtSVWYwd01uYVJpMnFyanMzX1hmNmljTHhfUVFZUnNXd3lyT0l4VEZ4YnNN?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 7. AIエージェント導入に必要なBPR - 週刊BCN＋
+
+- 公開日時: 2026-09-17 22:01:21 JST
+- 媒体: 週刊BCN＋
+- URL: https://news.google.com/rss/articles/CBMid0FVX3lxTFBtRWFMWVlCMG1xNWVNd1BIWk1KSUlaRy1ERzB1aGRnZU9jZ0YxRU9mNmZqRW9kcE1yR2s4VmYzeTJMNFBpZUNyeldoNGxhcFBycFF5bkZZbkptR0JCbnUyXzJvbVBVdVpRdUVpNHpGa3gxMjZvdlZB?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 8. The New Concept of ERP Freedom: The Autonomous Enterprise - E3-Magazin
+
+- 公開日時: 2026-09-17 21:44:40 JST
+- 媒体: E3-Magazin
+- URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxOMVp2RkFVU2VkY0c5NUdLdDZabkt0Tk9PQUNlN1BvTnVIVjRKRHVzZWhReHNtVTB2X0dLY0hSdkxicHpTQU45Q04zV2Z0N2FXVDBrUW1WaXUxa0ZzT2VVZWYwbW5paXJubExsX2NtNFlFY19SdUZNYXVrdndraC1qQjM5Z3E?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 9. SAP stock slips despite robust Q2 2026 cloud growth - ad-hoc-news.de
+
+- 公開日時: 2026-09-17 21:29:52 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXJ6Sm9lSlVDY1VsclhFeDZaOVJpR1l2QzhJcTJmTmJMTUZ1LXRYWTVCUFU2RjUyQkUtMFE1MkpMNk1wZGdZY1dmSTZXYjJUQ1MwRkpTMHl2U1VWY1BnelcwSmZZZ2ROOGpBT0JHb2cxUU1TSUFnMkY0M1pQMWVCY0ZHR1puTXJnNlFKTjJzZjI0Ungzd1lWTkNuNmp2TFhWNGEtLWtES0xUbXFMVUx3Q2tzU3U?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 10. New sovanta AppHaus Newtown Square: Rolling Up Our Sleeves for Customers
+
+- 公開日時: 2026-09-17 21:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/daikin-people-centric-erp-transformation-disconnected-to-autonomous/
+- URL: https://news.sap.com/2026/09/sovanta-apphaus-newtown-square/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 3. New SAP Ariba Spend Analysis and Insights Solution Now Available
+## 11. Wipro launches STO360 with Aramco & SAP for outages - IT Brief UK
 
-- 公開日時: 2026-09-16 20:15:00 JST
+- 公開日時: 2026-09-17 20:37:00 JST
+- 媒体: IT Brief UK
+- URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkQ1dmZZY0Vpc2cwck13NzVIRGpJWDU0X21qZ3NYR2cxbTQyczBkSm9KVG55QWljdndIY0YzbkFGajRNVHZJNUVsb0NnWmU4MFJvX0N3cGNscTdRQnhMWjZCMnMwcEpQX1UxTm1rNExaMXduLVZQcVpOelZDTFZpYldfSQ?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 12. SAP's AI Agents Aim to Cut Migration Costs by 35% as Cloud Backlog Swells - ad-hoc-news.de
+
+- 公開日時: 2026-09-17 20:21:19 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2JyY2FHUzMwUGdid014QUN6NGlJVWJBTHBQa2Q1QmIyT0JIQ2pHR19EeHBqeF9Ua2lqejNxbFU5OUIwNmY4VFNEUU5aN3NVcTRTZ2ZreVRkRVBFN29BUFJKSnNoYk40QlI2cTVwMGNFb3l6UnVvV3lZZ1psYXEtbk9kbzZLcUtuRm12NXhza2RjY0p1dklBelhnT2FGdzVOamxjVlYyMmh1TUJKTHdsbWdQLTJUZTFQdUlTeWV4VE1fUkUyZHhTdEMwUEt4RDQtMG9zUEdyTkIxY0tsbWc?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 13. Five Years of Procurement Change: From Digital Ambition to Measurable Value
+
+- 公開日時: 2026-09-17 20:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/sap-ariba-spend-analysis-and-insights-now-available/
+- URL: https://news.sap.com/2026/09/five-years-procurement-change-ambition-to-value/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 4. SAP、Gartner® Magic Quadrant™ の Supply Chain Management Suites（サプライチェーン管理スイート）分野でリーダーに認定 - news.sap.com
+## 14. Silver Lake and CPP take Qualtrics private for $12.5B - Dealroom
 
-- 公開日時: 2026-09-16 17:19:06 JST
-- 媒体: news.sap.com
-- URL: https://news.google.com/rss/articles/CBMingFBVV95cUxNMjFIRUZQM3dTeWRiUk0zdWNfY19EX2NkMkdVODc0VTVySk12ajMzMExZUU1XcWV6UzdRR3pKRHRxcktVajJsZW54c0s3UVdyeHpjaHlab2c3bk5zQ2xwWGNkWU10cjY3ZUl0UFZISGNQYUhiTFJBaUlaQ1lfOFJqejJockNsU0R0S1ZQTF9pUXlpTHVXMzFpbGM4Y081UQ?oc=5
+- 公開日時: 2026-09-17 19:44:18 JST
+- 媒体: Dealroom
+- URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzJmUXU0NWI5MFJkenhXWWZqSTh6YTd6NWFqdktLUU9UMW44TjlyMWRkbHpKX3J1a1NqUTktQW51UGJSdmtfWkhyZWg2MzFfak9XdzlWVnUzcloxWkJPYi00WEozSjR3U0drN2tHVkpoUFVzU184MmRsZks3aXg1MkJKQnV6NGVqOW4tU3BrYw?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 5. European cloud watchdog slams Broadcom over VMware licensing practices, issues warnings about SAP - cio.com
+## 15. Wipro Partners With Aramco and SAP To Launch STO360 Shutdown Management Solution - Sahi
 
-- 公開日時: 2026-09-16 11:06:25 JST
-- 媒体: cio.com
-- URL: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR1hDRGZXV0xvU1lfMGIyakJqaVJWcV9YMldXQ295c2o0Rl9WcG5VY1ZVMENwRWx2OXVwUHh2d3QzOGRtYkw2YjBfcEswMVNlZ24tOEx0WGdnUUc5a1pqazNfWmFlSGRfcHI1bnpqQVJtM0JaMWxXdXBtSWtOQm1uQkRGaEcyREFoQ2ZPTklYbnJZTlBnaGpkQkpWSV9qS01sbGNJVk1HcHFGRDZkR0t3cG1DaWd3TXloQUlxTkQ5UWZfZ0F1OW5MaG9LS2FnWi1OdFNj?oc=5
+- 公開日時: 2026-09-17 19:32:24 JST
+- 媒体: Sahi
+- URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXBuSzg1Q1FzbEowbXFHT3g0TXRLNVdMckYzQXQ2bmhYOGYzWmJqRDZuaUFCVC1QU3RRQzI3YXRTVDhsOHRmWDRxVXNXNXFvZVhOUWtNVURaQks1UDBHeVgyWWhHTUszcl81TGJjcGhRWklNc1V1QXhKRFBCWTBYNmplWE9xZWVwZkYxX2lFRzB1aGRfQlRtbnMweVlKeUtuYlYxaEkycVhoUQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 6. データとAIで経営スピードのギアチェンジ：中堅ものづくり企業が今選ぶべきデジタルプラットフォームとは？ - ニコニコニュース
+## 16. リコーが挑む超高難度SAPプロジェクト 3領域でFit to Standardを貫いたPgMO運営 - EnterpriseZine
 
-- 公開日時: 2026-09-16 10:45:25 JST
-- 媒体: ニコニコニュース
-- URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kSGhiZTBJMWdnTjVDS1oyeWVFeS0wR2RQc2pEZERUSDFiYWJmVVhyWGFXLVNfdDBHdWlEanpWcGhTajRTT2VZVS10bi1iTWJSYkpMZm9OTUhNN0JzbmxuNnZGTmFUa0x3?oc=5
+- 公開日時: 2026-09-17 17:55:19 JST
+- 媒体: EnterpriseZine
+- URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFAta2xMS2ZoY0F0NGtqZ1o5bm9wS1JQbS1idjFxcFROel9OM3hLS0VibnlJV0paTUZlb1VvNGhUcUM4UGIzVlZNY0lyaWFoWWpYZm1abXlLUUlYZw?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 7. 人事 AI 活用の理想と現実 ー AI 時代に人事が担うべき役割と AI 活用の実践知 - - news.sap.com
+## 17. 最新のIDCビジネスバリューホワイトペーパー：SAP® Integration Suite導入企業が368%のROIと8カ月での投資回収を実現 - SAP News Center
 
-- 公開日時: 2026-09-16 09:49:15 JST
-- 媒体: news.sap.com
-- URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tQUNzSkRab2FWTGtXSF9SOTBhWTJTMW40NHZERU1NUmM0a3ZPOS04enBUR1BOZ1lkdmlPeU43ODlaSkpWS0dkMTd2dXhvMW41em1NU29oOVFKZzd6TEw1Sg?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 8. SAP adds TabPFN-3.5 Plus to AI Core for business data - IT Brief Australia
-
-- 公開日時: 2026-09-16 09:01:00 JST
-- 媒体: IT Brief Australia
-- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxQWG42cU03SVFQLXlsM2xIMDF6VzdfcDdrZlVIb2I1dmYxRGhQREVvUTNWQ1lHTEFlUzdEYW0wRWJLM2lTem1BcWowSlZYdFp6b01STjNxalFKSFN6V0hZVm5HRE53QUxPaXYxOHBUZmVWQk1DdF9RY1RLTW01RHdwU29YTVJGWW5oM1E?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 9. SAP S/4HANA移行の「落とし穴」2026 - 日経クロステック
-
-- 公開日時: 2026-09-16 07:09:46 JST
-- 媒体: 日経クロステック
-- URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN2s3SDF0aG8xRlZsaWs4MndzOW83U0tBOEVzRGR1WTRfQ014eENFWVdDQ1FiZVRIeEJwM2x0UnpLV202ZTNZcjRwaFhMU0xmQUxWd2FJU2l4YS1FS21z?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 10. Warning: Critical Memory Corruption Vulnerability In SAP Extended Passport Processing (EPP) Fixed in SAP Patch Day, Patch Immediately! - CCB Belgium
-
-- 公開日時: 2026-09-16 04:56:30 JST
-- 媒体: CCB Belgium
-- URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRE9UM2F1MmFlUFhUQ1dWV0xrdS1kM2kzV2sybFk4dkRHSnRuRU82clVvcVNkREdqYXJDRXNIRHY1QVlzVFdPSlpkTHpOWV85c3ptS21oR3BZUjdQa2dtY1YyaUJ3amN6c01vejVqVnp6TkJQODZNZ3FyYzVLd1VJNExuZURXRFNGbGNnb0twX2hiaURpMUR6X2ZOUW5XWUllNk1Gb0xnaUFJTWFMM3hLcXRTZldTMzF0U1NN?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 11. SAP Stock And Its AI Retail Push After New Partner Deals - simplywall.st
-
-- 公開日時: 2026-09-16 01:49:06 JST
-- 媒体: simplywall.st
-- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxObG1xSkVYTDd5aGlEY01UNktPMV9TclZIV04wRnR3NDBzYmtWVFVOOG15dkdiQ1ZsVTZDanFWYnI2R0lfQk9tSHJlcFNNNHpxMWoxTlE5ZWRpQUZPX1JvSDhVSzZTOWQ3YURxQ3R3YmpwRElhM1VFMkRsR2Y2T0I5cEhkaHVCb0tyZkRhcS1RN3REWDZrT1VhQW41LURDQm0xWGhEVXhETHdNSVdnZkhPYVVqeVBkTEJTWjV5TFh30gHDAUFVX3lxTFA0TENJRUtFcEViNzBJU3A0ckJVZXR3Z1dRRkhoTHlrdlRoX2FaSzZyVEdmTlVLWDF4eDRjelZIdEJsX2djc3I1TXJkY0tQdGttTHpRamg4NnMtR1FEQUpRclhLZl9MNFcxSksxQVU5cGJvVmhZbHpzS3lTMU14dUpmc21icENKOHpJNXdBRlZKOEdxaFlTdFpzMXllTEZlOFh4aV81ZXZYZ3QxYldsZUdtSEs1T2dRS0VnNnJnUW1QdnIydw?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 12. TabPFN-3.5 Plus Now Available in SAP AI Core for Instant Business Predictions
-
-- 公開日時: 2026-09-16 01:30:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/tabpfn-35-plus-now-available-sap-ai-core-instant-business-predictions/
+- 公開日時: 2026-09-17 01:18:53 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxORUczTC1YVW9GUDlnVi1nTGt3QXNLakNfSWdMQS1nc0RvWnJxNTMzZGVUaTdNTll1SGFISzNXS09KRG9HRzg5aWpKX3R0X0xKeFhwRklkQWRETnBMN0pWY3hhR09ra0hjRlA4amstY0txTkxNTmREa1J1WG9aRnpkNzc1UEtHR3BjeU93N1ROOFR3YVJf?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
