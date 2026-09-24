@@ -1,94 +1,80 @@
-# SAPニュースまとめ（2026-09-22分 / JST基準）
+# SAPニュースまとめ（2026-09-23分 / JST基準）
 
-- 抽出件数: 13件
+- 抽出件数: 11件
 
-## 1. Mint Explainer: What the Nayara vs SAP ruling means for Indian contracts caught in foreign sanctions - TradingView
+## 1. SAP Recognized as a Leader in the Inaugural Gartner® Magic Quadrant™ for Workforce Management Technology
 
-- 公開日時: 2026-09-22 22:09:04 JST
-- 媒体: TradingView
-- URL: https://news.google.com/rss/articles/CBMi7AFBVV95cUxORHMwOU5mOFg1Q2s5ajItcFBBNzVDeHRMcWZpdFRUWnRudE9GZ0FBZnBKTjZzSWtMU3M3TWgtRWs2bF9kMGdSdC12bkhwb0U4Z3BkeGE0eHdGaVFfb0s1aWhrbHlzYkg1MS00ajlCdGJ5RkRkNkRJVmMzc0pJdFNmNXlBWDlZSjFJM20yLXJ5UE1SN25MaHpYQmp3ZFFuY0xRZkU1WjdIaURVYnB5Vl9pd25Uc3BCd1NsR1Axa2xlUnduQWJKRTR4NExVbjQtZTg2cmxYaGUzekxBUjNpSmlMTXZiZ2RiWVBoZDR6Rg?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 2. Natuvion IT Transformation Study: data quality is a key success factor for enterprise AI - PR Newswire
-
-- 公開日時: 2026-09-22 22:00:00 JST
-- 媒体: PR Newswire
-- URL: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlRLbGtXR1EzVFUzX2V2cHlQM05YbEtWeHJyWlV2WkZYa1YwN3dxUUxBUkI4S0k4R2N1bmdiVjN2Yy1fekNLcnNDX01QN1JkcXppdTVMT1F6M3M1RUllLV9BNWUySDQ0dlNUeDVCWk5MMUlyazJ5WTdDUkt4TzBNajlvdEpGd21nZXlvZ1Z1NXNaSEZfNi1sXzJrQk5tUUtuWUxRRXBvWlBKQWF3NWduTDZHM0I3X1d2dFMwRFNsdWEyQTA3ZllWLVpCUk5FUmlZTFRtTmg4d1JKcjJ6OTdrN0RR?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 3. SAPinsider Copenhagen 2026 to Host SAP Agent Lab, Giving Attendees Hands-On Access to Joule Studio - PR Newswire
-
-- 公開日時: 2026-09-22 21:32:00 JST
-- 媒体: PR Newswire
-- URL: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ0lPQndMUjdlcGs2MUZMOG03Q2V1Q2ROYU1yUEZqbFk1cU1sUHFnSkVGMFBwVGIyOWdlYVZORm9sUVBsRHJvcHFKNGY5eVFRcWdEcTNOWFoxR3Q2ZHlUR0p4d0Q5RmtDV3RMNjZKSmlkLVNMck56ckFPNC01bzEzdXkzQkdVQ01BSU9LbWdUWkFMenhidHBWZlVLb2pwQllLc3hmbm5fQ1N6QXlQUFhRUWxYdFBrR0NzaFhrTkR6MVRGNVpQRlV1WkFSU016WkVtbF9jWmxQTEVRVVcwdTZqVDJDYldJR2ZH?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 4. The Operational Backbone of the Autonomous Enterprise
-
-- 公開日時: 2026-09-22 21:15:00 JST
+- 公開日時: 2026-09-23 21:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/autonomous-enterprise-business-transformation-management-solutions-sap-ai-agents-work-at-scale/
+- URL: https://news.sap.com/2026/09/sap-recognized-gartner-magic-quadrant-workforce-management-technology/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 5. When AI Moves From Answers to Action
+## 2. The AI Governance Gap: Why Responsible AI Drives Adoption
 
-- 公開日時: 2026-09-22 20:15:00 JST
+- 公開日時: 2026-09-23 20:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/when-ai-moves-from-answers-to-action/
+- URL: https://news.sap.com/2026/09/ai-governance-gap-responsible-ai-drives-adoption/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 6. The Future of Service Delivery in the AI-Driven Enterprise
+## 3. Can Agentic AI Bridge the Gap with Trusted Enterprise Data? - SAP News Center
 
-- 公開日時: 2026-09-22 19:15:00 JST
+- 公開日時: 2026-09-23 19:20:33 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHdxUmxCYzUwc05fTDRaUGNtOWVNckM1bUxyMTBxVVIwYW1wZGpoVjh2SXkyUzdLbGNhTlIzd094b3hucVp2VGtkS1dtd2ozX0pzXzUtLWpNRlBBazVuLTkzcld1NHNuY1NNZzViemFOLW5ab256NERqc1ZjcnphVlR6V3FtdmswNWVkdg?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 4. Can Agentic AI Bridge the Gap with Trusted Enterprise Data?
+
+- 公開日時: 2026-09-23 19:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/09/future-of-service-delivery-ai-driven-enterprise/
+- URL: https://news.sap.com/2026/09/can-agentic-ai-bridge-gap-with-trusted-enterprise-data/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 7. SAP's Cloud Backlog Offers Cushion as Analysts Trim Targets and AI Push Broadens - AD HOC NEWS
+## 5. SAP Braces for October 21 Verdict as Analysts Split on Whether the Rally Has Legs - AD HOC NEWS
 
-- 公開日時: 2026-09-22 17:20:41 JST
+- 公開日時: 2026-09-23 17:30:29 JST
 - 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQanh4Sk1PY1puR1pOcGx4d1JTNXdmMV82Wl9udEhyOFZfWU5WYVB0V19vMGlSNExNWWYxWVZIMU1tSjRaZ2pzbmwtbVVBSVNqaFpzR2VuWFRva1ZWMFV3NmtVSTJCRWFZeHBzSDVYNmkxbmZsLUEyTVNWdFhjOG0xb1RHeWNyMUpYY19WNzRsdUxVS0N5NXVTamh3ck9PWGtrLWRZekE4ZTZVTFNoQ1ZvaExGWmZPaDJWbDlxbXZxeDFqOWxiNkQtckEzWVFLb2JrR05GdHo0dXBWYVk?oc=5
+- URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa2pHaW9KN1pFYVpxOWVCYXJiWmNEX3d2ckdSY3ZGeWZ3N05BWWhTZDhZd3hJT19BSW15UmxzbFAtZVZDb2liTXBfcHdUdEpZSVIzcEc4WERyVjlmVDc3eXpIMUdkeWtiWE4tRzUyS1UzdzZVZTh5dDZuUnB2a1ZmWkVVS0NqZWo3bzhJMFNhaDAyQXJFbmxCc3ZIQmRDZDV3MVM2SUUtNmVTdm1XLTJnX19LSmllbk41ZGZYbS1WaFNpNndEaUxadWJlaGJ2alNpN1lSanB6Y3VmanNk?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 8. SAP must restore Nayara Energy services, Delhi HC says EU sanctions no bar - Business Standard
+## 6. Procol to Unveil AI Agents That Orchestrate Procurement Across SAP, Coupa, and Oracle – With Zero Migration - IT Voice Media
 
-- 公開日時: 2026-09-22 16:08:31 JST
-- 媒体: Business Standard
-- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWJJUmdEWFFzcUljXzBRNnpWTWZvSUJMcGppaDZlb2JnN1cxNFdlb3FuMmNqRHVYRHB0Q2xxQVduS0QtRU1OUHRfUTd6VXY4b2FXOTQyZ2gtU1NnZnp5VTV5dkkwYk9BWjRrWTlIU2U5ajhuVG9IbU9BVW9YblBQMDJGUzNqeXFGSGs4dVBFcjFhaXNqTGZ5SHFpeVhNblpaUG5Nc3ByNkRmOE1HV2pRVXZ6ZHcxZWNTUnNFTnVn0gHDAUFVX3lxTE5vd2J1RHkxMDd2WUZCWGdrMmUzeW5yZ0lWb3NTSFh5TEJVM3lzLW0wcHVsUkIyMDJ0cVpObUdaMDZWX0hJTV9aeHVTQTd6RGRkNnRod0JKNXdyRVMyY2t6MW10Y3VHcFdoYzVpMHZIcWI5bXM1YmFJckZlZW5yNTlWQnFmRUdaUXBGYUJMNnRZYXZoUEctRUxIeFZpaVh4N1l6UENLM2V5cEtLQ0lNem1lcS14OWdlSXA2WExrc09CRkp0cw?oc=5
+- 公開日時: 2026-09-23 17:11:06 JST
+- 媒体: IT Voice Media
+- URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkNPaEdDTGtrbERIOVhQYzNlREhBcVNsUkJKbWRRUVJkVVFEQzZ6NXVyTGpJSVhNSFZkRmM0N0cxSTZvYktJaU5yRGsyc0QtYmdvNkU3ZEtqWG5LU1diS0ZsR0hvckJaSE1RcTRhaGJCQjBhZEF3S0tLdGxvNG9kOFVmZnhncEhfTEFKeV94aGtHYW5uaDl5SG5CTXRTTXZPZHRvN18wcTdoVzNTRTNYYWd6czFDWmt3NWZyWlJLeEJMMTNW?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 9. Delhi High Court Directs SAP India To Restore Support Services To Nayara Energy Amid EU Sanctions - LiveLawBiz
+## 7. 千問弁公（Qwen Office）、SAPとSalesforceの中国初の企業向けエージェントパートナーに - finance.biggo.jp
 
-- 公開日時: 2026-09-22 13:48:58 JST
-- 媒体: LiveLawBiz
-- URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSUllLXlpdWZRTjBsMk1FTkRHaG82dFdfQ2ZRTXF2cFVGMkllbGRPei1kQXFRRC13T3pHZ3d1ci11Mm83ckM0eEh6OGdGdlczbS1fYW0yOGdYSEZYdmNZejNCRDVTZnBFZWh5S0lDcDZvdmZrdW1RLWpTYkROczRqRzJzSU94aHJ0R0FjeTlGQ2tFMkhkVlh2c0s5akg1LVFaWGFwdTBJM0pKazhXbkprQllROXFyMXJ1dVZaY0dXb1QzYVlJaERna1QzUUZudDVVRHB3YW1NdmJmdlnSAeABQVVfeXFMUDEydmtweFhjNGN1MkJmT2t1WHp0TVFfSUttdTNmMXZoSnNJUjA1Z3owckNIRzJkR05NWUxKcUpIQ0RfTHB2NDY2V09yZ3lITU1tM3Y1ZWJWVTNUVWZ0T3NGU0tTZ2VwVlhHQ2NMdXpKTjVHWmN0OGdEMzNzbUVROXNPNk80QlA3TW1qU1V5YVl3NWRCalBTcm1KUTBrekJSTVd6ZlhxZWNnNjZVSF8xWm1MUUZxeEdqYmxiWHFneE96aVNwZ2REOThOcDMwOFZtTnFfMmFCSHdPMkRLVXVYRU4?oc=5
+- 公開日時: 2026-09-23 16:25:00 JST
+- 媒体: finance.biggo.jp
+- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE1QQUpYdVpsTkw4ekJYcTl0aFdjZU1fWWI3b1BTaEFXcVprZDdqbkVhS0EycHBrQ2ZpRm5kRUZKNXlzNXAyVERSOEI1TEUyM2hTYkI5ckVCY09EWVRuSTVHdVVxYjVMWHkzOFJaNmZBc2RqUktP?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 10. SAP's M&A Tab Comes Due as AI Rollout and Industrial Alliances Take Shape - AD HOC NEWS
+## 8. Qwen Office becomes SAP and Salesforce's first enterprise-grade Agent partner in China - finance.biggo.com
 
-- 公開日時: 2026-09-22 13:41:35 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFg4YmFnQW5meURCTEdpT2plYkVxRW9OSmJyVTdKMWZXNHBSVmVHcE9aMXBmdHhhX092cHlJeXo0aDBtVEc1dFk0Q01TY25HV1puQ3J5NGVucVZlT3hmZlVLLWNYTXh2aVNnVFpjdkwtcGloXzh2Q19aY3dNTEp3RGpVeTQxcFJtNS1QSTlwQkgwRnROeERTMWRZWXZQS2V4SGhXYkgxSDNWUmoxbk1yYWt1VWlhWkRYczdtMVlCdnhzRjZZclR1QW9PZ1VEaEROZlE2NG50NUp0VHc?oc=5
+- 公開日時: 2026-09-23 16:25:00 JST
+- 媒体: finance.biggo.com
+- URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE9pbXFOTjMteW4yY1JaeFFLd3hhbkxlb3hudENsLXdaN1IxdHJ6Nk1QamlBUlpNaWdsRW9BUnlyRi13bVJwd3V6aUtYdmVtLTF6UHlLZFFNY3MwSnZnMU1vMy0tbmxJc3lkdTZrZmdMMGZETHJ3WGc?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 11. EU sanctions cannot override contracts: Delhi HC orders SAP to restore software services to Nayara Energy - Bar and Bench
+## 9. Nayara Energy gets interim court relief: Delhi HC orders SAP to restore critical software support - Business Today
 
-- 公開日時: 2026-09-22 13:11:24 JST
-- 媒体: Bar and Bench
-- URL: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbkJWMWV3QkVjN1VNaDFJZ0lGemUydDk1T2JnSjkxQllBVEZSNmhHQmg3dUNKX1pGT1JoU0U4cVZHdDIxLVRWa1pnSWtfSGlFUDYxc3E3a2tSOXJJeUczTWl3WEVhLXhleHNLQ2tzU21HS3U0aV9QSmdWOHd6djU4alFoQ19UcXVoNHZRSDRiY3JhVUZMWkp3STJ3ekpOVDVTTzNWQWdJbU5QSjZUSkY5T0U5YUFwcjJOcnlkYnJhb1htdkY1NmYyU1kzSG44S0g5ckU00gHgAUFVX3lxTE1HRVlMcEN4c1A1N20wbWZZbTZPM1A5a2QwUmlhYVZ3SVR3dFlPTDhxLTFrNTFwWTE5VU01UHBMV0tOSlN1SkdvNkY2SkVGZ3QtMGdLT0NidnI1RS13Y1RfVGJxc0F3MUxUVHh4S3RIRXNJcGlXWUJOMnB3T0pJaVhQSlpBeGxQajlYX01HbjRpTmotS3JYY1ctZklzWXJjcVd1SDNTck9uYzBKU1lCVzNOVTQ2eWFNYzVXRUhYU09CdkNldmp6V0Noclkzcy1QbUl2Wi1NcFdrQ3ZDLW9uUzJO?oc=5
+- 公開日時: 2026-09-23 14:07:01 JST
+- 媒体: Business Today
+- URL: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQN0kyUmZ6cXhZZmMtMWpTY1BJdGkyQXVtYWx2SGFtLU5JSTNaYTdBR2RMaHhPWUdrcW5rOXFlRkk3alN0NlZyOXRXbVFpamM4YXpEX0JVdzRyb29VVGVpT2JaTmI0VmdFTWdpdWZjZHo3OWpzZWJ1OC1Fc2VGQllFX3lSWWFSYkttOUhpc3dLVS1leFVzOHFnbkZhWkxOQTgtSWxIazFHTnVWaDZyQ3JwV2ZsbGRSQnluZ1JOR2hYNkNYTEotaUxFZkg1Y3g2Z0lXaWs3akxUU0JBa05rc3FvUXFNSGRIREZjc2xJ0gHwAUFVX3lxTE1GVF93QncxaTZwSE9wbnNGYUxpcjVrdjZpcFpvSVhJQTA0UG1FSzdxQWFxeE9YVFFnWTNpREZaeVFKQlFDc2QyMm9DT0g0NVdsRmZZZWxmU1BIUE5PckFHa0poQVdNT1NlMi1aamZCV2lEZXdPa2JXaHBodVo0aGlnWjRxX3N2SDVqRmdGbVVWLW1aVmJxWWVXYThPLVNpaDdDc3Y1NnhBQmRnUnJVRGhpUkZSaHg5bXhmNVU2Qmx1NVY2a0E0eS1ydXVPUlh3b1lJX2xYSzQ0M2JiSkZTOEY4dzBlT3BCVzAxc1dwbHlqNw?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 12. Software giant SAP hopes for strong Q4 - Arab News
+## 10. イランは、最近米国から鹵獲した高性能水中ドローンを解剖しようとしている。 - Vietnam.vn
 
-- 公開日時: 2026-09-22 03:13:46 JST
-- 媒体: Arab News
-- URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnBHbE5NbVZlX3NqekJLMHB1Ukc1cTFJTmlhalJwajBwQTVraXo0NENoYmFadHduRmY0WlJDc2dSSko3VmhQUEV1T3c2UlZNbzVJVGRBVmJoNmJOeGRQQnJqdDAxeVd3NTlWWmVwWFVYNmpzWU9aamdnUGJ5NllwNndBb2RISTg?oc=5
+- 公開日時: 2026-09-23 08:30:48 JST
+- 媒体: Vietnam.vn
+- URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGVHTTFNaFNXdFBqSEh4eW9tUE5fRGhmcEZWbWdldzNhQXRKY1BBaHNTUXNFdWpDRUp2Mk8xRGZYTXQ1RGI5MzQwN0pJZ2ZSVmxsUnl2ZkRiOW15REVpYXFmRXZBRUFhaEoyV3lHVThkajRuRXkwRGhTNGpMalF6SkJyNVNOUWJYbDhJ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 13. Delhi High Court directs SAP to restore software services to Nayara Energy - TradingView
+## 11. SAP S/4HANA移行の「落とし穴」2026 - 日経クロステック
 
-- 公開日時: 2026-09-22 00:28:25 JST
-- 媒体: TradingView
-- URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1ZaR3c0dllmVHZNVzAwNTlDb1BfUFdUbFR1bTBJMXpzWTBLSnM1dHlMRlJqbDZibFAzQ3dsZjVQdjQ0SThFQTNacGZfakhOZWc5NDJiU3lpOHhneHl3bUJobTZEY1ZSSmk5Rk5ULWEzbHlKTFVQbS1ONGREcDRRWmxaaVNqOGNDa1RsNnRvVUhUV1hEMF8tQUl1aG0xTVh3ODZNUjBnRGZkSlRhajZvMjQ5UmZjNC1wX0lOMWNoTFlBaDlWQlZVTUdWRQ?oc=5
+- 公開日時: 2026-09-23 01:07:18 JST
+- 媒体: 日経クロステック
+- URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN2s3SDF0aG8xRlZsaWs4MndzOW83U0tBOEVzRGR1WTRfQ014eENFWVdDQ1FiZVRIeEJwM2x0UnpLV202ZTNZcjRwaFhMU0xmQUxWd2FJU2l4YS1FS21z?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
