@@ -1,31 +1,45 @@
-# SAPニュースまとめ（2026-10-02分 / JST基準）
+# SAPニュースまとめ（2026-10-03分 / JST基準）
 
-- 抽出件数: 4件
+- 抽出件数: 6件
 
-## 1. SAP Enters Blackout Period With AI Promises Still Awaiting Their Audition - AD HOC NEWS
+## 1. SAP Keeps Foot on Buyback Pedal as Klein Pitches AI Agents to Enterprise Customers - AD HOC NEWS
 
-- 公開日時: 2026-10-02 18:51:06 JST
+- 公開日時: 2026-10-03 23:51:03 JST
 - 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU1E0M2hLQkthSkhaMnpKUU10a1Y0RWM5MHczVmt3RHQ4SnZSTmNmN21ubDR2d2U4RWQ5QW1faXhHWWJ1cTVZd3BkLVQ4MkthTmYxMkg0ZmZQdXhXTDRsREdnMDFrekZuTE50NTEyNkZrUHlydDdwZVQzUlVHN3F0V0FWd2p6MXJrUjczWmhRdHYyR0lUOXRiT3Y1WXpOQWo2Vm16X0tPWEd2eVk3OFQyVmJBdjdtNjlWOEhBMjVrM1lfZDRsZFBxOWNEbDMtZXJWOURqVlR4Umpiazl2VkE?oc=5
+- URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc1JCSFFqTFZVMHEzNjJNbjJYdG1OZ0Q5S3NENTk0MnFueWZpN2xHbm5uQWd2QTYtVF81UlQxNEg2UXh2X0toWVl4X25tanZTczk0LVEtZVd5XzR2NTJtT3Z6QlJ5eXlJRTdlZ0hfc21pWXJac1BNa19hS2ZiLTdKeFo1MW5BOGMycnQ5SGdKSmtoY0FhX25WbW5hNzNqT1RBck1tWGNtdGlkT0tWcVRlNV9qX3hIQ3ZyUEdfQm1DNVluMEZTeE5wZDUyamI2VXZBSkRNNUV0c21zMG4y?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 2. SAP NS2 Awarded $903M DLA Cloud Services IDIQ - GovCon Wire
+## 2. SAP Stays the Course on Buybacks While Building Out Its AI Stack - AD HOC NEWS
 
-- 公開日時: 2026-10-02 18:46:53 JST
-- 媒体: GovCon Wire
-- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWVGdl83WWZUbEREUjJUNTlQSlNGcm1PSm9YMldpV0FQTGRwSFB1QjRyMC1TajctT2VlMHpwWGp5TFpDaURyUm9qb0wzOElLS3Y0bXhMLXlyLU9tekU2LXpSNXdpZzBJVXNVTUFOSkZhNzFSWERYVDFhcGZYV3dYZFU2YTEycTV6eFFYZ2Q5bGQ?oc=5
+- 公開日時: 2026-10-03 22:11:03 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUVA1SEV1bWp2ZVI3MHhxUkxnODhYaEZheXE1OWVsMExubXc1SXdvRjRmN2tKWEFXSWtqSnU2U2ZQb2VCbzZDM3BHZi1pMzFJclp3Q3dUR0I2bTNzWjhNcHJFMkx2c25lMlJOUnlCdlhpcjRjeS11U3c5WVZTMEZ2Zkh2WS0zci1aWm80TFhSbW9FcmwxSVA1Q3ZQeXQ5WTJHUkNvRDZXaU02a2l1Wll1UXdtUDJnaHpHY2hwam5ZbmtkZWlWZG1LM3RBaVk4U2paNVE?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 3. 楽楽精算 導入事例 SAP自動連携で経費精算を完全クラウド化し、経理チェック工数を月100時間削減 - BOXIL（ボクシル）
+## 3. SAP's Buyback Machine Keeps Humming as AI Ambitions Take Center Stage - AD HOC NEWS
 
-- 公開日時: 2026-10-02 12:47:30 JST
-- 媒体: BOXIL（ボクシル）
-- URL: https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2MGlVZHRPcXpxb24zLVJRaUtQTXZkbHRxOWJya3JKSm84X2xleVVfV255Mk9UUUxtSVdjYzg4NHpxdw?oc=5
+- 公開日時: 2026-10-03 20:10:59 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUEd4VW5ndXMxWl9wbFFMVklJaVpWWGt1ZDV5M0YxdVB5aGtscnFkWWp3YzN6cnZKUU9EemhmWGJXdFFjb2FwcUlKY054X21nRjJ0ZnE5T3Brd1hBSl9VajlmNWp3V2ZaUGx4Mm9NWkFLN19BVnJmZnRRWXd1bE1rQzFVdDlxQ0ZHQm1wYlhSdVFRTS1HSkFWZHFqOHlTel9GVTFXS2p0OFI4LUgyR2FWRlJNdGFLazZidnpZbi12T18xQzhucm9vZXBWQzh5ZFNuQkZIN2xLWWo?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 4. Synthesized now available on SAP Store - globenewswire.com
+## 4. SAP unveils AI innovations as SAP stock costs EUR 184.69 versus EUR 184.65 - AD HOC NEWS
 
-- 公開日時: 2026-10-02 02:47:00 JST
-- 媒体: globenewswire.com
-- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzZFNmJ1QmZmek5pNm5telNWbklZS1oxTi1GYktWMl84UlNkRHlpcEhTRU1ra3Bmd2FTWVNOMW93elU5Z0FTMXdfUkdrbkREb0MtbUVzcGFfeWd2M2xjSURDZWthNlZZT25sbEluZXFsc0xKajF0MUxmamZwTWRHTG5RdHdZbUNwUGpVQWFiRVlmcFhNZjhSMGpkeE5tRmxZbjFWeXJyQ1BpMlFrUlBN?oc=5
+- 公開日時: 2026-10-03 19:26:16 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTWJ0QW8xYTVONzdjQlJ4cncwbnNMc3VPci1WSFF3bGVqbWwyb3VSVTJsSVdQanJkX3ZHalRFTjlZNjlaRFpaa3V4cjExeFlVdHJJYUxLVmVaVVRNbm1Nb2tZYWdZZFlSNFNTaTBrSkk1UFZ2WmN0dGE5WmVHV01JX0tsWDRQSmJnbC1hQVdqTlhfR3U3RlFwYjRnQlgzV3lCMlhmX3IwYURUcDR3SURVVzhzUmg1cXBYeXJ2NUJQYlpLTkhBc1g0UlpjOHZHYmRoMi1R?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 5. SAP Keeps Buying Back Stock While Betting Its Next Chapter on AI Agents - AD HOC NEWS
+
+- 公開日時: 2026-10-03 18:32:52 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeGNQbnllUk13ZmpnSEVMWjVhcHItN2NHM29YamVSWGZYNWpNcF9MaGhVV2hXQUtHc0hSRkFZTGNWdUZpam9CYi0tSDA4YS1NV2V0MEFFV05pNUZNLWx5dXpYOUxWR0YwX252MmxLWGFON0FxSEw4SWtqRk41el96V0s4dU56OG5fcEg2bTE3SEYyMjNuRFBkcXpDYnZPNllKZWt3SUFsWlBRamZCUlhLNF84R25vbDRDdlVPclFZSkxyaEtwODh1b19KR2QzQzNxdVViVzExamtvOVU?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 6. SAP Lands $903 Million Pentagon Cloud Deal as New Eastern Europe Chief Takes the Helm - AD HOC NEWS
+
+- 公開日時: 2026-10-03 03:41:22 JST
+- 媒体: AD HOC NEWS
+- URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZllTV3pLa3VsR2c0emRIRUxzbVd2X3Q5YnhvRm9wSjBDV0lkWDZOcjkyNmRPX19jeWl4NkFUMnhvZkl1bk93RkNEZXZwM2NHRjR4MGRXSUtFdzhndUM1aVpTYUJoVUt3YmYxU2dIYnphU2E5Y2dPRklCNS1pZGN3ZDJ1bGZhdk9kTlFnbHdELUlEcHI5ZGlEZ2Q3VUstRy1FSWt0alJKOVFENXR3ZW5RQnZjUk92UkRHM3hSYjVNTGo2SzdBM25VUk1QUHhIRTRFMkxrYmFQQkQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
