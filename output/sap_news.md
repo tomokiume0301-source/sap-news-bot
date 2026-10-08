@@ -1,157 +1,234 @@
-# SAPニュースまとめ（2026-10-06分 / JST基準）
+# SAPニュースまとめ（2026-10-07分 / JST基準）
 
-- 抽出件数: 22件
+- 抽出件数: 33件
 
-## 1. SAP acquires Ghent-based AI company TechWolf - Belga Share
+## 1. SAP’s AI Moment Needs Real Proof Points - Finimize
 
-- 公開日時: 2026-10-06 23:46:20 JST
-- 媒体: Belga Share
-- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ25falZ2SGFWRXdIRVdjVEJKVmkxTU5SWGVxWDZTN1dzMmZRUlg2a0JBZzNYVVU3dlNaVDR0eXhjYlFWNE9Tb0IyVDJOdklJend2N1NZTGZfN2EtQ3IzdGdWNHhiTXV2OHRXMUdZdEJ3SEF6RWlOX3IxTG1xZzJCbnVBeDRLMXRQeW5haVBiQWRaUGhFRnN2cG9mTEpqaTVWVFFKTW9KWm40UlA4dDRZ?oc=5
+- 公開日時: 2026-10-07 22:36:30 JST
+- 媒体: Finimize
+- URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBXTXRua0VYLVBDTHJ4ek0yZWRMSlVHaXBUVXRUYVM2TW0xV05hTHo5OW9POHR3dmZEZXlwN0lOT0JpQkRRVzIwUlRVMzN1ek9sanNDWE5LZUVnSVl4bEl2cmw0bVkwZWxXSWxCZEdvT3ZablZwTHc?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 2. SAP Connect: CEO Christian Klein Hails ‘Breakthrough Moment for Business AI’ - EME Outlook Magazine
+## 2. SAP Showcases the Autonomous Enterprise in Action
 
-- 公開日時: 2026-10-06 23:38:32 JST
-- 媒体: EME Outlook Magazine
-- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHVpLTAxaTZRVlJIY3JBZkZQc3N6YmJxQnpQTkxsNGlLa25RRDBLeU1kVjlCTWVCRm1ic3BfUWhoWjFLWDRfUjYtRFVvZ2xUVlVObmRWZFF6cFJUMGdGZDhaYk5iUzZ0bHBXemN3cTJzYnF3Ml9PUVplZWtia1pVQjVvaE8wSmhvR2Z0ODF3ZlhEeFJiM3REbkpBXzJNZUZyXzRweTNRWkRpaHFYT2ZWNFZPek9aeVVqdUpuSW5n?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 3. SAP to acquire workforce data firm TechWolf - The Mighty 790 KFGO
-
-- 公開日時: 2026-10-06 23:24:35 JST
-- 媒体: The Mighty 790 KFGO
-- URL: https://news.google.com/rss/articles/CBMifEFVX3lxTE1OUUtnVjZqcl9INWRMc0VsOFg5YXZQamh2TXpSbHJ1WThEMEIzWm9FbF9nRUZsQ09KTTI3Wms4Z0NsWnNWMGFuM1ZjM0d4QlNzOUs2VHUyeWZOVDV2MWtCUXhJNnRlNzlkQVFHblN2Wjk1LUxwTDc0djNVZUo?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 4. SAP buys TechWolf in record Belgian VC-backed deal - Tech.eu
-
-- 公開日時: 2026-10-06 22:39:06 JST
-- 媒体: Tech.eu
-- URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzFSSEE3NTNhNU5MV1diSFhqb1VpZ25FaV9XVnpzc0NJMUxEXzVkNnZPWFcwMGxxSkdSblE5bVMtaWc3eldPeU95eXMtWHpwTmZRM2tPWHgwdmxHZHZRMlp5bjFlSlBjSVVVTUFtZVZmb0VhU2duc3A3X1JqaC1mLTROcnk?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 5. SAP agrees to acquire Belgian AI workforce startup TechWolf - The Next Web
-
-- 公開日時: 2026-10-06 22:15:36 JST
-- 媒体: The Next Web
-- URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE55MHgxWDc0azRxalYyazFNMVBlRWIzUnBjd2lLaTN6Ylk5a3NYVUNQUGl2TnEtVi1yOFgxWXV4LXJtUGVKVFV1WFNuNmNjU3YtQ2JVbDFkOFl2TXM5aHQzZmxUWm5yYUt4ZUJINnVIVQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 6. SAP buys TechWolf to build AI-driven view of skills and work - Dealroom
-
-- 公開日時: 2026-10-06 21:32:20 JST
-- 媒体: Dealroom
-- URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxPc0wxSVJidHBGd2ZDYTNuRnQxOFp4a2l3bEFZX2dEZHNhaGZRTkFVTVZWaEJPVTJmR1BxcUtfRzhOdVZRZmRKRkNBekt0aWNxQzIwWHJpd2pHYm9ZdGpGQXpueDQ1azRheXVFdWdBQ2x3akgxQVpiWWlQSEhycm1kUWdwVjZ1amJrUTFvTWh6elF6V2NUeWNGWEJn?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 7. SAP、AIワークインテリジェンスプロバイダーTechWolf取得の合意に署名 - Unite.AI
-
-- 公開日時: 2026-10-06 21:10:55 JST
-- 媒体: Unite.AI
-- URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjB5dTY1cGI5NHlwbC1LV1k3QmJESVVyb0dhT2c5YTlpQjJoQXVxWUJOMGZSRTloZC1Wam9KaE5Jd2EyUnF1UTRDcTNUUGJGVkpfT0RwajRINGxhSk5EOGRRbTNfekRrTTNORU92dVJ4SnZtTThqOHlpVGJaQUJyRFhYNkpGYW5WNDNreGM0WkxsQ1dhNzU2R3FR?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 8. SAP to Acquire TechWolf, Giving Enterprises Evidence-Based View of Work in the Age of AI
-
-- 公開日時: 2026-10-06 20:45:00 JST
+- 公開日時: 2026-10-07 22:00:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/
+- URL: https://news.sap.com/2026/10/sap-connect-keynote-autonomous-enterprise-in-action/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 9. An AI tool maps workers’ tasks and skills. SAP has agreed to acquire its maker. - Stock Titan
+## 3. SAP、ベルギーHRテックのTechWolf買収で合意 人材スキル可視化をSuccessFactorsの中核に - BigGo ファイナンス
 
-- 公開日時: 2026-10-06 20:45:00 JST
-- 媒体: Stock Titan
-- URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1pIMGNEek5pVE9fbXFfb3NoMndwdl84ZlM3WWJVN3dTblZ3bENRallGQjVEbHV6cXVzbTUzeGJzd19fekJZZmNsRjNPVDE3X3JFNlpvVXdwazQyVktZcU9xR1ZIZWVTclRGWDZ4WWJSU21RQmVMNHNNbHZaaFlEbWVVNDVteDB4NEdUZXhxaVh2bGZSbmxUVUs0M3dPODhQOHU0VUtpRlc4RTFMS2FUckxfWC1aaW9lem5nLQ?oc=5
+- 公開日時: 2026-10-07 21:55:00 JST
+- 媒体: BigGo ファイナンス
+- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE42SXhwS1Jza3dEMGVvdjRWMHl4RkRSZlVPcVJ1TTRCdkNwTG9kMGRvSzN0dTNxeGlzR2FfNk1kT3prWmxwS2J1cDRyVjQ0TVF1b1daSWhJU3ljc0FidDdDNjVrbGhZVVhDZXNuVWF1UkR5U0xf?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 10. SAP-backed Tereina launches payment service inside SAP's business software - Reuters
+## 4. SAP Agrees to Acquire Belgian HR Tech Firm TechWolf, Making Skills Visibility a Core Feature of SuccessFactors - BigGo Finance
 
-- 公開日時: 2026-10-06 20:35:44 JST
-- 媒体: Reuters
-- URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWUwWTNGTE1uNG5ybUd5dVNEUTRad3h4NFhRTnpQSmNZQVltcTB3N292NEZRR1A5cTZ2b01JZXI1WjdHQ0VNQklzQktZaHZYQy1CMUhKNnAzYzJZUVhob0xhRElDbk8wWHlrc0VlcEhwUzRMMGMtWW5vX1Q2b2RuZzNIc3NDX0xqSF9LM04tQTNmR0xReDlaMV9tYll4WmVyOTRXTWMxX1NvUWdHNjMyeTFVLWFjdkVkdkVNVg?oc=5
+- 公開日時: 2026-10-07 21:55:00 JST
+- 媒体: BigGo Finance
+- URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE1YVloxQjJoU3FqdThoOW1INE95M1g3MjZGOHFrMkJSMXU4S3AyeEZSYWNHeE5tTEJVMmxtX2hLNkFMWkhKNWhHYkRPZ2RLXzQtNjM5UERDTl9oRm1OZ0t2MnJXaU9QN3BrOGgybE9yZTBBYXdiaXc?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 11. An AI tool is already at work for 110,000 SAP employees. - Stock Titan
+## 5. IBM and SAP team up to help firms modernize and use AI - Yahoo Finance
 
-- 公開日時: 2026-10-06 20:34:34 JST
-- 媒体: Stock Titan
-- URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxPRm9tVGZyOFI5b0N4WHFfc1piN2ZTNHNRWmJFRnFudXZwR0NWemVhX0o4Rm1wVDNZYVcwQmo4VDhTZGFWRTVWOEI1MXBXTUpYU2FGaHMzNzR2RzNQTkJhVmUxWHBPR2xFVDlZZ2FjMDFBamdjcnZ0Y3dWZFFadlViZU5VaG9WckZPU0VzYTN5ZmdUTGJpdmc?oc=5
+- 公開日時: 2026-10-07 21:33:25 JST
+- 媒体: Yahoo Finance
+- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUwxZ0NiN3pyMTZ0akJxMDh4RjRwVlZRYUwyY05qeFV5RDJVVERKUncwbjI1LWIyRUxIRWExbGJrZTloNVVzRUJZVkxSUXZKTkpGRnNZTk1GMmpPMjFzNjJJLWkxQ1k0SXhsOGNFQnBlMUtFWmt1MjJMRFE5YUlCZ3BqT21TTk0zNWNJajhKX3U?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 12. Innovation News Guide: Advancing the Autonomous Enterprise
+## 6. SAP Accelerates Autonomous HCM
 
-- 公開日時: 2026-10-06 20:30:00 JST
-- 媒体: www.sap.com
-- URL: https://www.sap.com/topics/events/connect/innovation-news-guide-2026#new_tab
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 13. SAP Puts the Autonomous Enterprise to Work
-
-- 公開日時: 2026-10-06 20:30:00 JST
+- 公開日時: 2026-10-07 21:01:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/
+- URL: https://news.sap.com/2026/10/sap-accelerates-autonomous-hcm/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 14. SAP-backed Tereina launches payment service inside SAP's business software - TradingView
+## 7. AI Can Act. Can Your Business Follow Through?
 
-- 公開日時: 2026-10-06 20:30:00 JST
-- 媒体: TradingView
-- URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxObXYycEhZdDJoSmNmV3c2aWZBMjFibFZxU2c4aXVEanQtaU84RVdzVjIyY1p2SWpuQzNHLWNDRlRFT21kbXZXcFlmSlpZV1gzRmlQTl9jT0dLdlc5Q2FIYnVGNnFLSzBzaUFXMWh3WVkwQUNiMHlhT21lMDlBUUFkY25yNTIwSUszWlJ0WTRFOUJpSDhlQklUQnJSQ21vdmp1ZExQVHpfLXpSVDVkUkRKMHNWT2tXVnRlc2pUSVRib2Z5S1ZucTNNUWdiMmRqREM2M2hmQ3M1R19BYWdq?oc=5
+- 公開日時: 2026-10-07 21:00:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/10/ai-can-act-can-your-business-follow-through/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 15. Goldman raises SAP target: SAP stock gains 1.86 percent - AD HOC NEWS
+## 8. Spoiler Alert: The Future of Work Is Already Here
 
-- 公開日時: 2026-10-06 20:15:17 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYzFwTTc3NlVzOEVEWXI0OVpfYTdkTzhmTGRURm9VZWFoQ2NlSElXNVJBSzhQaDJOTVpvRFo2MTdNSlc2RDVvM3FhakN4ZUZsV2x6ek1Vd290bnB1dnlsdjkyLWdaaU9QdTJYeGtLWHRYYUsxS1NpR0tFdlhLQmRVZzNHNkJ0cUs5NjZ0aUVmaTFiVTR6R184LWQ4OUZiVFIxeDR6YXcyY2l2bVYyWExQbS13WUlwNVRY?oc=5
+- 公開日時: 2026-10-07 20:59:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/10/future-of-work-is-here/
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 16. SAP to buy Belgian AI workforce software firm TechWolf - Proactive financial news
+## 9. SAP、TechWolf買収でSuccessFactorsを強化へ - 人材育成・配置の判断を支援 - ｄメニューニュース
 
-- 公開日時: 2026-10-06 19:35:00 JST
-- 媒体: Proactive financial news
-- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1BzSFhfR2RPZmhoYWEzejFLYUNCaTEwYkVEeWV3VFVlYUNnS1llM1R2SlQyN3BSM1JTLUFwbF9HNnFXS3JXNnZwZnh1NEgtSElmRklWanQ4bnhtZ24yWHdJVUpBU0JoWU9CSHhvZk1teC1KbGVyM1VtbUJNb05nU0VhZ0FYS3FmLXI4cE83SHNCcF9wTU9sQVdTTE1NYjNUQlRJNVMxSFRhdFB5T2VpRFJoYy1rQUF6SzRjMzJMY1JzMFE?oc=5
+- 公開日時: 2026-10-07 20:45:00 JST
+- 媒体: ｄメニューニュース
+- URL: https://news.google.com/rss/articles/CBMid0FVX3lxTFBpOUN4dGEwaHNDbkE5dFRYazFkZzNhQWV5b0ZsUThsaW1QcUp2eEJ6MHIwMzMyN2liQW82cGFWTnkyWFcxMHM0cjF4TkYzUjUxZ3BPMnAyZXBha3diNHRSUjJuNVlOLV9oMWxtSE82blY0WlpXYmF30gF8QVVfeXFMUGJtNlNhTjhLVmVyRkYxdWlPZHBSMkw2Nkl1dTlPUF9WSTQ0empFenJrOFlZTThfTFB6U0tDbV9heXZheXBsOFJpWGp5TFFTN0ROa0hCT0JBUDVGdXI2bklqVjRoVlNPaWJFS25wRDNJT0drVXNCcDczUk9fMg?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 17. SAP Rides Software M&A Wave as Sopra Steria Deepens Sovereign Cloud Alliance - AD HOC NEWS
+## 10. SAP、TechWolf買収でSuccessFactorsを強化へ - 人材育成・配置の判断を支援 - マイナビニュース
 
-- 公開日時: 2026-10-06 19:30:57 JST
-- 媒体: AD HOC NEWS
-- URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxONjVxQ1AxQnFfZWFrcFpUUElPVEFPU2Nvc0V0aUpDODdNdmk2Q1Nsc21iVkdXV2tDYXB2SXU0UUQ1LV8xd2ZVcEhJZWkyMnVDckFmSld4XzdPRkE3ODVKUjJma19ydW15U0F3a3JKRkpWRUIzYWQteEY1NjdoUGZ1Y01ib1hhYkhFZ1JKUmNVQWVJakVQV2RBMXpqcTNUdjNjRk9PRFVDQVEzWVJzaDBNVDExeFdIVXRXbkRqVS1Uc2h3VXhRMWVKVHp5MEJLTW9jLUR1ejFEa3dzcE0?oc=5
+- 公開日時: 2026-10-07 20:45:00 JST
+- 媒体: マイナビニュース
+- URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1S040S3dpZkdSRlRRTDMzcVhyZnl5MmxMQUxvTlZ4d1RXZk9zT2tFX3JWeHdaTmlDbXlJU3daVTJLbUVadHF4TVcyU3VSdExFUkRZWVFpOWJ2RXlEbFAwWUhvWE90LUsx?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 18. 建設特化型AIエージェントをCTSが提供 「RAG」搭載で施工計画書を15分で作成 - ITmedia
+## 11. SAP to acquire TechWolf to augment its SuccessFactors HCM platform - CIO
 
-- 公開日時: 2026-10-06 18:00:00 JST
-- 媒体: ITmedia
-- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFBnaGhvbEVFYi1POE4yQ2IwSExmbHBwa1NVZWZlYk4xTVpGVFRaTUVjR05TNUdnOTFjc1BCRUR4bVJlNjlzZVVldDhrVUlTR21pM2ZQRVNpQ3MxS2FDdGpQUXo4eUVFNzQzai15bw?oc=5
+- 公開日時: 2026-10-07 20:33:11 JST
+- 媒体: CIO
+- URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTV96cklrWUYxLXdFRVFfc0VPcmFxenN0T29ZNndNaG1xZ1VCOXJmSTVNblFHNDZCR00yUzZIVG5TVzNfcEM1c3ZMNFZUZ0hZU3ctdzhOUWlrS2FldTZ2ckZXUE5VaWlSUzlhRFdfTlZ2R3RFZVY5ZWlNcTY1VzRwaUVydUs2NGdtcmpXRkh3Z2I5eEhwd0I3WlF5UUx3c2w0cGkzemlGTmhDWlU?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 19. PwC and SAP alliance: Advancing the autonomous enterprise - PwC
+## 12. IBM Launches IBM Ready for SAP Solutions to Boost Cloud ERP Mode - GuruFocus
 
-- 公開日時: 2026-10-06 09:57:20 JST
+- 公開日時: 2026-10-07 20:07:37 JST
+- 媒体: GuruFocus
+- URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnFweWdTR2YyRDRHbF93WTVXb2t3amMzbjlWWHEwLUZTbXFDWUZxLUZVaGM3UWxOQkF6WjlEajYwRkp0R25GSERmYXRkSXVfNEpCR25GQlNoVlhRZTdLaGF2c2d1TzhoZkJyN25ZRUdHSEwxazRtblhIYkM5Q1M0UHh3OC1XNDBLLTFPRXp3SjE3TGM1U0RkN1EwbGJabEhDa2ZXUVJ0SDNGZUVNQUQ0VTdhNE1sQW8?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 13. IBM Launches SAP Solution to Accelerate Cloud ERP Modernization - marketscreener.com
+
+- 公開日時: 2026-10-07 19:55:19 JST
+- 媒体: marketscreener.com
+- URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEthOVlGRE1obHdTTHl5UTJfNXMwTnhxRzlkTDV4eE9odjBEbmJZRHYtX3lNNzctZGNBVjFUY1hmRlM0eUxSNjF2SXFKRVdyOC00YTRDZ05qV2djNGdmeHo0MnpWZDROMU56aDQxdVZyWnNDWUV3MW0zblFXU29yS0lkcTdOMlNWWFExQUlZNXlHdFBnbWlWOGhGTF9tTTBZN2Q3eUFBRjhtTTlvYkdDRXVVTzZ1dXM?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 14. PwC and SAP alliance: Advancing the autonomous enterprise - PwC
+
+- 公開日時: 2026-10-07 19:54:40 JST
 - 媒体: PwC
 - URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXZNWGh6YzIwNGdLeWJObkxoaVJrQ2h1WE0xcVdOQ3R6ZDBhMzJwTnljeVNSWjZYQVVwVV8yWllhTmIxU2hOeDNuWXo3bm1DUHp3ZUlzbFdzRXd5NGlOaXRwSTJLbTNmZVFTeGstU0JFNGJpV0lseUdGSVRBa0ttdzFqaWlWYnJBLWxrYmM0Ylkya2M?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 20. SAP Stocks Slip as Las Vegas AI Showcase Raises Stakes - TradingView
+## 15. IBM, SAP team up to help firms prepare for AI - Breakingthenews.net
 
-- 公開日時: 2026-10-06 04:11:15 JST
+- 公開日時: 2026-10-07 19:45:00 JST
+- 媒体: Breakingthenews.net
+- URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2VhMXdvSnhiNzF3VUxhNmxuUjNzYjRRUFkzMmZLdXlRNXNqWEtQZlRxbmtaTFAtdjBNbzdQZWhkZk9uT2tkQ2dRZmpMeFNub1hKblpUbmlFWV9fY0sxZDhhVGtzaEh1X1pOWU40bGNYdGlEb2ZVNk02ajZOVXZWRjM1UUY0VnJKWXlGVHM2ZGpkTUk?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 16. IBM Launches SAP Cloud ERP Offering for Midsize Companies - Yahoo Finance
+
+- 公開日時: 2026-10-07 19:27:29 JST
+- 媒体: Yahoo Finance
+- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3FMcXo3RXlVR3RDdnpYZ0ZZMWphSENDSHJkRzhzTE5NMHlRVldJYVBLT3ZkWE1ybWk1b0hOMElvcms2YzY4OFI5em41SzhDRUtHdHEwT0ZKbG5WeEhRWVJRSTJhOFFqTE5mQ1YzQUxiSE80MUk1U0w3cTBjdndTWk8tdU40c1RJWHM1cXl2R04?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 17. IBM Teams Up with SAP to Help Businesses Modernize Operations and Advance AI-Readiness - PR Newswire
+
+- 公開日時: 2026-10-07 19:00:00 JST
+- 媒体: PR Newswire
+- URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUDdMS1ZwR2NxY19SOUlsVlNjYnA4cUwtbUVHT0xsaVlQY2NJS05zOXRES1ByYUswSVJ2Mm9DS25CeTVFSFdTaVpDcjBDdUZFNDhYeE9wY0hhdXdnSHlJXzVUMnkteTBtMEFPOVJleEREVnlLdGNHbVlCUEpNZ2ZJOUlUR0VSR19LMjJVNXlqQW1XdEN3a3ZRYXkyYUtJS1E3OFFiZEtJaWxGaEwzcmZCbVhndExKVW5WRnBLdDkydE1fd1BscHdWdzhyNElCOVlaOUtqQkQxU2FFdw?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 18. Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know - SAP News Center
+
+- 公開日時: 2026-10-07 16:33:56 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxPSExnWEkwbTZLV004dmRTb1lRSEQ5VFlwMnhJNHVINDRmek1WTk5fUUkxOUtLc0hZTVZQZ0poWXRXTVQ2Q0JPVEhvTlhXaFZ0eG0tUGJKdDJ4YjM0X3I3a2Iyd0JKTHVrQUE4aVo4MkJTU3hnZTQteUdfNVYyNWs2SjU3eWFZMGpDcW5yd0tFbmoxei13XzVmaGpCaHgwUHFvd2RYNnh5WlJrWkp2WlN1Z2N5aw?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 19. 株式会社ニーズウェル主催のSAP Concurユーザー交流会での知見共有と業務改善 - ニュースメディアVOIX
+
+- 公開日時: 2026-10-07 16:32:51 JST
+- 媒体: ニュースメディアVOIX
+- URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Qb25kOHprZ1dQXzNBbW1FWEJORFlaMDU2UXFZVUhuRERNYkplSVFyNkF4MzU3NVNzMHcwREdQVWliVVM2TW5NZ2FtN2FlWnZDVi1WTThMTUNVa0piQXpIdVd6RQ?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 20. Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know
+
+- 公開日時: 2026-10-07 16:30:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 21. 「SAP® Concur®ユーザー交流会」を開催 - PR TIMES
+
+- 公開日時: 2026-10-07 15:40:01 JST
+- 媒体: PR TIMES
+- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5kMmxzYzcyU0xkMndEb24yQklDVkFLdEVKWkJOVDM3MGx0b2JxQVZsRGdVaDdBRE5Iekh6QjBXa0R2azdFTllaM0JzOS0yQXZEZERjYi1GTUdxWXAxdllOOE44QlFuMVpKV3c?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 22. 「SAP(R) Concur(R)ユーザー交流会」を開催 (2026年10月7日掲載) - ライブドアニュース
+
+- 公開日時: 2026-10-07 15:40:00 JST
+- 媒体: ライブドアニュース
+- URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XLXNzWDFCVVFGaTNqRW9icGVPMTdjNnhQN3dBOTVuZ2lkLUx6OURCVVN4NHFmcDlWUVJzeWIyZHlielpjMUNNQUlmb2FKU01ONWttZ3Z5Sl9WaVNSOHRibUhR?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 23. 「SAP® Concur®ユーザー交流会」を開催 (2026年10月7日掲載) - ライブドアニュース
+
+- 公開日時: 2026-10-07 15:40:00 JST
+- 媒体: ライブドアニュース
+- URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CeXEySlgtRHdCTGVabHNXak9iSlB4VU9yQVk0Z19JcEJWMWFwYzVuQXo5UVlnQkdMQWJyUlFrS3BYZi1hRWJyQ1ptYTFLalJqWHVLbUhvXzg3ODU0dXRwUEZ3?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 24. SAP、ERPに決済機能を直接組み込む「SAP Pay」を発表 米英で提供、決済市場に参入（ビジネス＋IT） - Yahoo!ニュース
+
+- 公開日時: 2026-10-07 12:55:06 JST
+- 媒体: Yahoo!ニュース
+- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE1ic29nd2VRMTlhaUVMd2tUWFhxWFNtY1RjWjhnWjJxREk2YW96WHFiRHZ6QWtxUUdjcVBOcWJVaUVCR1lNUFprQW9lNWEydWE4emZTSUtGeWtuSUU0N3ZBTlJsVHVLSXRfeXdzRldVUU5hYUpMUU5xdThCM2JDOVU?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 25. SAP、ERPに決済機能を直接組み込む「SAP Pay」を発表 米英で提供、決済市場に参入 (ビジネス＋IT) - Yahoo!ニュース
+
+- 公開日時: 2026-10-07 12:55:06 JST
+- 媒体: Yahoo!ニュース
+- URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxPZHlNU3FpM0k2WTJYM3JGQlNzRjNfeEJsWnpuRVc4T215clE2aHhqQTFqaVVIek80U2plLU9DRk41cHRIWnRZdnR4SGRmTzFzSmFxYTJIV0lXcEQ0emFXRFBkRXVuYTd2NDNnUkV0U3FVVzlNNzlEaTUwTkpaSzRPS3UxVnFxaEMzemU5M25B?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 26. SAP、ERPに決済機能を直接搭載…「SAP Pay」で決済市場に参入 - BigGo ファイナンス
+
+- 公開日時: 2026-10-07 11:56:00 JST
+- 媒体: BigGo ファイナンス
+- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTFA1d1JLUlE3TE1Lemx4QmE3Y3hnZTJ1dkRpOGw1bklXOXVBNkVuS2o4dUk0NnZHMjQzLVo5XzJsbDFwMkxMX1JIX0E1QlBFMlJVOWJzeXhiY0NWNFJKVWJoeU42czJuZldnYUxQVk5vSHNYNTBI?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 27. SAP agrees to buy TechWolf in AI push for HR tools - IT Brief Australia
+
+- 公開日時: 2026-10-07 11:54:00 JST
+- 媒体: IT Brief Australia
+- URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ0xETk5UcUhKa1lPdEE4eWtWbU1CWDNETHhiWXhyRk52QXljMzFmRjVwclVvZ2s2bmZDVXp2TF85aWJIRXl1aDIxRTVtRzJWZUNhN0VjaHdKdmdpdVUxNUdmcG5MckZDMVBxdEdzZjlfV3VlN3ZEbndoTGMwaWN1TG1zNklTQQ?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 28. SAP Connect 2026 day #1: In the autonomous enterprise, who even needs a CEO in the future? - Computer Weekly
+
+- 公開日時: 2026-10-07 10:12:39 JST
+- 媒体: Computer Weekly
+- URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZzQzd0FYUm9vRjJkcGtUb0g4c2c0SkxJTUZWNUdiaGZTaGxWMHRJcUYxaHdVVHRDdGNrNHhpQkpzUHZieW9Vd3BoNWFUNlhxSm1fdXlBcmJIaDdwcGtMaFl4bzJJYkowYTNFb293VnRFdHdFZmMxa3JtdldNVUJBQmJmQ1p0dWd0cnpkOVpkelkyd2lROExfR2ZNUGdXS2JYNjdtMUNQT29aR2VhVFJmZHdacXA5MFQzaW1oaWJhT1NJNTZSUTd4QW9FTEZMTXlSbHRPdGpXX3VYVzg?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 29. Spearheading SAP S/4HANA implementation at the Municipality of Milan - Capgemini
+
+- 公開日時: 2026-10-07 05:38:35 JST
+- 媒体: Capgemini
+- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFZQc3QxVklsWjFqRHFDZ1pwdXZlZjdwTTE1bV9mY3k2a2g3VGhFa3NHZWxfVjRaVmNNb0EwbUxid3c3Y1VZVVNVaElqcURYSnhsOFRhOUtOcFZxQmRwcXoyT21LWHM3aE90NXBiQzR1WUJNVXZIdEZvUXU0Z2dCcWpIUDVoRjdtTHF5UXh4cHB6V01UQ0pmYWoxZXc5X3Y3NFVreTN1YnZOdkhZYXZwMlM2dS1fT3BMdEN1aFhB?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 30. SAP ECCの「2027年問題」は綱渡り？ 未移行企業が直面する“真の課題” - TechTargetジャパン
+
+- 公開日時: 2026-10-07 05:00:00 JST
+- 媒体: TechTargetジャパン
+- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE9xdDNQVnhWZG1QZk4wemVqQ3laOGVRaUQxcV9fdmJLbnhKSW9BVElhOG9mMHJqZjExRW54TWRESmZrdkNCeGFIWHU0ZTN3X2VNekRQU0ZmcERwdXJCZWVRTU5MdG11dnZ4ODFiWGZCUzc?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 31. SAPの手探り“クラウド間移行” 丸紅グループが業務停止を1営業日に抑えた方法：立ちはだかる技術的制約 - TechTargetジャパン
+
+- 公開日時: 2026-10-07 05:00:00 JST
+- 媒体: TechTargetジャパン
+- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBjWmtFZXZRY2xJVWZGSldUZ0V0dWZxUW5mdzVoekxhVFotREI2UTEzbWRsQUp5dFhGZHpHMmpNbG1pUmduYi1XalNaLXpHWUo5WDZhUENMSlRBVXFJLVYxV3JWeWFKWWJ5blMwcTh2RDc?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 32. SAP Stocks Jump 2.5% as TechWolf Gives Joule Workforce Context - TradingView
+
+- 公開日時: 2026-10-07 04:45:39 JST
 - 媒体: TradingView
-- URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1k4eVl4WHJGVG9yYnVybjlpSzZ2cHg4U2t6bVd2UnFaeFprZHVFQmd0cWZ0TEtDX29mVE5YaU16YkV5TXZpTGoxVUw0alVWcWJEVS1HSnF0WVp3bmNvTHRNMmxFcE9LU2RkNk80dFdnbXRWSkFNY3g0QlZ0TUk3WVpnMmtvYjQ5cXNKV0JYTUxNbVc3eFN6VUJ6SFJITEhBM0h4MXVrMXd0MGV0aHNYcThMT2Q?oc=5
+- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxQbXEwT3BvOExBVUZMNElEVGdUVWFGQW5qOHJDSkd2c3gtVUJfSmZuYm8tNlpFaGFYZncwNXFDc2xzVS1kei1RM29xY2hFOFQ5TFMtRS1scTk5SVJiblVDTnNySHhfaEpIZ1dOa1pESi1vMms4b0QxUEFhRDVKT0lQVHZJWTRrdHBQdWtYN0JPZE1RaWxtRlI5YjZxdy1mU3NfbFk1SWxhUzVBR0EzcjFQNktNd0VIUXBsNFRwVVJn?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
 
-## 21. IT-OT Convergence: What It Means for the SAP Consultant - IgniteSAP
+## 33. SAP to acquire AI workforce software firm TechW... - Pluang
 
-- 公開日時: 2026-10-06 02:40:04 JST
-- 媒体: IgniteSAP
-- URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxPVjVOOFBCTTRmcWI1TUt1MXJPU3V4eXlJU3Y1cXZsbjZvTmZCT1U1aURNTXpXeVJ0U1JuNWpiMUV2cG5jT2s5LVRKT2FJdVZzc2cyOWFXZUIzTVVlSFlWQ2UyOWxZRmpaWm1XblRyUmFrejZ2eW5fengyMEZ6Z2gzRW9kRQ?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 22. AWS Drops Billion-Dollar Chip Gift on SAP, Salesforce, Workday - Cloud Wars
-
-- 公開日時: 2026-10-06 00:00:00 JST
-- 媒体: Cloud Wars
-- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZEtNTG5zX0k2ZmxvamlsVVZjNWRfSEZmYUNqbDBuNHRsYkZZV2VmWjZLeThfcF9pcHdjVEZVTUx3bG8tTGlRRTNPN2hIMjlQSlJweFRFM1NpVW8zOVZZdUNybVFlTmVKVmdRRGk1T3FKNTF1Rjh2djl6MENsUXFNMmdCaFphWlJkUmJ2WXBqdElQcVJ2OF9xVUNLbjl1cmNFWG9hMVM5OGQ?oc=5
+- 公開日時: 2026-10-07 00:25:29 JST
+- 媒体: Pluang
+- URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxPRU1mUnhKZXY1aUFOcXpGSk1JZmhIYTVubHRyOHAwdzZseW1iVnYwWU9IaVF4Zm1TWXNfd2V6dWZLeHliS2pnc0lvdVBNRng4QW1zczMzTGdzR01qYWlYSF96UjJLd2JGam43aU03TkhlZHlvd3ZoR1BsZmRDZGxjbnd6QzMzdjNVUmw1VWZ5VQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
