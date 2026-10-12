@@ -1,24 +1,10 @@
-# SAPニュースまとめ（2026-10-10分 / JST基準）
+# SAPニュースまとめ（2026-10-11分 / JST基準）
 
-- 抽出件数: 3件
+- 抽出件数: 1件
 
-## 1. AutomationUI: Making SAP Transformation Faster, More Accessible, and AI-Driven - CIOReview
+## 1. Does Company Wide AI Rollout Change The Bull Case For SAP (XTRA:SAP)? - Simply Wall Street
 
-- 公開日時: 2026-10-10 05:56:39 JST
-- 媒体: CIOReview
-- URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnTkF5MlJ3ZHhaclViTVRWZWdDcERyVGFQQWFVVk43dUZZbXlZSHlMNmktODRMV3VWYUYwbTg0X21NREFOVkUxcXA0U09hblcyZl9QdGRR?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 2. SAP Expands Workforce Learning With WalkMe Learning Arc - The Futurum Group
-
-- 公開日時: 2026-10-10 01:01:41 JST
-- 媒体: The Futurum Group
-- URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xLMWZjRVNnZWRhY0dGMGRKc09KV1JnNmRKejZBQlNFM2JnMGFieGZHdU0yb25ONjNfTkJidElWc2swaExNUEx2cHFYbUdpdWl1ZDBjbnRNcmxGM015cU94YkM2SURuV0Z2WXBFX09VTzFFYi1KTmtFTTZzNC1tOGVQcW95NGJQdEdBaVJSazNqSmhn?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
-
-## 3. SAP Makes Work Intelligence Central to SuccessFactors - The Futurum Group
-
-- 公開日時: 2026-10-10 00:46:41 JST
-- 媒体: The Futurum Group
-- URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxORGRxOXdZM0Zlb3hTREZGYjY4RlpKeTJYQWNmdnhlc29HNnplTF9ldzByd0RhQU8xLTJ0a3N6NWVROFdyRUlBaEY4eXJQUzI2WjQ0NlotOVJCSjVlY2ctZVdsRktWRnZ0VGotSmhxcmtPY3RwR05FT1c5Rm1vcXM4a3VFSjFiSzdVMnhfdEEyQnE4Zw?oc=5
+- 公開日時: 2026-10-11 02:52:18 JST
+- 媒体: Simply Wall Street
+- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWVJNER1cWVlSHJuUkItdHktNFh0SjBrWXlFMVZ6RFZfLWwyTFVrQzBWSnpkWldSbjNwd3IwQlNZZzYzTDhkY3Z2Q0ZxcUVBX3R2TWRRVXZGWUdjSlBLS1ZhUEpKQXhqYlhzdEhwa1h2THBTTG05VFpkSlRuMnFMZzJZdWNxTjRXV2hCeUJwQ2hSY1puNkhMWjQwOU9ZdXFPRDhVeWpEcFNXakF4MGhlSzd5RWhQU2NHOVJOUTlCUFhZUU3SAcgBQVVfeXFMTmNkZ040MW1CRGw1cGJXQ0xhQ3JxOE1JVjdpUHlYT1N4aTdrdGlMaW5UM3ZFUnNlalNmdDB5TjN2XzJXTDVGQi0zWGc3eHl5RDZyQm5VcElKalNHWFhPaFhKX2xKakFubml0TUlXOGpnM1llYjVIcFlFSmVqY0J1cGlZV0NISUZYallmb2FxSnp3RFhVd0NlM3gyWjRtSXh2MnlnMFg5WS1NRHBYLVFoVllZYjJzVXVuVDd5U3Z5RW9DOFZhSHBOTlI?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
