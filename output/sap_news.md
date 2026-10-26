@@ -1,10 +1,45 @@
-# SAPニュースまとめ（2026-10-24分 / JST基準）
+# SAPニュースまとめ（2026-10-25分 / JST基準）
 
-- 抽出件数: 1件
+- 抽出件数: 6件
 
-## 1. ゴムマリの専門業務AI-BPO、『マスタ移行 for SAP S/4HANA®』を提供開始 - PR TIMES
+## 1. SAP's Cloud Order Book Swells Past €24 Billion, but the Profit Line Stays Exactly Where It Was - ad-hoc-news.de
 
-- 公開日時: 2026-10-24 10:00:02 JST
-- 媒体: PR TIMES
-- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE80Vzgxc2x6Yk1MY1hKbGpvRHdneXhqWGhZTnd5RnlZS0dKTWw1TXJlYzRCV0JYV1BTSEU5RlFrdjA1eGM5cE5vNElqSk54enNFOTdHb1pwX1dFTmdqVmFscXlCMFM5NThNN3c?oc=5
+- 公開日時: 2026-10-25 22:01:12 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMUJ3N1hlYW5kNVN6ejViaFFVcFVWMEk2RVVWdldFN09KNUlZVmQwTkUxNGh6LTdLa25IOWxtbFYtQm1iMUtnMjZjd2NZeDdvbkpzMlRaTFRYSHJjY05Xc1hteWcybHZXUF9hOTVnZmZWeFJsQWxvOTZzOWd2RWJxTEt4NXJaSlJmbUxrcWt5X2JieDRDMnRMS0JvT180UFBTWGtHQ0lMR2I0NzdLSVNXSS04TzJYRmlDZ1otTUJZX0NxVkM4U2xwVGRIWDNsTDRZU2wwdUhWcEZjZXROQWZBRXRkTTNSLUpMUzZwMHk5NDVOWGZvSmxR?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 2. SAP's Philipp Herzig on AI built for business data - The Rundown AI
+
+- 公開日時: 2026-10-25 21:00:27 JST
+- 媒体: The Rundown AI
+- URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNVGhrWkxEV09IMFlMLV9NYTJickpab1lCUHp2NnBzNld4d2F6WEtIdEM0ZWtGZTk0Y3B2Rm5aWWxnTzQyQzRIbFNWZllsV05RYnNGTDVqblNVNmlZOUEwMHcxbHRCYXl3NldVRzBJdGpHeVZqNWQycmlJMVJVYU1PLTN1NTJiWHVzUEM2cXZR?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 3. SAP Pairs an AI Guardrail Story With a Cloud Beat, but the Payoff Stays Unpriced - ad-hoc-news.de
+
+- 公開日時: 2026-10-25 15:21:04 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWkpnZ0FRb09BV25abWhuVzIyZHNzY1MxeWJQOUxucHFXa1hVR1Frdm5QNWl6R2xEanFNTjQzRmRyRmxBQ0t6Slo0bXZ4TDdfcWJDcmt5SXBhZFQ5c2xuTEZ1aFV5UnVlVmUwXzNraVN4ekJMVk9iYkd6akdIcHZobzlVcEVSMVZzaFNVMTRfdUlSbzFuVTZBcFBVRzZwbEJpRVpxRFdrNUZPTkJFMmR1UVU0UlBSOENlMmxNYUVINTB3MTRvczZmbmVyS1oyWWp5cTQ0ZVlCYmJMZjNoVWV3ZktiYzBmdw?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 4. Learn Why The Bull Case For Vertex (VERX) Could Change Following Oracle Cloud Validation - Simply Wall Street
+
+- 公開日時: 2026-10-25 11:56:40 JST
+- 媒体: Simply Wall Street
+- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnNqRlE0M3d1aWYya3J3SDNrUTZ0S2VYUEVkMzZlSTFEXzlBYnZpYl9QVl9VNlZrRF9XM3ZkdjR4Qnl4VER0LTRRdjYzWjVTN01lRTVTUklXUklrTVI3RVJCS1hYNndnMmNDMlpXZ1RWdk1hendWR1J4RWxXQjZaSFJKNEJEcGZNb0dkVjF1Mkp3bWZQMlNJNzh6VmR1a0FkUzlWNExtek1LcDZvZmVsM1Yxb0czSjlBQ0hUSzFKcXhITmvSAcgBQVVfeXFMUGRLR2dvMTV2YU1IS25fVTJfOV9MSHFCY0ZWMjZPdnk4NUJ3TUJmWG1wMDBRLWtOaF9nenhrNU1QWXdYMm5tVklycWxaTmRSYWdZQnZNSnpDTFNCMnEtTEZMUVk1QjVzb0ZJSElfZ09JRjg0NTcwMUh5cHBRaVpjakhMczVmRllxU1pVcV9ZN0xnR3FnNGhqTlZnYXRHVzB6LVFHTncybG9Vdm0tTmxJZFJGeWdRQnVFNlVXTk1qaWV4NXpaMmFtUmM?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 5. SAP S/4HANA移行の「落とし穴」2026 - 日経クロステック
+
+- 公開日時: 2026-10-25 02:57:08 JST
+- 媒体: 日経クロステック
+- URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN2s3SDF0aG8xRlZsaWs4MndzOW83U0tBOEVzRGR1WTRfQ014eENFWVdDQ1FiZVRIeEJwM2x0UnpLV202ZTNZcjRwaFhMU0xmQUxWd2FJU2l4YS1FS21z?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+
+## 6. SAP's €24.1 Billion Backlog Draws a Higher Goldman Target, While a Pool Dissolution Reshapes the O - ad-hoc-news.de
+
+- 公開日時: 2026-10-25 01:01:28 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWmNzY1Z2YjN3V3FkLXZDek41TVFsQWZib0E0d0x0U3FESVJJS0Z5WHlJMGZaQjFOSGI5UjJINGpwdy1uVTVlS0hLSGcxTFlsclloczFzUUhzZHFoWDBBSURYYVowTjN0ZDE4RjRKRmJTU0gwYlZPa1lsRF8yc2NSSnVzSkxtYnpjLXN3dUhRODctc0UxQkJhSWg1OHJUVk9QVkRqYk8yVF96a3dDTjNEeHFLdjZlNVh2dGJZcTZoQ21ydENwWXdKci01UjZ4ZkhrZmROOGZudjc5aE83cjRZUGhNRTgtN2VheWFaRWJORWI2bEZvSG1IbTlR?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
