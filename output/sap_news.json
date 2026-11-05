@@ -1,118 +1,94 @@
 [
   {
-    "published_jst": "2026-11-03 23:24:27 JST",
-    "title": "Microsoft Bakes Rental into the ERP Core While SAP and Oracle Send Customers Shopping for Add-Ons - Cloud Wars",
-    "source": "Cloud Wars",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFJXdW5UcWtLbU96dWJFRW12TWxUbDBNcVlBbk5kZkR0X01ySWNTNHRsTmZSVk5lVFFkSWdkQjJla0FOTjNUa1NRX1B6dXJubjFlZW1DUWhwZC1tVm82cE0yWl8wVUhUSGVIWHJ3R2l2UFNTU1g0M1k1anJveFdBRklGNEJFMFFmQXVhNlRuOWdMaTM3MllVSHo4RDNIeHNZWVZmeEFCRVhsbHZrQ2VPY19oa2pYcmFodWYyX2x2eEw?oc=5",
-    "summary_en_or_original": "Microsoft Bakes Rental into the ERP Core While SAP and Oracle Send Customers Shopping for Add-Ons Cloud Wars",
+    "published_jst": "2026-11-04 23:41:48 JST",
+    "title": "SAP® automation trends for 2027: AI, migration, and BTP insights - Precisely",
+    "source": "Precisely",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzc4RHAzdlFCLUVPNWFsc3plY2ItanNrMm5jLVZlNW5QcnV2TjN6YUpGVHBYemdMUHhDNll4WUxjak5OSlUtd0Y1N3RCYjJLbzY2MTVUa1c4TmNSSzJ1cHNBRTZNNm04M21IYkVJbmYybDEyeEhfTHh1Z05xVFBITEg3U2FLMG1uWnhiMkhrQlhyelpYbDVvcU1vd1NoR3gwejMteW8wWnRtanJfQl9wcw?oc=5",
+    "summary_en_or_original": "SAP® automation trends for 2027: AI, migration, and BTP insights Precisely",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-03 22:15:00 JST",
-    "title": "SAP Positioned as a Market Shaper in the Inaugural 2026 Gartner® Emerging Market Quadrant for Integrated Supply Chain AI Agents – Established Vendors",
+    "published_jst": "2026-11-04 23:07:42 JST",
+    "title": "New Research from Precisely and ASUG Reveals SAP Modernization Momentum as AI Adoption Accelerates and Migration Challenges Intensify | Corporate - EQS News",
+    "source": "EQS News",
+    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOdjJTVnVPR29vNDQ5ZkZ1alNBM2VlR0xzS3gyUFZhbnFqSDJRaWUtaFRiMEhLN3VXcVAzblpUNElyVkZXN1ItcHUzdmV3NzI2RUlpVllOMlZnc2ZFallFcUFEUDhYLUstUmtwN1hxNXRONFBKYy00elBXanhqRWMtRk9sX2FGcVdxczZmd0FlSUdZcUpmNDZjM2xPYV9LNGV6NE1QOEFBN1pFMXhlWnlyTzRNT0tnTnNYbnBmdE1rbFM4SnZJUWU5Qi1aYm1NbjdUb1k2WGJVUGpyQTZDUXB1bmVzX1B6QXRvRWY0VU1qY0xMYnFEWHJGU1p4dTg3bTEtM1dyY1M5RlFNazA5LWZzY1pqcGN1V1ZnZ2xWNEo1cFU1RnA2eXNCb1NzeEgzX2doSDdmeHkzaWg?oc=5",
+    "summary_en_or_original": "New Research from Precisely and ASUG Reveals SAP Modernization Momentum as AI Adoption Accelerates and Migration Challenges Intensify | Corporate EQS News",
+    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  },
+  {
+    "published_jst": "2026-11-04 22:15:00 JST",
+    "title": "From AI to Analytics: Where SAP Fieldglass Stands Out in the 2026 SIA VMS Landscape",
     "source": "news.sap.com",
-    "link": "https://news.sap.com/2026/11/sap-a-market-shaper-inaugural-2026-gartner-emerging-market-quadrant-integrated-supply-chain-ai-agents-established-vendors/",
-    "summary_en_or_original": "The supply chain AI conversation is shifting.",
+    "link": "https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/",
+    "summary_en_or_original": "The report points to a future where connected data and intelligent technology drive better external workforce decisions.",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-03 21:31:31 JST",
-    "title": "SAP’s Cloud Backlog Meets Its Toughest Test: Turning Demand Into Earnings - ad-hoc-news.de",
-    "source": "ad-hoc-news.de",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcEp0RGV1Ty1wSUQtQ3ZlZlNIN2tlZ1RpREhkak5kQTlWNFM4Z2ZlbG0zR3NnanF2TFh5bFMtRTQ1Y2lqVHhaM1BLSE1MVWhUOXFndVRfNndxbFFITm8xaEdHT1NQNUhMd3ZIZzFnWHlLRkg0LTk3QkMyLVp1Nnk4YUUyUE13ZVlleTVOQ29WSjlCVVhXZmYwZl9FeEZsM21aRlkxWl9BWElIa3RiQW4wV1RuNVN0ZnNOWjhSWVNqRGwtWHJELWN5WHJTSEFVbjUwQ0NQWm1MNUM3b0Jh?oc=5",
-    "summary_en_or_original": "SAP’s Cloud Backlog Meets Its Toughest Test: Turning Demand Into Earnings ad-hoc-news.de",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-03 21:15:00 JST",
-    "title": "Business Networks Harness Agentic AI to Bolster Collaboration and Operational Resilience Among Trading Partners",
+    "published_jst": "2026-11-04 21:15:00 JST",
+    "title": "New SAP Incentive Management, Starter Edition, Now Available",
     "source": "news.sap.com",
-    "link": "https://news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience/",
-    "summary_en_or_original": "The vision of SAP Business Network is to become the intelligence and execution layer for commerce between companies.",
+    "link": "https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/",
+    "summary_en_or_original": "Growing organizations need the right solutions to turn their strategy into performance.",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-03 20:26:50 JST",
-    "title": "EU regulator's SAP software maintenance commitments decision published - MLex",
-    "source": "MLex",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlk5Wk5sQzB2WEtYMmNvUDhUbERVOVYzQXNidk1xLUJONjJZYm9MeFZycWFqWmNBeUtaZURPN0phZ0xIUnZiQ2VpcDktc0k0aURHczhsTFJjbks3NGIyVmNWRXJEcENXMllhRy00WnQ0d0ZmSUs5dkpZLWVMdnpNMHNWajF6dXVIclZSazV5d1Zmc2VnN1p4ek9sWWdKVlBDcnp3N3ZKUWFiUFE5Qm55aGdRalp5UUVXeEdBVllQejnSAVpBVV95cUxQaEJObUQyX0FyV0l4UzlBZko4REZfdDlvdVZ5UVJJTUFIYnJwdlNrR0haOHNGdXRCaFV4Mld4UTBPZ3BlWUVlOWtBZ1YtZjE2ejRGR3FOR0NwMGc?oc=5",
-    "summary_en_or_original": "EU regulator's SAP software maintenance commitments decision published MLex",
+    "published_jst": "2026-11-04 19:19:19 JST",
+    "title": "SAP stock gains as Dutch defense selects sovereign cloud - ad-hoc-news.de",
+    "source": "ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREFEVmQyTDJ1b05QTTQ1LUwxcHZCN1doMGplSE5vYkNqZS1zeHNldi1YU0VTQXFzVGpldUtwWjN5U2F1UUNpLUI1MDFUSVlTZGVvLWx4UHRHNXpWR3RVcWFETFJQOGJwdE5FdVp5eURxWmJVbjloRE5tYVRHUDRDRHJCV0RzVUo0LWotZUdQSlF2YVNaX1dBYi0tNGFCTWxDN2t2dDNFNnJ4cEVXcE15Q1I0LW5pQThBN280?oc=5",
+    "summary_en_or_original": "SAP stock gains as Dutch defense selects sovereign cloud ad-hoc-news.de",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-03 18:00:00 JST",
-    "title": "SAP and Cohere Empower Regulated Industries to Innovate and Deploy AI Faster",
+    "published_jst": "2026-11-04 18:50:04 JST",
+    "title": "SAP SE (SAP) - What Are Analysts Thinking About This Stock? - MarketBeat",
+    "source": "MarketBeat",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzlTVkktSXRWdG9NRFo5UUY1dGlsNk1tRm5INHUtc1lfdnF4d3pvMGhPelhvbWpMMVR6MWFmM05rLWJnVGxOcmkydEI0WkpmdTNja1lxSW9SR19OWDZMZ3RfTmgycWdJS05YWWtHZVUxaWdja2pfWl9QRVpkMDRmZzZDZVBmOXExOTFjZmUzbkVldkg0eEptQS1XeXVWbE1xeTh1WTlvOVNZWnlaQ2JTdldkd2NUS3g0eHc?oc=5",
+    "summary_en_or_original": "SAP SE (SAP) - What Are Analysts Thinking About This Stock? MarketBeat",
+    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  },
+  {
+    "published_jst": "2026-11-04 18:43:39 JST",
+    "title": "顧客の要求時期に間に合わせるため、河間工場の残り空間に約1,510億円を投じSAP能力を先に確保──「イビデン」のインタビューレポートを配信｜次世代型の株式リサーチ「ENVALITH（エンヴァリス）」 - PR TIMES",
+    "source": "PR TIMES",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQ1kzTkVrVmJoZnQycVZXTXF3RVdTeGZaUVNtV3l4a0NLTXNhTEVYNHEtT0RRekZYYldxVEJwalNNMmVRcGF0aF9HU2cxUWNnekNob1pVSmx5NnZqY1NYVDhMczNXazdHanc?oc=5",
+    "summary_en_or_original": "顧客の要求時期に間に合わせるため、河間工場の残り空間に約1,510億円を投じSAP能力を先に確保──「イビデン」のインタビューレポートを配信｜次世代型の株式リサーチ「ENVALITH（エンヴァリス）」 PR TIMES",
+    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  },
+  {
+    "published_jst": "2026-11-04 17:00:00 JST",
+    "title": "Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness",
     "source": "news.sap.com",
-    "link": "https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/",
-    "summary_en_or_original": "The combination of SAP Business AI Platform and North can deliver exponential value.",
+    "link": "https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/",
+    "summary_en_or_original": "Reliable digital systems are increasingly essential to defense readiness.",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-03 16:10:52 JST",
-    "title": "SAP's Cheaper-Model Pivot Meets a Buy Call That Looks Past the Quarter - ad-hoc-news.de",
-    "source": "ad-hoc-news.de",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZm5HY3JlZDVmOF83SnpRZXp6Rm50NVpJU1VvSk1YVGhoRnU3ZkNzUUU5XzBGR1NNQ1RXR09MV3lwV0U4RkNuZlFYME5pMW9LSlNVY3FXY3VDRUlrODVaamp2VFd2ckl1cmdQMkZVQWw4TEJXMUF0eTJNRlJNNzhpdWpSR1FUaDhUWTRaZm5qWUpxbnBhbFZZMkJYUVVvNUZVUkk2aGdNSEJFZnZqVG83bTBXNGkya3doSDJ1RWtHbkpzbFR1bHFFUWFMQlZXOUJXVWtPazRyaTVCQQ?oc=5",
-    "summary_en_or_original": "SAP's Cheaper-Model Pivot Meets a Buy Call That Looks Past the Quarter ad-hoc-news.de",
+    "published_jst": "2026-11-04 12:47:29 JST",
+    "title": "SAP TechEd in 2026:SAP tells developers “You can build the autonomous enterprise” - Cyprus Shipping News",
+    "source": "Cyprus Shipping News",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2tWM1I1bmFsUUhTZG5PYVdKT2J0NlNQRVowQUdlV1FReHNXSFluREZ1aHZFWEFjc09LZU51cF9YbGNHYmFVNGEyTWx5ekJiV0VKZ1RDZ0pzVmlySjRFX0ZtQUZNU1ZOOVI3T3hsRXQ4VHBTNTJXWVpKOXViVElaNjFhY2hnQkRzT0s3VjZCdm1KNG02N1dOOUZHejVxbDVuSlRZdVh5RElub0RSbmpHemNlNHhwVWR2SFFOS2NB?oc=5",
+    "summary_en_or_original": "SAP TechEd in 2026:SAP tells developers “You can build the autonomous enterprise” Cyprus Shipping News",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-03 15:56:10 JST",
-    "title": "Descartes puts ocean container tracking inside SAP, bringing carrier performance data straight into shippers’ planning systems – Digital Ship - Digital Ship",
-    "source": "Digital Ship",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMjRYMGRoeTJBZjZCSDRsN0xNY3RnRkVSbDhqMW0weVZlejcwMTh4Vll4clpMeXo0TlNFTVdMZWFnSS1YOHhaQXFtb0wyaXdmTjBJVENvSGVObFZBeXI5UGpfRmIzZzBEMUI5TkY3a1Z0c255Ni1PY1pKUjNuVUZfZUpoUXhaWE1JQ3JHMkIyY0Juamo1TDFXZ1RlNGxNRzFLX2w1MDNaTDdyQWhJVndkVjVYbFd4dU5qeU1fb0NNWnpJOXBrdk9VYVhLaVBFcVBlbXA1d2NoMU5aSXNXR0Q2T0tTbkJXQkhHSUszaHZzR0VxRGN5bUtXNHRRVXEteDNVV3Zvcm13?oc=5",
-    "summary_en_or_original": "Descartes puts ocean container tracking inside SAP, bringing carrier performance data straight into shippers’ planning systems – Digital Ship Digital Ship",
+    "published_jst": "2026-11-04 10:00:00 JST",
+    "title": "京急電鉄、SAP S/4HANAのマスタ登録・更新業務をkintoneで効率化 - ITmedia",
+    "source": "ITmedia",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96clZiRVZYcGpuSk10dGVqNGU4RjBwM25WdFloQUdXUkM0TDFUeUZqMU56UG5jdHBzUXVrSUdwbjFEU1JEVXdlZzBORVVzaWh0bmQ0UXNOTlBaZTJScUszLTRGbmdKNUcyM3NUYzRnVWFRZw?oc=5",
+    "summary_en_or_original": "京急電鉄、SAP S/4HANAのマスタ登録・更新業務をkintoneで効率化 ITmedia",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-03 13:01:34 JST",
-    "title": "SAP's AI Roadmap Gets a Date as Analysts Split on What the Cloud Boom Is Worth - ad-hoc-news.de",
-    "source": "ad-hoc-news.de",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeDZtRWtpNTZjMHgtTVFIOUMyUzNxTnM1WGpWNkpndHJzREZJNGZXUWlfVER4VFVjLWM3elZLbGEzRGJjWlFlbWtKeW50RE16TmlFMTJTVXVMVVg4ZDNVNkQwZXRWUFJkUUJqMVN0a1BjNmRhZWgwYS1iOUNlSEdLLVFHV05feV9LOTlrbjVxM2lsbVNEaTlQMlpxYUxDUXFWa05LY0g3Uk1FVXBwX082Q1RzWWFqNHlVOE5XNnBIRi1CR1hrU3gyTG9TWDZwUXNBSHE5OFFIQmNqT3ZFQmJibDJPNWE?oc=5",
-    "summary_en_or_original": "SAP's AI Roadmap Gets a Date as Analysts Split on What the Cloud Boom Is Worth ad-hoc-news.de",
+    "published_jst": "2026-11-04 09:35:20 JST",
+    "title": "SAP Stocks Decline as Sovereign AI Faces a Margin Test - GuruFocus",
+    "source": "GuruFocus",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS1d1bWpJbnhYaGd0UmNvYl9OLVJYckVoeFA4TGxXbzFKZTRXbnlBR1dab21wdUREOWE2cWw1NHcyLWdINHNROGtCM1hrbmV5c0N6RmFwLXhoSms5ejZCS2M3ME4xeVBGclBxS2k1WHZsc2JMcVdlekhaRlc2UUVOZlpxYjJBZ0VENVRzcUtxbm1pQllIN2dCSQ?oc=5",
+    "summary_en_or_original": "SAP Stocks Decline as Sovereign AI Faces a Margin Test GuruFocus",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-03 11:31:09 JST",
-    "title": "SAP's AI Trial Base Swells Past 110,000 as Erste Group Turns Buyer - ad-hoc-news.de",
-    "source": "ad-hoc-news.de",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkZkSDZNUzh2NHpIdGZyemR0dWRjd2dta3MyX3g4QjVjQXNCMUZDTHhwTjFHMmJaSWtlY3NZb2VQWllKQXFrajFtM1VWX1pJWjJ3eWFkcVp5cWdTbFoxbEpFOWNrN2hUd0NvTk9iMGpSZXQ5bks5ZkdQTGNhUTN1N3ZLRmdGRlRycXJDREFqNUdvWmsyUG5SeGtSc0ZfMjRPLUxlWXdMR2thWVM2YjJITEtWY3FxcVZGQk5kby16TVJCSmZUaWlvYUVzenExT3NTSS1KSQ?oc=5",
-    "summary_en_or_original": "SAP's AI Trial Base Swells Past 110,000 as Erste Group Turns Buyer ad-hoc-news.de",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-03 10:00:00 JST",
-    "title": "悲願達成に向け好調に推移 - 週刊BCN＋",
-    "source": "週刊BCN＋",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zU2ZyVUFsTk9RbVJuLUJWQV9peFVHQkZTdXptc1RTMUZLS0JhaTgtb0E2SUp0VEt1ajQzWjhkdEVHaUlzU3ZMSGo0bjVlaXdkdFdTSFZNcVlOSTZjZWxnVGhsNWNoMVg5WHhjbldlZlhBeWhJTTJv?oc=5",
-    "summary_en_or_original": "悲願達成に向け好調に推移 週刊BCN＋",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-03 07:10:00 JST",
-    "title": "インフォシス、シンジェンタの作物保護事業におけるSAP S/4HANAへの移行を実現 - 時事ドットコム",
-    "source": "時事ドットコム",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16WDk3NnRCVncxTnZqdzhBQ01sUlFTVmxpSmo3aTFwWXlBRVJMTDlPc0h5QkdWam92Mk5fcWdqbW5ld2R2YXJPb1VGRGlaV3JjOGg2b0FSbmhSLWItbkZBLWF5eTZ0UzFxZ1hj?oc=5",
-    "summary_en_or_original": "インフォシス、シンジェンタの作物保護事業におけるSAP S/4HANAへの移行を実現 時事ドットコム",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-03 05:11:43 JST",
-    "title": "SAP SE (SAP) Could Benefit From AI Integration as Cloud Growth Accelerates, Janus Henderson Says - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFVhaHRuNEk0NlpxSGpZcEFhV2haOHh3WHFUX1VNTlZSM3BObVV3UTMtYktBV2NtRzVYMHZUV0pWUUluVmZZUkFrZ2tiZUpmQWZTVkJsOHdQOXpaUkRuMU1HYzJCQXpBU1hyWHczeFhGT2plOXhMU09jdWxBWEUxOTMxTEtFNUZVR0VXUnZuekxEQQ?oc=5",
-    "summary_en_or_original": "SAP SE (SAP) Could Benefit From AI Integration as Cloud Growth Accelerates, Janus Henderson Says Yahoo Finance",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-03 04:50:49 JST",
-    "title": "SAP Wins Fresh Buy Rating as Sector-Wide AI Jitters Expose the Gap Between Cloud Growth and Share Pr - ad-hoc-news.de",
-    "source": "ad-hoc-news.de",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN1hJWkloZUpXVlhjZFNsdEdaTHlfUmppTEprbzdGSDVrRWdIYUpWRVJ3UnpNOFNCZ0lrN3hCbXljdVVVemgwdDhLald2T1Y0U2E4aFJxcFlyRXRqS3RBb3MzTFhmVmI2Zmg1dFNGd21vY0lMc185TU0wZ1FNYXdqaGlUUFRERlRsRGtzQzdqUDlGLUFqVkhlVVZDRDNYYndyY3dPVzlETEJEMUxlUkZnYk5ITl9oQ216LU1JZE5tbElJOW8tNmlUMTRlOGlxYXZJdEljTkt3MU5YUHljd3h0bnc1bHhnSmQ5RV85QkJjU1J6SEx3UW92VWxWMDcwQQ?oc=5",
-    "summary_en_or_original": "SAP Wins Fresh Buy Rating as Sector-Wide AI Jitters Expose the Gap Between Cloud Growth and Share Pr ad-hoc-news.de",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-03 04:04:47 JST",
+    "published_jst": "2026-11-04 07:12:11 JST",
     "title": "SAP S/4HANA移行の「落とし穴」2026 - 日経クロステック",
     "source": "日経クロステック",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN2s3SDF0aG8xRlZsaWs4MndzOW83U0tBOEVzRGR1WTRfQ014eENFWVdDQ1FiZVRIeEJwM2x0UnpLV202ZTNZcjRwaFhMU0xmQUxWd2FJU2l4YS1FS21z?oc=5",
@@ -120,11 +96,43 @@
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-03 01:56:15 JST",
-    "title": "Parloa's Agent Management Platform now sold as an SAP Solution Extension for agentic customer interactions - Directors Club News -",
-    "source": "Directors Club News -",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSzhNWHh6eTJILVVJM0tDZTlqMzNFY1dNd3NsVGViR2xudzdwVjV0Uy1uWjJqeEtTRVJSenJnX2x0d2RiWkV5S2NkY2RmajNUNjFraGxha21zMk95dFpBNHFTYkwtc0Q5N0swQTF4d0FibU1hY1F5OVhKRlVKSkI4NDk2TWhWY19oc1NpV1AzeU15UFQxN0xNeGh2YUZXNDdxWmp5a1lvY05JTjZCQjNkMDl0UkhrRnMwYUN2VXBhR3o4Uk9OMjVDYTQ3UEZfNzg5emZvM3pQZWZDcUt5?oc=5",
-    "summary_en_or_original": "Parloa's Agent Management Platform now sold as an SAP Solution Extension for agentic customer interactions Directors Club News -",
+    "published_jst": "2026-11-04 06:00:00 JST",
+    "title": "SAPが自律型エンタープライズのビジョンを前進--「AIが業務を学ぶ段階から、実行する段階へ」 - ZDNET Japan",
+    "source": "ZDNET Japan",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GQ1BDVC1WQnllNGRFZE5mSFVIcm1OQnhaUHZENE1UTVY5MjRkOWt5UVYyVkZXQXZHcUM4TWpMMHJkWGRpcmFsNk9jVC1CVXRaOW1B?oc=5",
+    "summary_en_or_original": "SAPが自律型エンタープライズのビジョンを前進--「AIが業務を学ぶ段階から、実行する段階へ」 ZDNET Japan",
+    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  },
+  {
+    "published_jst": "2026-11-04 05:00:00 JST",
+    "title": "壊れていない基幹システムをなぜ「SAP」へ？ 創業80年メーカーの決断：見えない実際原価、遅れる月次集計 - TechTargetジャパン",
+    "source": "TechTargetジャパン",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wejJkbXMyeTJweTkyNXZfU2Y4N1oxZjZVWDV4emsyWmlQMDBTLW9uajVpS19rVndMUGJCeUxlcjhvcV9INV9vZW5zZl9vRG5HSmxiOXpDWFdkcXBKTW1kTXpHVk9tX2JxSkVXRTZxOFE?oc=5",
+    "summary_en_or_original": "壊れていない基幹システムをなぜ「SAP」へ？ 創業80年メーカーの決断：見えない実際原価、遅れる月次集計 TechTargetジャパン",
+    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  },
+  {
+    "published_jst": "2026-11-04 02:34:32 JST",
+    "title": "TeamViewer share plunge also weighs on SAP and Nemetschek - www.marketscreener.com",
+    "source": "www.marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2V5dEg0bmQ4MlNjLUpMZXRFeXdOOVBCU3oxZ2JCbW1uTzFPRU14V3VLeUdOOWxpTTViQllDLWd2UDdWbGRTejFVQ1BSNjhPMFg0YzJqVkVMczR4cjNSMkxZdUU4V1YzVDRzenVPbUdtUU9wcFBNMDN2bTRyNWtPZTdNUTM2NDNUVnJLRUQzUE10UFllNjhfV241dHJCeWlubm5iQ3R0SkVmV0UxZGpV?oc=5",
+    "summary_en_or_original": "TeamViewer share plunge also weighs on SAP and Nemetschek www.marketscreener.com",
+    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  },
+  {
+    "published_jst": "2026-11-04 01:53:46 JST",
+    "title": "Salesforce Acquires Rune; Can it Win at the Tactical Edge? - The Futurum Group",
+    "source": "The Futurum Group",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbnNvQkU0LVJtc3AwOGVPSjFlTWpkc3Q4OVBBby1ZelVaVWpXR3NRZ2YyNHI2NTg1S2c4NXYteUR1aHlpWXBFLXV5d1dYYmd6TjJNRDBXcGxydDRnMTRuQmdMQ0htMUt3N21GVWdhd1dXTEFVVVh4cDVHRlJWeHFteFJLc2hBYlIyMXN4OFM1eV9rZy1sOEE?oc=5",
+    "summary_en_or_original": "Salesforce Acquires Rune; Can it Win at the Tactical Edge? The Futurum Group",
+    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+  },
+  {
+    "published_jst": "2026-11-04 00:15:33 JST",
+    "title": "世界標準の『型』と『データの5S』で経営を変える モルテン、AI時代へ向けERP刷新｜日本経済新聞 電子版特集(PR) - ps.nikkei.com",
+    "source": "ps.nikkei.com",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yS2pNWGNJcW1qMlR5RzdmQUE1X0RwaU9UUEgybnFRNVl5QW9RejJra29felVuYUtRMlprNXpPYzJSQU9vNlVLeWJMdXJQYTBmbWVvbmQxY1M?oc=5",
+    "summary_en_or_original": "世界標準の『型』と『データの5S』で経営を変える モルテン、AI時代へ向けERP刷新｜日本経済新聞 電子版特集(PR) ps.nikkei.com",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   }
 ]
