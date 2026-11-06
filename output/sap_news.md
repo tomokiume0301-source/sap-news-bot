@@ -1,122 +1,185 @@
-# SAPニュースまとめ（2026-11-04分 / JST基準）
+# SAPニュースまとめ（2026-11-05分 / JST基準）
 
-- 抽出件数: 17件
+- 抽出件数: 26件
 
-## 1. SAP® automation trends for 2027: AI, migration, and BTP insights - Precisely
+## 1. SAP's AI Pitch Meets a Hard Benchmark: 80% Accuracy Won't Cut It - ad-hoc-news.de
 
-- 公開日時: 2026-11-04 23:41:48 JST
-- 媒体: Precisely
-- URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzc4RHAzdlFCLUVPNWFsc3plY2ItanNrMm5jLVZlNW5QcnV2TjN6YUpGVHBYemdMUHhDNll4WUxjak5OSlUtd0Y1N3RCYjJLbzY2MTVUa1c4TmNSSzJ1cHNBRTZNNm04M21IYkVJbmYybDEyeEhfTHh1Z05xVFBITEg3U2FLMG1uWnhiMkhrQlhyelpYbDVvcU1vd1NoR3gwejMteW8wWnRtanJfQl9wcw?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
-
-## 2. New Research from Precisely and ASUG Reveals SAP Modernization Momentum as AI Adoption Accelerates and Migration Challenges Intensify | Corporate - EQS News
-
-- 公開日時: 2026-11-04 23:07:42 JST
-- 媒体: EQS News
-- URL: https://news.google.com/rss/articles/CBMiuAJBVV95cUxOdjJTVnVPR29vNDQ5ZkZ1alNBM2VlR0xzS3gyUFZhbnFqSDJRaWUtaFRiMEhLN3VXcVAzblpUNElyVkZXN1ItcHUzdmV3NzI2RUlpVllOMlZnc2ZFallFcUFEUDhYLUstUmtwN1hxNXRONFBKYy00elBXanhqRWMtRk9sX2FGcVdxczZmd0FlSUdZcUpmNDZjM2xPYV9LNGV6NE1QOEFBN1pFMXhlWnlyTzRNT0tnTnNYbnBmdE1rbFM4SnZJUWU5Qi1aYm1NbjdUb1k2WGJVUGpyQTZDUXB1bmVzX1B6QXRvRWY0VU1qY0xMYnFEWHJGU1p4dTg3bTEtM1dyY1M5RlFNazA5LWZzY1pqcGN1V1ZnZ2xWNEo1cFU1RnA2eXNCb1NzeEgzX2doSDdmeHkzaWg?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
-
-## 3. From AI to Analytics: Where SAP Fieldglass Stands Out in the 2026 SIA VMS Landscape
-
-- 公開日時: 2026-11-04 22:15:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/
-- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
-
-## 4. New SAP Incentive Management, Starter Edition, Now Available
-
-- 公開日時: 2026-11-04 21:15:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/
-- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
-
-## 5. SAP stock gains as Dutch defense selects sovereign cloud - ad-hoc-news.de
-
-- 公開日時: 2026-11-04 19:19:19 JST
+- 公開日時: 2026-11-05 22:51:19 JST
 - 媒体: ad-hoc-news.de
-- URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREFEVmQyTDJ1b05QTTQ1LUwxcHZCN1doMGplSE5vYkNqZS1zeHNldi1YU0VTQXFzVGpldUtwWjN5U2F1UUNpLUI1MDFUSVlTZGVvLWx4UHRHNXpWR3RVcWFETFJQOGJwdE5FdVp5eURxWmJVbjloRE5tYVRHUDRDRHJCV0RzVUo0LWotZUdQSlF2YVNaX1dBYi0tNGFCTWxDN2t2dDNFNnJ4cEVXcE15Q1I0LW5pQThBN280?oc=5
+- URL: https://news.google.com/rss/articles/CBMizwFBVV95cUxPT3ltM0IyRm44MWV5TWtDcG9tQXRMZFVndmZHRG5zTUhQeHdHbWxlN2NYdm9PY0kxbm80TVdSS2R4bmt5LWhJWjQ3c1pkNjVYQ0tSZDhFTVJtcE9abVAyN3ZXMXBoNUduVUFrUHpPYlVzcEI0dXVuT3lmLUUwMWpBLVlBNGtnOXNDZ0RXWFA4R1NpOE84cW50NnpXajNlZmNydzNYaTVqU2JaOE9aWTY4enozQUgzRXRvZm0zc3E3TTBva1hLZU9yLXUzMG5sZ2s?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 6. SAP SE (SAP) - What Are Analysts Thinking About This Stock? - MarketBeat
+## 2. SAP Business One: 30 Years of Growing Together - SAP News Center
 
-- 公開日時: 2026-11-04 18:50:04 JST
-- 媒体: MarketBeat
-- URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxONzlTVkktSXRWdG9NRFo5UUY1dGlsNk1tRm5INHUtc1lfdnF4d3pvMGhPelhvbWpMMVR6MWFmM05rLWJnVGxOcmkydEI0WkpmdTNja1lxSW9SR19OWDZMZ3RfTmgycWdJS05YWWtHZVUxaWdja2pfWl9QRVpkMDRmZzZDZVBmOXExOTFjZmUzbkVldkg0eEptQS1XeXVWbE1xeTh1WTlvOVNZWnlaQ2JTdldkd2NUS3g0eHc?oc=5
+- 公開日時: 2026-11-05 21:16:15 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMigAFBVV95cUxQQlJ1emU3bGF0WUpDYUtiYnNIUFRTNkc3c1E4YkdjSTYzOEdaRXJDbXBuaW5uVHZwX0pwdTJLWU1ENWRpLU81ZUpCNnFUS1RNWDFCNUdtMWg1MXFSWG5EbTJaMWpwb2VtUHM5dktqVUlnNldYdURIMHc2cVBoeGlIeg?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 7. 顧客の要求時期に間に合わせるため、河間工場の残り空間に約1,510億円を投じSAP能力を先に確保──「イビデン」のインタビューレポートを配信｜次世代型の株式リサーチ「ENVALITH（エンヴァリス）」 - PR TIMES
+## 3. SAP Business One: 30 Years of Growing Together
 
-- 公開日時: 2026-11-04 18:43:39 JST
-- 媒体: PR TIMES
-- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQ1kzTkVrVmJoZnQycVZXTXF3RVdTeGZaUVNtV3l4a0NLTXNhTEVYNHEtT0RRekZYYldxVEJwalNNMmVRcGF0aF9HU2cxUWNnekNob1pVSmx5NnZqY1NYVDhMczNXazdHanc?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
-
-## 8. Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness
-
-- 公開日時: 2026-11-04 17:00:00 JST
+- 公開日時: 2026-11-05 21:15:00 JST
 - 媒体: news.sap.com
-- URL: https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/
+- URL: https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 9. SAP TechEd in 2026:SAP tells developers “You can build the autonomous enterprise” - Cyprus Shipping News
+## 4. 『Fit to Standardを活かす拡張策、SAP標準と自社の強みをどう両立する？』というテーマのウェビナーを開催 - 時事ドットコム
 
-- 公開日時: 2026-11-04 12:47:29 JST
-- 媒体: Cyprus Shipping News
-- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2tWM1I1bmFsUUhTZG5PYVdKT2J0NlNQRVowQUdlV1FReHNXSFluREZ1aHZFWEFjc09LZU51cF9YbGNHYmFVNGEyTWx5ekJiV0VKZ1RDZ0pzVmlySjRFX0ZtQUZNU1ZOOVI3T3hsRXQ4VHBTNTJXWVpKOXViVElaNjFhY2hnQkRzT0s3VjZCdm1KNG02N1dOOUZHejVxbDVuSlRZdVh5RElub0RSbmpHemNlNHhwVWR2SFFOS2NB?oc=5
+- 公開日時: 2026-11-05 21:10:00 JST
+- 媒体: 時事ドットコム
+- URL: https://news.google.com/rss/articles/CBMia0FVX3lxTE55Qm1teGg2UHIxMFBLNFFIY25xYXlOUWxzWGNyOUl1UTNCM0Z5V2tsU2ZCM3djd01DYWRra3JoV3luaWl5N2otVE5aTnVjbHpkUnZRMHRsWmRpaDJ6SzdFLVk2bVBJOEVPaDR3?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 10. 京急電鉄、SAP S/4HANAのマスタ登録・更新業務をkintoneで効率化 - ITmedia
+## 5. SAP's Pipeline Problem: Signed Contracts and Shipped Products Still Await Their Revenue Test - ad-hoc-news.de
 
-- 公開日時: 2026-11-04 10:00:00 JST
-- 媒体: ITmedia
-- URL: https://news.google.com/rss/articles/CBMickFVX3lxTE96clZiRVZYcGpuSk10dGVqNGU4RjBwM25WdFloQUdXUkM0TDFUeUZqMU56UG5jdHBzUXVrSUdwbjFEU1JEVXdlZzBORVVzaWh0bmQ0UXNOTlBaZTJScUszLTRGbmdKNUcyM3NUYzRnVWFRZw?oc=5
+- 公開日時: 2026-11-05 21:01:46 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdEZVMVEzZ00xbEo5aDdfa2QxYVFzekUzRVEwYWd4MmhiYnJ4YThqV3k1bXlrOEprNE5sYkFQcURuVzc1eW00OU1rY3Y4UXZidDN2bnJfSi1FREdlc19yRDVYSVhrY1NwcmM2ZzdjRmJqOXZrS0c3RHJKaXVIMVZMVWZqMFlieHJKRUtINnBjNW1JbElJbFZwSWVYbWJfeDRucXBUWDVPN0Q2VllyeUktZW9NYzJ6XzRKUXEyN0ExbUFWNUhpMi1sOFVIa2tGWG1ydGozclF0dVlRa0NVS0xrcGx3ak5Ub2UzWDhKR05TTTFaUUkxZlE?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 11. SAP Stocks Decline as Sovereign AI Faces a Margin Test - GuruFocus
+## 6. NTT DATA earns recognition from SAP as client-adopted AI agents create real business impact - Yahoo Finance
 
-- 公開日時: 2026-11-04 09:35:20 JST
-- 媒体: GuruFocus
-- URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxNS1d1bWpJbnhYaGd0UmNvYl9OLVJYckVoeFA4TGxXbzFKZTRXbnlBR1dab21wdUREOWE2cWw1NHcyLWdINHNROGtCM1hrbmV5c0N6RmFwLXhoSms5ejZCS2M3ME4xeVBGclBxS2k1WHZsc2JMcVdlekhaRlc2UUVOZlpxYjJBZ0VENVRzcUtxbm1pQllIN2dCSQ?oc=5
+- 公開日時: 2026-11-05 20:30:00 JST
+- 媒体: Yahoo Finance
+- URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxQYUFyUzBScTk3Snlrdnd3Q2VWeGxFeVlGeDVZcEd2S2JlU09zb3V2d2ZqUjlCM3ZJdDBIdVhsREtGbDBNQWFkTm43SHI5WExJU0VkTEFCbzNQNzd5SFpLVWh0cHlpbms2cDM2U2pqTHZhVWRULXNlM2ZWQVFVTEU5QjhnTVpyNUEzck5ud3hsdndYZW5QMUNyMldR?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 12. SAP S/4HANA移行の「落とし穴」2026 - 日経クロステック
+## 7. Three Skills That Define the New Entry-Level Job in the AI Era
 
-- 公開日時: 2026-11-04 07:12:11 JST
-- 媒体: 日経クロステック
-- URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN2s3SDF0aG8xRlZsaWs4MndzOW83U0tBOEVzRGR1WTRfQ014eENFWVdDQ1FiZVRIeEJwM2x0UnpLV202ZTNZcjRwaFhMU0xmQUxWd2FJU2l4YS1FS21z?oc=5
+- 公開日時: 2026-11-05 20:15:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era/
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 13. SAPが自律型エンタープライズのビジョンを前進--「AIが業務を学ぶ段階から、実行する段階へ」 - ZDNET Japan
+## 8. SAP stock in focus after ComfortDelGro system rollout - ad-hoc-news.de
 
-- 公開日時: 2026-11-04 06:00:00 JST
+- 公開日時: 2026-11-05 20:00:34 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmJkNGNGWjNua2Y4enpuRXdTcUJlaFFIRXdtWDlqZzFzcWdSUkExQjN1WFpCQjlXS1VLc1lmcE1pcGp6c3BBVDhxOTdfcFpjOTk5OTlldm9HVy1fLTNhRGNSOC1VY1V0dXdvUUxycXZic1pNbVpYNGs5QzJxb1IyRVVqR3lwT2FHQklxNVgzd2RNdVR2dzFHSWlqU0lkZmVqY1ZoSGJqTDRCOWoyNzNxYWVXX3Y2Skk?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 9. SAP Partners: Qualtrics and Databricks 2.0 - E3-Magazin
+
+- 公開日時: 2026-11-05 19:49:06 JST
+- 媒体: E3-Magazin
+- URL: https://news.google.com/rss/articles/CBMia0FVX3lxTFB0YU00MVp3NHk2MlFpdHVvSGZxemdEM280RTlkYl9FRG5rdkFmLWI2eS1ma1hOdk5oOUpYRW9UTnZHZXpKQ3R5NlpuTzI4RnNjaGFOaDVrNlhSUE1YNlRqaXhVbzk2U090cWRz?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 10. SAP's Sovereign Cloud Ambitions Carry a 2028 Deadline — and a €2 Billion Efficiency Bet - ad-hoc-news.de
+
+- 公開日時: 2026-11-05 19:30:52 JST
+- 媒体: ad-hoc-news.de
+- URL: https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTjd3Y1pKdmMzZmJJdURZVTVIVUZXUERfX19tSGNrNU81cEI0V0paQ09QQ0t2NXY2X0Z1em4wbjNsZVhPZFh5VEk2bmRFUThoSWRwTGxXbFFVX0E1YmlFX3Y2WWNBVUsyenlwZXhpajBlbEpHTjlqV09hekROV0RZNmxnMW9QSnNQRHNRcHBUN3Rod1NadDVvNHlRaVo1dVJ6c2ZRdTF5VXJxWnp6MXNxNVM0OFlsQjY2b0N2SzJXckFacnBxb1ZLZS1XcVRDRV8tRkw4ZTdZM1MzNXotOFpTZkNvbjNxaUJKWDl0cQ?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 11. SAP promises to open out data flows in both directions - The Register
+
+- 公開日時: 2026-11-05 19:15:00 JST
+- 媒体: The Register
+- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxPWlR1YTQyeVVSOGVILU9wSXp1T0YwTTdfaURta0F2UkpDS2pYb0o0NFlRcUFiMkh4d1R2azl3eWZaTVF6OFFxZk5vc1dwTUgwVnFWRHBwUkFkWUx0SGhfSEtsanI1VkxSWFpVaklfNjV6VFpiaW40eV9vajJJTmR0YnM0NndoUkcxUFFXc2wwZDhoVi1SOHhFSVZMUjgtWTEyblRKLTh5UzNhR290MUNZ?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 12. コンカー・ニーズウェル共催 無料オンラインセミナー「月次決算の効率化につながる経費精算DX」を開催 - PR TIMES
+
+- 公開日時: 2026-11-05 15:40:01 JST
+- 媒体: PR TIMES
+- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1wRHlPczk0XzFHYm8tcEVuUzZ5NDZMR2xCVUpZdG5zNVZvV1IyWlZJMjFHa1J1OHJSM1RXa0I1dVdGYldpZ0J0NFdmMUF6WTQ4US1LNkZzSnZwenlKU2l4YzZKS1FaeVI0LXc?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 13. Delhi High Court Refuses To Stay Order Directing SAP India To Restore Software Support Services To Nayara ... - LiveLawBiz
+
+- 公開日時: 2026-11-05 14:50:44 JST
+- 媒体: LiveLawBiz
+- URL: https://news.google.com/rss/articles/CBMikwJBVV95cUxPU1F2M3h4andWOUcxNzlOZ0lWX3RpMXdGY3dXNU44M2piNEt2d2phZGdLNFkxbGlVR281Ulh0YlFwdlh3VzBiZWNaaXpOV0pOSm5kR0I5eG9STUxXbGszbFpQZDR5cDM5WXAyWEFvZkUtMnFOSnB1TlBrQndoTzZ1cldoeXROSzZ4cjBXTjNKSDBManpzQ1ljcEpxSXRJOUZaMXkwVjRDaW5sbTZHMVZiYWFfRDAwcVRGcUI3NUU5NHliZ2oxYV9qNUFUb2Z6RVhLeVFJejJ6MEpsdlVoRnhaenF2Rm5BdUo5djdmY1lwUjRjZDZFdllPY1Qyc3oxLVBqb0FqaHU3WUExWEdGZWhLb3drRdIBmAJBVV95cUxQclY0WGNjMkExM281ODFsUmpjSFVaS1JqUUNRcVdESnpTaktxQ2R2b0M3LVYybzlNVS1TczROQ1hOYkRzRjFqMlBwM1NncEhEZzZKdnAxZ0ZRSzZjc2dlRkYxdkJkZFJQNExEajdEUjNDWlhFOENxQjBTUGNSVDd0aUswc2V5R1lfYjJOQXJIQjN3b1BIY2VwaEd6UFByUlF0Vi03MFUzWmx4QmphdVFDSzBmUnd1RVNWWTh3S3dXUVRnSmc3QkgxVkZfci1aLTdXcDRQaV9FbEI4YmNscVlWc2lLMnFOZVFwSHM5ZVJvSllmMnMzSmVaVlU4WWdySENaTHB0YzlDcGRXd25LUHI2Yjl0WE9Rdm4y?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 14. 「SAPの変革は厳しくも100％正しい決断」--クラインCEOが掲げる自律型企業 - Yahoo!ニュース
+
+- 公開日時: 2026-11-05 13:14:00 JST
+- 媒体: Yahoo!ニュース
+- URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE51V2llNXI1RTJlM1JfRkUzcFlpVDJqQzZOd0hJc1JYdlhPMWd5NmNUT0hzMUlTbUVSbVdqRTZfYWQ4ZWJxZ1MxWTM5d0ltTjd0bVNKbUVybzZRQ1dfRHNYUFkyOE9yQVZSaU9GcjBqZWt4UzU4OWU4NlM3aWVFTFk?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 15. 「SAPの変革は厳しくも100％正しい決断」--クラインCEOが掲げる自律型企業 - ZDNET Japan
+
+- 公開日時: 2026-11-05 13:14:00 JST
 - 媒体: ZDNET Japan
-- URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GQ1BDVC1WQnllNGRFZE5mSFVIcm1OQnhaUHZENE1UTVY5MjRkOWt5UVYyVkZXQXZHcUM4TWpMMHJkWGRpcmFsNk9jVC1CVXRaOW1B?oc=5
+- URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vR2hUa1VVWVdMOGRwWUd5VHdGVGhGb0xOVHNNaHRSYnFCX0FiNEpUVERXQmI5TkVYTXpqaWxXVHhweTZGR0ZWZ2VQZUVEYUU5VWN5QzF3?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 14. 壊れていない基幹システムをなぜ「SAP」へ？ 創業80年メーカーの決断：見えない実際原価、遅れる月次集計 - TechTargetジャパン
+## 16. 「SAPの変革は厳しくも100％正しい決断」--クラインCEOが掲げる自律型企業 - ZDNET Japan
 
-- 公開日時: 2026-11-04 05:00:00 JST
+- 公開日時: 2026-11-05 13:14:00 JST
+- 媒体: ZDNET Japan
+- URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkbkpUYWllQzZQb3pRTDVBTzlaMUJLenlkOG5zeE1yMzF6Rk5NV0JKRlViTkZvTVRvN1hKOVJqR25SbUkwZmlFbzhaS2dkdzdFWDRF?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 17. 顧客の要求時期に間に合わせるため、河間工場の残り空間に約1,510億円を投じSAP能力を先に確保──「イビデン」のイン - ニコニコニュース
+
+- 公開日時: 2026-11-05 09:15:43 JST
+- 媒体: ニコニコニュース
+- URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkMFJySVNzaUlQTXo3THFoM0tMSUYzUi1INFhZaW5zcmdMMHUtVXh3dXAyV0Raem1vV0R3Y3dfRnozZWkzY3htcFZDYnlEQ3Z2LWRXVmw2TXY0TnBFQnEyZjg2RHlMTVNK?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 18. 『Fit to Standardを活かす拡張策、SAP標準と自社の強みをどう両立する？』というテーマのウェビナーを開催 - PR TIMES
+
+- 公開日時: 2026-11-05 09:00:01 JST
+- 媒体: PR TIMES
+- URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE8yNG8wYUVVU1lYdU5heDZ6NmxrTkh1bkg4NXN3VTdJZXNNVVk2QTFOVHA2bFZEWkhiOG13ajBoTWxNcnRuTmlzdlU3QmtwQkRab2x1OW1welJKR2I5QzhUclhPenB2MWJ6bUE?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 19. Is It Too Late to Buy SAP SE (SAP) After 4.2% Rally? GF Value Sa - GuruFocus
+
+- 公開日時: 2026-11-05 07:46:18 JST
+- 媒体: GuruFocus
+- URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXlxVkhvWm9jTmowMEhXaVJNdndEUG9rdmJ4SkpyQ3piaUI0dDN6VWVPVE10TmRiYWN2UEIzaWRCcVp3RkhjU3ZYRTVEeHFIWVFiVXBudHliVTNzZlBHRXQwQUpnaGVGcVVlNnZCdktoQWhGYWI3VC1hYnBac2tHQXh6RjQ5MDI3QzZocVQ4ZHNSVVdOZXhyR1hiTks4MHdZaGZ0ajYwbEVMME9vOWxKLWlB?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 20. SAP Connect 2026, Part 1 of 2: SAP puts the autonomous enterprise to work, from Joule Work and SAP Pay to TechWolf and a space station - iTWire
+
+- 公開日時: 2026-11-05 06:39:02 JST
+- 媒体: iTWire
+- URL: https://news.google.com/rss/articles/CBMiggJBVV95cUxPNlI3VXc2WXQzSHM2eEI1U3hqUVZIQ3FOQ2RrcG85RlRGUmVsbGNQeGRaVjNkRFNlOGdRazVOSFJfTWRDM043NkJVLUNYbWJlTjQ4RUZVLUs5STdWZkxLUVVyb3dWOVFBZnExSEIwUm9FNWFvN2d3UVhPa3BOYUh3WExRblQ2MkU4OEZBdncydXJZUGlIUlNIdnlLYVloQlFpbWFVd1BuRWhONzBzMFZtTlcwaF9NbjROdk1COU9TS083WG9MOURjeWUyN05CdS14RHBSNW1GZGZKUEg3c3l6VEZTNTdENHJvVWh5N25FS3V2QXFMbjc0Si05ZTA0eEdxU0E?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 21. SAP Connect 2026, Part 2 of 2: is SAP's autonomous enterprise really "cold and soulless", as Workday claims? - iTWire
+
+- 公開日時: 2026-11-05 06:39:02 JST
+- 媒体: iTWire
+- URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa0hDZzE1bjR2T3BOQ2FUTzh5RVZLMlFuWFJ1SkdCazZjejZ1MDNIVm0zMUFtRERvd3NrbmlKODhDQWFzUWZ1TXQwUHE4SnBWY2hwb044aGNzRjNWZmtscGZPcEVxQks1R2FjejRvNVhMU19jd2FVS09LU2M2Q0E5N01hNkstTWRycDc4MTdiTC1aNHhrMlA3TjNqMEtORXA2U2E3WDFTa0ZuMEZ4bW9keDlNaWhYZFpydlZrQWdLTFU2YVlwLXE2UEY2WTRuM2JsaWtaZkl0UXB2dw?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 22. Top 5 Enterprise Software Reviews - Small Business Trends
+
+- 公開日時: 2026-11-05 06:31:00 JST
+- 媒体: Small Business Trends
+- URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sNE95N1JpX2R3SGRNY3k0YVlPZTR3SV9ZSFExakR1Ni1IQ3M3QXE1QUo1R0RDbXBadU5tSUYxWml1cnZrUjNMVk1icEE4dkhNUlE0NHhQTzlYcEJIeWYza1lyNkJ1Zw?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 23. SAPの負荷増に苦しむZeissが「リアルタイム分析」「安定運用」を両立させた道：年間3億円の費用削減 - TechTargetジャパン
+
+- 公開日時: 2026-11-05 05:00:00 JST
 - 媒体: TechTargetジャパン
-- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE0wejJkbXMyeTJweTkyNXZfU2Y4N1oxZjZVWDV4emsyWmlQMDBTLW9uajVpS19rVndMUGJCeUxlcjhvcV9INV9vZW5zZl9vRG5HSmxiOXpDWFdkcXBKTW1kTXpHVk9tX2JxSkVXRTZxOFE?oc=5
+- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE54czhoOG5hWHVlbFVFdUdzaWhhR0hyMWpFaThRMkZKaDBmZUdDMWZZdy1uTlFwQ29CWERfbW5KaGFxdUNrdnQwZnFETWN6a3ZTNVFYNXpXSWQtRG1ET1drMHdHS3JiaFBjLW5WRDZfQk4?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 15. TeamViewer share plunge also weighs on SAP and Nemetschek - www.marketscreener.com
+## 24. SAP Stocks Rise 4.1% as Sovereign AI Launch Faces Its First Commercial Test - GuruFocus
 
-- 公開日時: 2026-11-04 02:34:32 JST
-- 媒体: www.marketscreener.com
-- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2V5dEg0bmQ4MlNjLUpMZXRFeXdOOVBCU3oxZ2JCbW1uTzFPRU14V3VLeUdOOWxpTTViQllDLWd2UDdWbGRTejFVQ1BSNjhPMFg0YzJqVkVMczR4cjNSMkxZdUU4V1YzVDRzenVPbUdtUU9wcFBNMDN2bTRyNWtPZTdNUTM2NDNUVnJLRUQzUE10UFllNjhfV241dHJCeWlubm5iQ3R0SkVmV0UxZGpV?oc=5
+- 公開日時: 2026-11-05 04:05:20 JST
+- 媒体: GuruFocus
+- URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFdUVXFEMG9uYjJsV1pGM2tIVXktOWxDTzFzRVBRcG5LUEU3anY1ZmdBNGRsbjQwWFR4UkxiNDRpd1ZDUE43aUo1UW53aXhQVzNOR1plS2t2aTRQYTl6c2JnYXJpMWpBbzVvZFRMdXB0RlcwMHZ0czJZSGlrVDhSMi15UGVkSVFILURTS2VMdzkwMjVNQ1J1eDRwaXZmeG1URU93QzRiMTF3eDdQWGVJVWNn?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 16. Salesforce Acquires Rune; Can it Win at the Tactical Edge? - The Futurum Group
+## 25. Inriver Achieves SAP Spotlight+ Partner Tier, as PIM becomes central to success in AI-Driven Commerce - markets.businessinsider.com
 
-- 公開日時: 2026-11-04 01:53:46 JST
-- 媒体: The Futurum Group
-- URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxNbnNvQkU0LVJtc3AwOGVPSjFlTWpkc3Q4OVBBby1ZelVaVWpXR3NRZ2YyNHI2NTg1S2c4NXYteUR1aHlpWXBFLXV5d1dYYmd6TjJNRDBXcGxydDRnMTRuQmdMQ0htMUt3N21GVWdhd1dXTEFVVVh4cDVHRlJWeHFteFJLc2hBYlIyMXN4OFM1eV9rZy1sOEE?oc=5
+- 公開日時: 2026-11-05 00:57:28 JST
+- 媒体: markets.businessinsider.com
+- URL: https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMUE2a2RONW81c2RlTXZTb2tLMkdla3RNaXFZOXRsYVdzMUQ5TkdHVndhWUE1R1JlN0hFdE5nQlZtWldiTjYtT2xFU2NxUVprNFh6WkZWOV9sQU56QmR3V2pxZFlMRTBhVDVKODVSVVdkR1ItQ1A3LWwwNlFacF9kcVlEdWVjYy1pQ1JPd1lLdzR5TVNSMHRQZllSbDRjS3JyR051UWhheXZ3eEhIRUswY25wcmduREo3TzVlbFVEakkza3V4YmZxUUpWdG5Oc0l0dzI5Ul9CUnY2T0Q1d05hanE5SzRXWXNxZERyT2NFRQ?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 17. 世界標準の『型』と『データの5S』で経営を変える モルテン、AI時代へ向けERP刷新｜日本経済新聞 電子版特集(PR) - ps.nikkei.com
+## 26. SAP SE Stock (SAP) Moved Up by 4.62% on Nov 4: Facts Behind the Movement - TradingKey
 
-- 公開日時: 2026-11-04 00:15:33 JST
-- 媒体: ps.nikkei.com
-- URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yS2pNWGNJcW1qMlR5RzdmQUE1X0RwaU9UUEgybnFRNVl5QW9RejJra29felVuYUtRMlprNXpPYzJSQU9vNlVLeWJMdXJQYTBmbWVvbmQxY1M?oc=5
+- 公開日時: 2026-11-05 00:15:58 JST
+- 媒体: TradingKey
+- URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxOTzJaZXFfdXdJZkJLc29leWZYMVE4aXIxX2wzSmN5QWY2ckY1WDdmbmJTTWF5TVFDQmFkZU1QUHVNd0J3YldMSHl4NmVDS1M4SDVWM01oTzBseGRiNEluNW84b0FBNDB4Y3JiTV8xWjBXSFlTbXhGMDV6OVRrUWF1UUZ0cnBDYjZPbEE?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
