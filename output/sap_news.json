@@ -1,70 +1,22 @@
 [
   {
-    "published_jst": "2026-11-21 21:05:53 JST",
-    "title": "Business people talking in office - SAP News Center",
-    "source": "SAP News Center",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUZYN3JmZFJvNVgtMUlzY25aaFM2R2dEOWkta0dLYVFfcklaVDd6VDZoTHhBRDM0RGxXbmE4LWoxNmpkaWlPcWJVMGRHaTdNWWVSWUYyOHFpd3N1eHI1MlNiYUkyZDJMRHEyTTV2MUpacW1wRk5xdkgxazJ1S0lrTnN6NVFXTnpVZkFjNzZuMU81MWR1b0xfZm5WcjZWOXZGSWItQmZ6dTVuM212ZjFzVnFWSEwzNDBDU2ZTMkdYRHVLYjl1R2N2UjRudVdGOWxIbEF5cQ?oc=5",
-    "summary_en_or_original": "Business people talking in office SAP News Center",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-21 21:05:53 JST",
-    "title": "名称未設定 1 - SAP News Center",
-    "source": "SAP News Center",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3JfejhzMUZyaWFneTIyaUpxOFNlRzhNTGU5T1RSaUFSVVhxd2l5UGpTZy1sUnRwOHpSSG1udmpYMkp5dWluUDl2OUl3RGo5N2lZWEpEa3J4V1FRdFg3SWpCWTJwa2xRUWJLY1hwYjlxakhXbnVfeW53bU81Y0hVQnRGWnd1N1dZYVdZdDQ2X1lrZDQ?oc=5",
-    "summary_en_or_original": "名称未設定 1 SAP News Center",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-21 21:05:53 JST",
-    "title": "Portrait of a Happy Successful Businesswoman Using Laptop Comput - SAP News Center",
-    "source": "SAP News Center",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLWlod2NIMDgtTDhVaWxpVUZscG1oOWpNR0RmbnV5SFVYVlBfQVFua1Jid19IeFN6aDE3Q2h5cVZmN1lCTHJKOHM4QTBUZGZEMVpYV0dTeDc1TjZ2OXhDMmFJdF9heExYTlFOWjBQcWJkbk1PSEk4TlY5bWQzZDVEeHhQQlBTdlJuWjBzRkJwMU8xd3QxaTJ3U05nUUNZM2VHaHRMbVVyUWRGclN6QXdHMDhyMnNsRDRsR3lzbFNkLU1rYU5YZFlpMzFIZ2pvZ0stRFZEdHduT3JiWXFCMGdkS1V6N19iNFhjSWU1dHRjdS10OF9DazJyb1hxbXgxYWFw?oc=5",
-    "summary_en_or_original": "Portrait of a Happy Successful Businesswoman Using Laptop Comput SAP News Center",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-21 21:05:52 JST",
-    "title": "Successful entrepreneur standing in his company, using digital tablet - SAP News Center",
-    "source": "SAP News Center",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTm9TZzBGa2cxY05ZNmxybTh0ck9LOTA2OUN0SE42WUdtMmtsM0o2blllUThsOEU0d0xtMVFFUEMxZWxpYVU0V1A5cmd2dzNEb0s4alVsMmp0ZXVqa1FhM1M0Nkl5TC0yMTFqSGdPd0ZSZzZNY3A0YnNXYVgzSElJdzdJYnNnX0loLTVLRUIzUURCRm15VGpCMkkyU2x5SFQtZGZkV1F2c1RIeklXWEZPRXR2Wm13OTRQaEZRVHNnNG5vcXFEYVNWUDl1cTZBeV94UHRDMlBEQVg3NW16RTZWM1prTFFWSzBCekdaM2hWMF9rbGpRWUlkSHl1U3FpanM?oc=5",
-    "summary_en_or_original": "Successful entrepreneur standing in his company, using digital tablet SAP News Center",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-21 21:05:52 JST",
-    "title": "Businesswoman with laptop looking hopeful in modern office building - SAP News Center",
-    "source": "SAP News Center",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQalE1U0E5cEIxR253Ym5fNEpocW5RSTdBbWl0ME9PRHRTYzc2RGJPVERYRnd1SVItbGczQTNiX08zSG51aV8xb212SUxIZHZVSW5ubmZLS2k2Qmpzb0pzUHhNaGtLbk1HUEFyYmRidXJscTNmNGpNOGctclh4T1A3dW50WDdxdGgwMkxsNF91RnV2TDZFRlVLakJRNklhbGxUVnl1ME9Yc2xuQXh1Y0QwSzV0M2hNeFRhX1dEM3dUSzlhbHVuQU43WmEyNURET2tDWHdWR0dCOWF1b001MGkw?oc=5",
-    "summary_en_or_original": "Businesswoman with laptop looking hopeful in modern office building SAP News Center",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-21 19:20:49 JST",
-    "title": "SAP Slips 2.1% as AI Product Timelines Stretch Into 2027 - ad-hoc-news.de",
+    "published_jst": "2026-11-22 22:51:09 JST",
+    "title": "SAP Ties Joule Work Closer to Microsoft as Shares Slide in Tech Rout - ad-hoc-news.de",
     "source": "ad-hoc-news.de",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemc0UEZDMjRSZlBJNmV2WFNsRFBpSTUxNjZfbVZjV0FucTJXcjNYVXlYWEt2Y0N4bjNjbmh1RXg2U3VhVTAwemFUeFJGVlRoa3NmZzA3OHdPQWRPWHhMbFE3SV8xQk5zcjVEUGR2REN3VHJTWVVmclhuc25ncm9QRF9KazRadzJzUWFvWi1weWxrdDl2Z2VOX2RRVGpVSGI0RTY3cldMYVBzaVhIQXQ3YlA2YnN5QmdPUW9Sb2Z0R19yenB2S3c?oc=5",
-    "summary_en_or_original": "SAP Slips 2.1% as AI Product Timelines Stretch Into 2027 ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMFVjd1F2ekhnQTlPWFdqN3FPNEQ3cFBhNHJzTWtydmdnRFNiV1hIaWU5eUMzNGlKTFV0d3lWU0pXTTN2VjFQeHRheW9HV0dqdldsNWROVTJlajJQVGlvVHVDQVF2ZEJZb29GVmh1X0p5bFNQRG9qYnVieF9zTE5TWGk5dnB4Q1ZOSDFHb3BqYmxGeVllRExIUXFoQWZHMV9kZG43UkFTTFUwaC1SZWdkcjM2eFJSdG94akE2dHhDZUU4OEFJSEw2NnctMWlNdkhMeTF4bjVIQQ?oc=5",
+    "summary_en_or_original": "SAP Ties Joule Work Closer to Microsoft as Shares Slide in Tech Rout ad-hoc-news.de",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-21 15:40:59 JST",
-    "title": "SAP's AI Rollout Slips to 2027 as Cloud Margins Narrow and TechWolf Joins the Fold - ad-hoc-news.de",
-    "source": "ad-hoc-news.de",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2hQTHppdHkwd3VaOTNuZDk5XzFYQlhQa0RPcDB0cVU1c2pWRTE4ZFBTc2J6bm5zN1U3Sm1Icmp4Y0d6X21ONjloeUd0ekdlU2FKSE1zd1d5a1d3SlViRUx6RnBxUnJmdVdoU09uNnJ1SVI5U0xHYW1XRU0tMUNCdkFubDF3a0hJYTE5bnljVlNLQkdOdHJWeUoxbFhHNS1NWG9RYzlZbGhmbVFUYmJhZ3djVEtBX2ctZGRSTFpTU0JUOTFaMTBUaFRibmw1UUtBQWJyenZiLU5hSW9sOHJacGtRQTl0dW5NbFE?oc=5",
-    "summary_en_or_original": "SAP's AI Rollout Slips to 2027 as Cloud Margins Narrow and TechWolf Joins the Fold ad-hoc-news.de",
+    "published_jst": "2026-11-22 08:30:00 JST",
+    "title": "SAP NetWeaver Enterprise Portal CVE-2025-42884 JNDI Injection Added to CISA KEV: Patch Now - Rescana",
+    "source": "Rescana",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUlsVVhDWTE0VlY3UW5lQ19uN2E1UkFYZkYxd240Umt0N2VjeGV5akNZcEk5dFdGczdJRmM0TUxvMXdpR3ZMaUQ1dXlDYUZaVHdwb3ROTFF0WU42b0VhOE5UOWlyZERKVEQxOU55bFprWDRONHY4cDNoVENWUEVTMGh5WS1VNGJEZUlaRmhTdlRlaFpvbUZLOVRaSHlGYlNtZXRSVG1oTQ?oc=5",
+    "summary_en_or_original": "SAP NetWeaver Enterprise Portal CVE-2025-42884 JNDI Injection Added to CISA KEV: Patch Now Rescana",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-21 13:30:46 JST",
-    "title": "SAP SE (SAP) Stock Forecasts - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXdTeE81WG5kQ3VHaVoxZGlTdVVCdkV2UkI1M0lYS2RwSnlmZjN3d0FPb3htd2t4cWtWWUZjbWtPYVJZb2VfT2xhRm9YbVNLQl9GdkVJNkwwa1pBTlppbFBUeDFwelVDRVpIWWNlR0l0ajFVd2VwRzFjSlBNb1FTTnBCY0IxX1p4dGRaQw?oc=5",
-    "summary_en_or_original": "SAP SE (SAP) Stock Forecasts Yahoo Finance",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-21 03:04:49 JST",
+    "published_jst": "2026-11-22 06:38:56 JST",
     "title": "SAP S/4HANA移行の「落とし穴」2026 - 日経クロステック",
     "source": "日経クロステック",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN2s3SDF0aG8xRlZsaWs4MndzOW83U0tBOEVzRGR1WTRfQ014eENFWVdDQ1FiZVRIeEJwM2x0UnpLV202ZTNZcjRwaFhMU0xmQUxWd2FJU2l4YS1FS21z?oc=5",
@@ -72,19 +24,11 @@
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   },
   {
-    "published_jst": "2026-11-21 02:13:24 JST",
-    "title": "10 Top Platform-as-a-Service Companies to Know - Built In",
-    "source": "Built In",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sUUdtSnhUUi1ZVldNYVJjc2M2clhSMjlJdjBibm1nd240eTJFZ0l1d2JyWVprQjczelotcER5YlNsVWpNVFBEQk9oRnBaZU1DV3R5aG82WFcySTQ?oc=5",
-    "summary_en_or_original": "10 Top Platform-as-a-Service Companies to Know Built In",
-    "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
-  },
-  {
-    "published_jst": "2026-11-21 02:01:56 JST",
-    "title": "JPMorgan Doubles Down on SAP as AI Spending Weighs on Cloud Margins - ad-hoc-news.de",
+    "published_jst": "2026-11-22 03:41:25 JST",
+    "title": "SAP Sheds 2.1% in Global Tech Rout as CFO Flags AI Margin Drag and Customer Chief Plans Exit - ad-hoc-news.de",
     "source": "ad-hoc-news.de",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaVNaNk8xMUxOeUREdEVnT2FmSlNYQlVBbmhjOXBzWURjSnZoeHJ0YnBQTWFfTkRyZGppT3RhOTFsb2x2X05XX1FLWVlUV1FvV1l2TVpXaUZObVRiaUhPUnlVOFFhbVpCNkdwc0MzME4wamduSnZIZUdOSGljQXlneWpzZ1ZJZVlKaGY3QnZQdmlvXzdQdjFWM3hjNHoteTJtdFJRZ1pjNWpkSGJqVFRhdC04d010Y0xpcEVHYkd2UEpYcjVBSS0tOTZUcmhYZjlwQTlaa05R?oc=5",
-    "summary_en_or_original": "JPMorgan Doubles Down on SAP as AI Spending Weighs on Cloud Margins ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWmt2bnBDcnNVR2tsSkQwQTV2R184Q3A3T0FWZGllZndTYWd2V3BTUHFWZEt1dVhCZ3U2UEQzYzNPQ203Y1BPYXBVakM0ellCTUZ4RkhDNUVHWTgwamliYklObVJ3c05OYkFvRXRWZmtES19wUy1wWUx5RDFRSGlLX3dMZlFxeHU3ZFhuYjZ4SkRHcThMTlhBRzJteFBBTWFKQWR1UGNERnZsQVY0UUdwVjZuS1dfV0N4RVFvbEFZM09VVUJ4UXNXODV3SmZfSWhBSlR0RlVhajJZYW1rTlhsTDVmMTA1X3dDdVpCcjNWT3R4UjVIUHc?oc=5",
+    "summary_en_or_original": "SAP Sheds 2.1% in Global Tech Rout as CFO Flags AI Margin Drag and Customer Chief Plans Exit ad-hoc-news.de",
     "summary_ja": "要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
   }
 ]
