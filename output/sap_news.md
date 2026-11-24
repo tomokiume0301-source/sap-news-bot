@@ -1,31 +1,38 @@
-# SAPニュースまとめ（2026-11-22分 / JST基準）
+# SAPニュースまとめ（2026-11-23分 / JST基準）
 
-- 抽出件数: 4件
+- 抽出件数: 5件
 
-## 1. SAP Ties Joule Work Closer to Microsoft as Shares Slide in Tech Rout - ad-hoc-news.de
+## 1. How SAP Store Certification Turns into Customer Trust for Vertex - SAP News Center
 
-- 公開日時: 2026-11-22 22:51:09 JST
-- 媒体: ad-hoc-news.de
-- URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMFVjd1F2ekhnQTlPWFdqN3FPNEQ3cFBhNHJzTWtydmdnRFNiV1hIaWU5eUMzNGlKTFV0d3lWU0pXTTN2VjFQeHRheW9HV0dqdldsNWROVTJlajJQVGlvVHVDQVF2ZEJZb29GVmh1X0p5bFNQRG9qYnVieF9zTE5TWGk5dnB4Q1ZOSDFHb3BqYmxGeVllRExIUXFoQWZHMV9kZG43UkFTTFUwaC1SZWdkcjM2eFJSdG94akE2dHhDZUU4OEFJSEw2NnctMWlNdkhMeTF4bjVIQQ?oc=5
+- 公開日時: 2026-11-23 22:04:36 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0ZBWDNTeGxQcUZfSUJfUVRrLTZzUnU4a1FSbUxXanRwZWZtUTk2SEgxa2pVV2xjZGJMXzB4YUplVFU1WGVFckZXclRURTJWd2VkRFp1WjQyRTZLOUxERHFWclJSY0UtQkV4SVNkMUZzbFlIUUtBSU13NFJmUGctU0VMbFpUd3dwVXU0SjZaR0tMMjlCQjdFb21B?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 2. SAP NetWeaver Enterprise Portal CVE-2025-42884 JNDI Injection Added to CISA KEV: Patch Now - Rescana
+## 2. How SAP Store Certification Turns into Customer Trust for Vertex
 
-- 公開日時: 2026-11-22 08:30:00 JST
-- 媒体: Rescana
-- URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUlsVVhDWTE0VlY3UW5lQ19uN2E1UkFYZkYxd240Umt0N2VjeGV5akNZcEk5dFdGczdJRmM0TUxvMXdpR3ZMaUQ1dXlDYUZaVHdwb3ROTFF0WU42b0VhOE5UOWlyZERKVEQxOU55bFprWDRONHY4cDNoVENWUEVTMGh5WS1VNGJEZUlaRmhTdlRlaFpvbUZLOVRaSHlGYlNtZXRSVG1oTQ?oc=5
+- 公開日時: 2026-11-23 21:15:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/11/how-sap-store-certification-turns-into-customer-trust-for-vertex/
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 3. SAP S/4HANA移行の「落とし穴」2026 - 日経クロステック
+## 3. Delhi High Court directs SAP India to continue software support for Nayara Energy despite EU sanctions - Prop News Time
 
-- 公開日時: 2026-11-22 06:38:56 JST
-- 媒体: 日経クロステック
-- URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN2s3SDF0aG8xRlZsaWs4MndzOW83U0tBOEVzRGR1WTRfQ014eENFWVdDQ1FiZVRIeEJwM2x0UnpLV202ZTNZcjRwaFhMU0xmQUxWd2FJU2l4YS1FS21z?oc=5
+- 公開日時: 2026-11-23 18:01:41 JST
+- 媒体: Prop News Time
+- URL: https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTnI2QXFZaVNWQlMyQlhLbndkQ2g0aElLaXhHQ3VVbHVIUjB3dXJ3bERuR3FyWnlKankyMlNaeHZ3d0VkVE1rZ3kxcndDRlBsY2tlczFtNUlmZGpBMEM5SC1SQ1EtWktUQUt1c1NULUdWZ3NnUU1oSFRTQUE4djNwc0JmSy1UckF2eENBd3F6Z3hEZWpKNzNlcFRwelBkYTRHWGcxMlY3OTdlemVKT19yOVBIem1KQktfNElzc3dhR1duQ09kR3B4ZG9jQXdBR1JVZURGQ2hDRU9pT3l0Z2N5RjhwZmxOY3VuTUE?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 4. SAP Sheds 2.1% in Global Tech Rout as CFO Flags AI Margin Drag and Customer Chief Plans Exit - ad-hoc-news.de
+## 4. India reinvents itself every year: SAP offshoring was just the beginning - E3-Magazin
 
-- 公開日時: 2026-11-22 03:41:25 JST
-- 媒体: ad-hoc-news.de
-- URL: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWmt2bnBDcnNVR2tsSkQwQTV2R184Q3A3T0FWZGllZndTYWd2V3BTUHFWZEt1dVhCZ3U2UEQzYzNPQ203Y1BPYXBVakM0ellCTUZ4RkhDNUVHWTgwamliYklObVJ3c05OYkFvRXRWZmtES19wUy1wWUx5RDFRSGlLX3dMZlFxeHU3ZFhuYjZ4SkRHcThMTlhBRzJteFBBTWFKQWR1UGNERnZsQVY0UUdwVjZuS1dfV0N4RVFvbEFZM09VVUJ4UXNXODV3SmZfSWhBSlR0RlVhajJZYW1rTlhsTDVmMTA1X3dDdVpCcjNWT3R4UjVIUHc?oc=5
+- 公開日時: 2026-11-23 17:49:25 JST
+- 媒体: E3-Magazin
+- URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmJGTEtsY1hSYnRfaHZxRUFkUXgzODVJVU5kemhjVU9YZkZpU0NQZjB4V09nZ0ViWE9hYVR0c01YX2FtRUJyQm5YYkZLQUkxWTBsa0lpakQ2TTdLR09BbzJ2TGNjbnV2NDEydkI0WFhWbXlvNDd2Mmxqdzc3YWFSVWpwVDlQVjFlb1NEUTVHZHhlZVNvd3hDZg?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 5. Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India'”
+
+- 公開日時: 2026-11-23 14:15:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
