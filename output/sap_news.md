@@ -1,66 +1,80 @@
-# SAPニュースまとめ（2026-11-24分 / JST基準）
+# SAPニュースまとめ（2026-11-25分 / JST基準）
 
-- 抽出件数: 9件
+- 抽出件数: 11件
 
-## 1. 【開催報告】AI時代の経営基盤に、いま何が必要か ～ AI-Readyな経営基盤をどう築くか。CFO主導で3年、PwC Japanグループが整えたAI活用の土台～ - SAP News Center
+## 1. RHONDOS Completes Acquisition of PowerConnect for SAP Solutions - Indovizka.com
 
-- 公開日時: 2026-11-24 21:46:39 JST
-- 媒体: SAP News Center
-- URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xZ1pUMmVKRERzLUNkdDFQSTlJQmlhUF9mbEpGVS05WW9JWHFwclJMRXE2TXN1NjhSdDdnNk4tVmtuaktGQi1TOFNxMEEzQzA3cmIxM0ZuRUpURjA?oc=5
+- 公開日時: 2026-11-25 23:22:36 JST
+- 媒体: Indovizka.com
+- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxNckY3WVZBTURfdnh0NFpoSUdxSzNYTG9Pa2lqR3dldURLMFhWMlRlSGN5Wm8xVktnQ1kxWjZpbGI5a2ZvbFh5N2tTdG5yai11eTlnUzdieFQtNFI3N2ItTXRwTk0ya0lFNGFET2xEcTk4NFpUN21KeFlmTlpicU96b2VRajFOT0VCWVpWNEZXLVhjYUV4U0VYV2xyNjRNeG1VMTVzLXZB?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 2. How the Atlas Copco Group Makes Skills Visible Throughout the Organization
+## 2. SAP S/4HANA移行の「落とし穴」2026 - 日経クロステック
 
-- 公開日時: 2026-11-24 21:15:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/11/how-atlas-copco-group-makes-skills-visible-throughout-organization/
-- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
-
-## 3. Less Code, More Context: How AI Is Reshaping the Developer Role - SAP News Center
-
-- 公開日時: 2026-11-24 20:25:12 JST
-- 媒体: SAP News Center
-- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxPbzRmMU1WdGYtUmJNb1ptanpJVFozUTVlNmw1eTRQTXV3cHpYUUxjSE1PaVlFLUFPZXdDSHgxdjAtOU9nUDk1QVNMdUFjRlVMZDBHMHp2dENuMTR0bXZJN2pHMEIwUmxyQ09IUGhBTjUySVZ3clNvMGF1bm50XzRkTlJmc3BhVTU2NVpLc2dGMzE?oc=5
-- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
-
-## 4. Less Code, More Context: How AI Is Reshaping the Developer Role
-
-- 公開日時: 2026-11-24 20:15:00 JST
-- 媒体: news.sap.com
-- URL: https://news.sap.com/2026/11/less-code-more-context-how-ai-is-reshaping-developer-role/
-- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
-
-## 5. SAP S/4HANA移行の「落とし穴」2026 - 日経クロステック
-
-- 公開日時: 2026-11-24 17:40:06 JST
+- 公開日時: 2026-11-25 20:40:15 JST
 - 媒体: 日経クロステック
 - URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YN2s3SDF0aG8xRlZsaWs4MndzOW83U0tBOEVzRGR1WTRfQ014eENFWVdDQ1FiZVRIeEJwM2x0UnpLV202ZTNZcjRwaFhMU0xmQUxWd2FJU2l4YS1FS21z?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 6. AWS と SAP のエージェント間（Agent-to-Agent）相互運用性 - Amazon Web Services
+## 3. AI Is Changing the First Job: Why Youth Employment Belongs on Every Business Agenda
 
-- 公開日時: 2026-11-24 15:51:26 JST
-- 媒体: Amazon Web Services
-- URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxPbkczWEY4VEhrSFlsal9JX3BnXzlVR1ktN0tMVkowZlp1azFuem1PQUxQOEhxeEk0dU8wVUZ3bm0tMldDS005ZlRlamplOWpleFV5QWYwaV8xRmNfelBnMmxjMmR0WlJZU2VpeGhpQTRoNV8yVmdIXzhzaWd5Ri03NG5KRnE?oc=5
+- 公開日時: 2026-11-25 20:15:00 JST
+- 媒体: news.sap.com
+- URL: https://news.sap.com/2026/11/ai-changing-first-job-youth-employment-business-agenda/
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 7. 「SAP NetWeaver」と「Apache Roller」で脆弱性悪用――今朝の情シスニュース - TechTargetジャパン
+## 4. From a Garage Project to a Billion-Dollar Business: The Rise of Open Source in the SAP Community - E3-Magazin
 
-- 公開日時: 2026-11-24 13:23:57 JST
-- 媒体: TechTargetジャパン
-- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUzlibGF5M2dWRkl4X09uTGViby1GREswOXd2alQ5X0hySzhoX2ZhMmRmSnJIRkNtb2ZzbUR5YTd6Zm94Tk9fSW9lc2ZzU0haMmZuTTY0ZGtfQ3VpVHdPVVVNemIzMmVaM0ZIMTdPeXA?oc=5
+- 公開日時: 2026-11-25 17:08:58 JST
+- 媒体: E3-Magazin
+- URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmx0NG5EZ3JXVjZwQ2tRM0J5b0VibVpENHVNQVFaNFlVT3loSnVRWHNVUklsS2JhSGEySWZUNm9qYngxQjVxZ0Q0clNMcU9VYnRjY2VEOVB1ZEhscHQtVVFDTEc1cmlTUjdZX2JnallHMnEzSWxaSHBWdXNqNlZzdmZtaVdTNGQ2SW5fNl9xb3F5MGFyOXFhQ3ZyREVkaWpqUXBYeld3Tm5kNGpyQTdEX18zSGQtbkl3?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 8. AI productivity gains to slow headcount, SAP CFO predicts - CFO Dive
+## 5. 日本総合住生活、SAP SuccessFactors® を活用した人事・給与管理プラットフォームを本稼働 - SAP News Center
 
-- 公開日時: 2026-11-24 06:38:12 JST
-- 媒体: CFO Dive
-- URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0daeXFxLWlHSnpDQ3N0RU5MUm9VaXNpVXU2YW5PSjJUZWFMaFl5VTlzNGgzZklCRDhNZnNzYTcweTRGaUR2UFh5RzNIczV2TzJrdWFhekxhbWRTcTgzdWttcUt5QjlrN1VEYmhSczJXcDZMbzFReGg2UTNDbm9DcDBlZXV4akNSVkIzbnJDSUVsUXVU?oc=5
+- 公開日時: 2026-11-25 13:46:08 JST
+- 媒体: SAP News Center
+- URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWxMUFQ3d245aVJyMVpLdV81eFljQWM4VkF6ay1oSjNOX1UwcEhhZDVzejJZa3lndklUTl9XTEgwLUJrTE1TQjhNUzFaM3RzaVFlekUwS0xDN2ppTFJYS00zSUFwbElIbFZhSHVNdzlfUjJETS15RlRJZlBSeDdvazFwaVFMRmpDQldRczZiMA?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
 
-## 9. Akshay Software Technologies Becomes Certified MyWave.ai Partner for SAP AI Solutions Across India - EIN News
+## 6. BeeX Research Memo（4）：クラウドソリューション事業を展開（2） - ｄメニューニュース
 
-- 公開日時: 2026-11-24 02:54:00 JST
-- 媒体: EIN News
-- URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMTBaX1loem90Vm0zR203Ym00MWZaWUZFZm13WUVVaEwyMXVyVjRtMnhDWEZoZ3FPTHdickpXTzlRdGhOU2NWVE1ZQW93cElNSl9hREdacVJVS0cwQndBUm1Yck93RU9WUEs3V29SYllqazN0TmJPNXZiQ090YU80VVBUSmpaUy16MF9NQ1RBSXZqcUcwNlRvTUQ4M3dvUjV1VEZKVUNYZDVWdXJ1M0Z0Zk43bE1YOFF3d1lMX1BTZENPNjRjUTk0UnREQno3MHJnWEhoNnRLRQ?oc=5
+- 公開日時: 2026-11-25 11:04:00 JST
+- 媒体: ｄメニューニュース
+- URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxOYk1oeTZVenczd1VRVndNMzVkVHpzRUhwdVdlN3RybTlMMVZxMXlQS1Bwc29mS1BCVzZFdW11VWtIQ0dhQVN0NkRFUm9VX3ZhQlRlSExDc0RwcVhOX3BCV1pYRnF5LTd5aHJNZHF5UU1rcnhSWXNnNlVfOGhaOGU3SzJLN3BhZ2fSAYwBQVVfeXFMTWhHbVJObjU0enRzVS1rNE01dk5TWXEwNE9SUzNleGhWZFFjU3dFc2Z1bjdJdlhkSmRyaHF0Mk9FMkE2T0dvaHBieFNDUG5fNkhfeTFtMlZtMTVsZzd2Mk5qUkJsTl9FSGNfOUlKblFOR1NweVhUaUlKaUJXQnVidTRqNnl2YnhtX1BZTF8?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 7. PT Pan Brothers Tbk Advances Smart Manufacturing with More Resilient SAP Operations from Rimini Street - 01net
+
+- 公開日時: 2026-11-25 09:35:00 JST
+- 媒体: 01net
+- URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2pYOWQ0VzFPX3ZlMkxKY1g3VF95OTdsbDdVcU5JZzNJLUdNMW9ITnhCdEhuenIxTnIwNHJyWTFmZTRaOWRHejd2NGtUMTZWMHg0MjhLSkRvejE4WS0zdVJMeUtIV2w0NGF2QS1ocUpQMHhPQWNnRzBjb29tOUpyRjU0clJUOWoySVZEYjh0c2w2bG5jNkRaYjAyRXFiMnQ3dDVJU2xINHZXejRpXzZJbFpOcnl4UThMUkNNcXJSZHB4QQ?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 8. Pan Brothers turns to Rimini Street for SAP support - ChannelLife Australia
+
+- 公開日時: 2026-11-25 08:41:00 JST
+- 媒体: ChannelLife Australia
+- URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTJNVjUwd3dWNDIwTHRDSVU3MnZrT3hHbVM0UkFpUHg0WUt2a2FoNFg4MlU3RnJIa2owUmN6WHFhMlZDSnozZHRGdmdWQThid2NCRzdDU1VkRDZEbHdvaDFHOHQ1NTVGYmR4NDYzZ2JKLW1CSkNvcm9OOG1NTlJJZ2o1cllOSVIxLVBqNw?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 9. S/4HANAのつまずきどころ - 日経クロステック
+
+- 公開日時: 2026-11-25 07:00:00 JST
+- 媒体: 日経クロステック
+- URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Mbmd4WmdlT0FTNjQxMEhOM0I0c25OQUkzZWJLXzFIYWttMlJZTmxYYXNzeEZmclh2OVJaSkkwckFBNm5BazBqTXdWNTRCaU4ycHR1c1hxazg1dmpDSGZvVGpoSGE?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 10. PT Pan Brothers Tbk Advances Smart Manufacturing with More Resilient SAP Operations from Rimini Street - The Joplin Globe
+
+- 公開日時: 2026-11-25 06:35:54 JST
+- 媒体: The Joplin Globe
+- URL: https://news.google.com/rss/articles/CBMirgJBVV95cUxOek9XWmQ0VjVUS2pUSXFvd0x3bENFN0RkbjFSbGFpTG9ESUhaRFVGSmpnODhoN0F0Y1R3MGhXQ3U2Y0FFelp4UEhFNXpEOTBYcUp1aGdKUXdXeDNWN3I5Y0RNR3k5UWhUUW5UTFFCTHctS0tsaXJSWG1fOU0xblNVdFJ6X2JZdnBEUHM5bkF3M0dMTUpzNnAwMG5WOUZRb0JhY0dPQ01KT2RCSFp4UGFtaG5sSnJ2aGtRbU5BN1QtUEtSc3JuQlJtZ0J4S1Eya1k5b2hTVkF1RFJPTTQxZU1MYTljeTZvT1RQTGVySWNYbm9XMlFRV01WRC1LZVB4eTY4SDNRdlg4QVhDcG00dHV4MjJheHJER1RiWmJMTUl4MDd0cW9iWTFEeHZrUGQ1Zw?oc=5
+- 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
+
+## 11. PT Pan Brothers Tbk Advances Smart Manufacturing with More Resilient SAP Operations from Rimini Street - Business Wire
+
+- 公開日時: 2026-11-25 06:35:00 JST
+- 媒体: Business Wire
+- URL: https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSTRwOFdRSWdZbHVIU21PQXJPaGtyRVV3Z1pQd1JhUkNpd0N1Y1MzeFJLM2xfWnplZVAxTDNTNV9HNHVDcldBMWdBRXRhZGR1X01RTlI1NUszTHZ6ODNGUDhVT2J2ZEJqOUNMWnFUVHlKLUItMm9tdkRYSzJMVElWSTF4OE5tMjZVU1VsS2lJeERDeWxCbk1WakNLVXVUQlBBOXpjN29QVktfazFRNU1XTnJIaVN2LWdGNmprZjA1Smp1cXhfOGZBYW5lbDhsYl9IWjg1bExYZ25BMl92dExKd2plRW1FaHZyLUFWNmRtMVA?oc=5
 - 日本語要約: 要約生成エラー: Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.
